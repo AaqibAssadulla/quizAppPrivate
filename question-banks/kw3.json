@@ -1,0 +1,500 @@
+{
+    "title": "Practice Theory Test (week-3)",
+    "questions": [
+        {
+            "id": "q3_1",
+            "text": "What is cloud?",
+            "options": [
+                {"id": "a", "text": "Cloud refers to a Network or Internet"},
+                {"id": "b", "text": "Cloud is something, which is present at remote location"},
+                {"id": "c", "text": "Cloud can provide services over network"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_2",
+            "text": "Which of the services can provide by cloud?",
+            "options": [
+                {"id": "a", "text": "Storage"},
+                {"id": "b", "text": "Infrastructure"},
+                {"id": "c", "text": "Application"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_3",
+            "text": "Which Cloud deployment model provides increased security?",
+            "options": [
+                {"id": "a", "text": "Public Cloud"},
+                {"id": "b", "text": "Private Cloud"},
+                {"id": "c", "text": "Hybrid Cloud"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_4",
+            "text": "Which is a Cloud service model?",
+            "options": [
+                {"id": "a", "text": "IaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "SaaS"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_5",
+            "text": "Which Cloud service provides the runtime environment for applications, development & deployment tools?",
+            "options": [
+                {"id": "a", "text": "IaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "SaaS"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_18",
+            "text": "For a 99.99% SLA, total downtime may be:",
+            "options": [
+                {"id": "a", "text": "52.56 minutes per year"},
+                {"id": "b", "text": "4.32 minutes per month"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_19",
+            "text": "What is NOT TRUE about V-Sanghasti service?",
+            "options": [
+                {"id": "a", "text": "It’s ready to use infrastructure"},
+                {"id": "b", "text": "Rapid connectivity"},
+                {"id": "c", "text": "Ease of use"},
+                {"id": "d", "text": "Higher cost of ownership"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_20",
+            "text": "Which one of the followings is NOT a Major application of V-Sanghasti?",
+            "options": [
+                {"id": "a", "text": "E-commerce"},
+                {"id": "b", "text": "Product Launch & Demonstrations"},
+                {"id": "c", "text": "Project & Sales Reviews Team Building"},
+                {"id": "d", "text": "Access to Remote Experts"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_21",
+            "text": "BSNL Managed Public Room Video Collaboration service (MPRVCS) will be provided by:",
+            "options": [
+                {"id": "a", "text": "M/s Presto Info Solutions Pvt. Ltd"},
+                {"id": "b", "text": "M/s Echelon Edge"},
+                {"id": "c", "text": "M/s HFCL"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_22",
+            "text": "What is NOT TRUE about V-Sanghasti service?",
+            "options": [
+                {"id": "a", "text": "Time over runs will be permitted provided no other VC scheduled in the next slot."},
+                {"id": "b", "text": "Time over runs will be charged in units of 15 minutes."},
+                {"id": "c", "text": "VC booking will be confirmed within 4 working hours, after receiving booking from the customers."},
+                {"id": "d", "text": "Chargeable unit will be of 30 minutes."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_23",
+            "text": "What is NOT TRUE about Enterprise Broadband configuration?",
+            "options": [
+                {"id": "a", "text": "VPI=0, VCI=35"},
+                {"id": "b", "text": "Virtual circuits are created for a specific service"},
+                {"id": "c", "text": "Service category should be ‘UBR with PCR’"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_31",
+            "text": "When called subscriber is not found in C5 DB, call will land on Default Route Device:",
+            "options": [
+                {"id": "a", "text": "Route pattern"},
+                {"id": "b", "text": "Default route pattern"},
+                {"id": "c", "text": "Route Device"},
+                {"id": "d", "text": "Default Route Device"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_32",
+            "text": "Administrator normally creates:",
+            "options": [
+                {"id": "a", "text": "Super"},
+                {"id": "b", "text": "Operators"},
+                {"id": "c", "text": "Subscriber"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_33",
+            "text": "When MAX NG subscriber is to create, it is to click on to _______ in Subscriber Management:",
+            "options": [
+                {"id": "a", "text": "Add instance under subscriber"},
+                {"id": "b", "text": "Add subscriber under subscriber"},
+                {"id": "c", "text": "Add number under subscriber"},
+                {"id": "d", "text": "Add user under SIP user"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_34",
+            "text": "To use any specific MAX NG service, the password used by the subscriber is known as:",
+            "options": [
+                {"id": "a", "text": "Reg. password"},
+                {"id": "b", "text": "Mediator password"},
+                {"id": "c", "text": "Access password"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_35",
+            "text": "For super login in MAX NG, what is the password?",
+            "options": [
+                {"id": "a", "text": "super654"},
+                {"id": "b", "text": "SSsuper1654"},
+                {"id": "c", "text": "sssuper1654"},
+                {"id": "d", "text": "SSsuper654"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_36",
+            "text": "BSNL has announced a long term partnership with _____ to launch BSNL Managed SaaS in India:",
+            "options": [
+                {"id": "a", "text": "Microsoft"},
+                {"id": "b", "text": "Google"},
+                {"id": "c", "text": "Linux"},
+                {"id": "d", "text": "XGENPLUS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_37",
+            "text": "Full form of IaaS:",
+            "options": [
+                {"id": "a", "text": "Internet as a Service"},
+                {"id": "b", "text": "Infrastructure as a Service"},
+                {"id": "c", "text": "Infrastructure as a Software"},
+                {"id": "d", "text": "Intranet as a Service"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_38",
+            "text": "BSNL managed hosted email services has been launched by:",
+            "options": [
+                {"id": "a", "text": "Google"},
+                {"id": "b", "text": "Linux"},
+                {"id": "c", "text": "XGENPLUS"},
+                {"id": "d", "text": "SAP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_39",
+            "text": "Bulk Deal means (i) 2000+ Mail Boxes (ii) contract 3 years and (iii):",
+            "options": [
+                {"id": "a", "text": "1 Year upfront payment to BSNL"},
+                {"id": "b", "text": "2 Year upfront payment to BSNL"},
+                {"id": "c", "text": "3 Year upfront payment to BSNL"},
+                {"id": "d", "text": "1/2 Year upfront payment to BSNL"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_40",
+            "text": "What are the types of various Business models:",
+            "options": [
+                {"id": "a", "text": "Consortium Model"},
+                {"id": "b", "text": "Hybrid model"},
+                {"id": "c", "text": "Both (a) & (b)"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_41",
+            "text": "Currently, there are _____ subsea cables landing in cable landing stations in ___ cities:",
+            "options": [
+                {"id": "a", "text": "20 & 5"},
+                {"id": "b", "text": "15 & 5"},
+                {"id": "c", "text": "15 & 15"},
+                {"id": "d", "text": "10 & 5"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_51",
+            "text": "What is the PTZ camera?",
+            "options": [
+                {"id": "a", "text": "PANASONIC, Tilt & ZOOM camera"},
+                {"id": "b", "text": "PANORAMIC, Tilt & ZOOM camera"},
+                {"id": "c", "text": "PANOGRAPHIC, Tilt & ZOOM camera"},
+                {"id": "d", "text": "PAN, Tilt & ZOOM camera"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_59",
+            "text": "Which is/are the good option for the business focused on services and delivering solutions?",
+            "options": [
+                {"id": "a", "text": "Managed colocation service"},
+                {"id": "b", "text": "Cloud-based service"},
+                {"id": "c", "text": "On premises network service"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_60",
+            "text": "Managed colocation gives the clients:",
+            "options": [
+                {"id": "a", "text": "Full control over their infrastructure"},
+                {"id": "b", "text": "Partial control over their infrastructure"},
+                {"id": "c", "text": "Only remote access to their infrastructure"},
+                {"id": "d", "text": "Service provider retain all the control"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_61",
+            "text": "Power available in Managed collocation services:",
+            "options": [
+                {"id": "a", "text": "Up to 1.5 KVA"},
+                {"id": "b", "text": "Up to 10 KVA"},
+                {"id": "c", "text": "Up to 2.5 KVA"},
+                {"id": "d", "text": "Up to 5 KVA"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_73",
+            "text": "Monthly tariff for Plan-I of web collocation service:",
+            "options": [
+                {"id": "a", "text": "Rs 4000/-"},
+                {"id": "b", "text": "Rs 5000/-"},
+                {"id": "c", "text": "Rs 6000/-"},
+                {"id": "d", "text": "Rs 7000/-"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_74",
+            "text": "Free data transfer per month in Plan-III of web collocation service:",
+            "options": [
+                {"id": "a", "text": "100 GB"},
+                {"id": "b", "text": "200 GB"},
+                {"id": "c", "text": "500 GB"},
+                {"id": "d", "text": "600 GB"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_75",
+            "text": "For 2-4 number of 42U BSNL provides discount of:",
+            "options": [
+                {"id": "a", "text": "2%"},
+                {"id": "b", "text": "3%"},
+                {"id": "c", "text": "5%"},
+                {"id": "d", "text": "10%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_76",
+            "text": "BSNL Fleet Management service is known as:",
+            "options": [
+                {"id": "a", "text": "Online Track"},
+                {"id": "b", "text": "eTrack"},
+                {"id": "c", "text": "sTrack"},
+                {"id": "d", "text": "cTrack"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_77",
+            "text": "Features of eTrack system is/are:",
+            "options": [
+                {"id": "a", "text": "No driver intervention"},
+                {"id": "b", "text": "Automatic Real time system."},
+                {"id": "c", "text": "Vehicle information available 24 X 7"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_82",
+            "text": "FEC stands for:",
+            "options": [
+                {"id": "a", "text": "Forward Equivalent Class"},
+                {"id": "b", "text": "Forward Error Correction"},
+                {"id": "c", "text": "First Equivalent Class"},
+                {"id": "d", "text": "Fast Error Correction"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_83",
+            "text": "Cloud computing and working in the cloud refer to performing computer tasks using services delivered:",
+            "options": [
+                {"id": "a", "text": "Entirely over the Internet"},
+                {"id": "b", "text": "Entirely over the Leased Line"},
+                {"id": "c", "text": "Entirely over the VPN"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_84",
+            "text": "VDI stands for:",
+            "options": [
+                {"id": "a", "text": "Virtual Delivery Infra"},
+                {"id": "b", "text": "Virtual Delivery Identity"},
+                {"id": "c", "text": "Virtual Desktop Infra"},
+                {"id": "d", "text": "Virtual Desktop Identity"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_85",
+            "text": "802.11a support maximum speed of:",
+            "options": [
+                {"id": "a", "text": "11 Mbps"},
+                {"id": "b", "text": "54 Mbps"},
+                {"id": "c", "text": "100 Mbps"},
+                {"id": "d", "text": "200 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_86",
+            "text": "802.11b support maximum speed of:",
+            "options": [
+                {"id": "a", "text": "11 Mbps"},
+                {"id": "b", "text": "54 Mbps"},
+                {"id": "c", "text": "100 Mbps"},
+                {"id": "d", "text": "200 Mbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_87",
+            "text": "802.11n operates in _____ frequency:",
+            "options": [
+                {"id": "a", "text": "2.4 GHz"},
+                {"id": "b", "text": "5 GHz"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "None of a or b"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_88",
+            "text": "Which modulation is/are used in WiFi?",
+            "options": [
+                {"id": "a", "text": "FHSS"},
+                {"id": "b", "text": "DSSS"},
+                {"id": "c", "text": "OFDM"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_89",
+            "text": "WEP support:",
+            "options": [
+                {"id": "a", "text": "64 Bit encryption"},
+                {"id": "b", "text": "128 Bit encryption"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "192 Bit encryption"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_90",
+            "text": "IoT stands for:",
+            "options": [
+                {"id": "a", "text": "Internet of Things"},
+                {"id": "b", "text": "Internet of Technology"},
+                {"id": "c", "text": "Internet over Telecom"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_91",
+            "text": "ICT stands for:",
+            "options": [
+                {"id": "a", "text": "Internet and Communication Technology"},
+                {"id": "b", "text": "Information and Communication Technology"},
+                {"id": "c", "text": "Internet Common Things"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3_92",
+            "text": "IoT adds ________ dimension to the ICT:",
+            "options": [
+                {"id": "a", "text": "Any time communication"},
+                {"id": "b", "text": "Any place communication"},
+                {"id": "c", "text": "Any thing communication"},
+                {"id": "d", "text": "Any way communication"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3_93",
+            "text": "Which is the minimum requirement of a device used in IoT?",
+            "options": [
+                {"id": "a", "text": "Network Connectivity"},
+                {"id": "b", "text": "Sensing unit"},
+                {"id": "c", "text": "Actuating unit"},
+                {"id": "d", "text": "Software"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3_94",
+            "text": "Identify the correct statement:",
+            "options": [
+                {"id": "a", "text": "IoT devices can be connected through gateway"},
+                {"id": "b", "text": "IoT devices can be connected without gateway"},
+                {"id": "c", "text": "IoT devices can be connected directly"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3_95",
+            "text": "Identify the IoT business role:",
+            "options": [
+                {"id": "a", "text": "Device provider"},
+                {"id": "b", "text": "Network provider"},
+                {"id": "c", "text": "Platform provider"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        }
+    ]
+}

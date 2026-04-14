@@ -1,0 +1,236 @@
+{
+    "title": "Practice Theory Test (week-6)",
+    "questions": [
+        {
+            "id": "q6_1",
+            "text": "NOFN is proposed to provide:",
+            "options": [
+                {"id": "a", "text": "2.7 Lakh GPs"},
+                {"id": "b", "text": "2.5 lakh GPs"},
+                {"id": "c", "text": "2.4 Lakh GPs"},
+                {"id": "d", "text": "2.55 Lakh GPs"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_2",
+            "text": "The estimated cost of the NFS project is:",
+            "options": [
+                {"id": "a", "text": "Rs 13,331 cr"},
+                {"id": "b", "text": "Rs 13,332 cr"},
+                {"id": "c", "text": "Rs 13,333 cr"},
+                {"id": "d", "text": "Rs 13,334 cr"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6_3",
+            "text": "HONT consists of:",
+            "options": [
+                {"id": "a", "text": "2X100 Mbps Ethernet Port and 4 Telephone Ports."},
+                {"id": "b", "text": "4X100 Mbps Ethernet Port and 2 Telephone Ports."},
+                {"id": "c", "text": "4X100 Mbps Ethernet Port and 1 Telephone Ports."},
+                {"id": "d", "text": "4X100 Mbps Ethernet Port and 4 Telephone Ports."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_4",
+            "text": "NKN Services are categorized into three major categories:",
+            "options": [
+                {"id": "a", "text": "Cloud based Services"},
+                {"id": "b", "text": "Network Oriented Services"},
+                {"id": "c", "text": "Application Services"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6_5",
+            "text": "Which of the following is NOT a dimension of an SLA?",
+            "options": [
+                {"id": "a", "text": "It is exactly what one might expect."},
+                {"id": "b", "text": "It specifies the Quality of Service (QoS) one desires."},
+                {"id": "c", "text": "It is to minimize cost."},
+                {"id": "d", "text": "A service provider gives a set of Service Level Guarantees (SLG)."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6_6",
+            "text": "Jitter should be maintained less than:",
+            "options": [
+                {"id": "a", "text": "5 mili second"},
+                {"id": "b", "text": "25 mili second"},
+                {"id": "c", "text": "5 micro second"},
+                {"id": "d", "text": "25 micro second"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_7",
+            "text": "BSNL normally offers uptime not lesser than:",
+            "options": [
+                {"id": "a", "text": "98%"},
+                {"id": "b", "text": "99%"},
+                {"id": "c", "text": "99.9%"},
+                {"id": "d", "text": "99.99%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_8",
+            "text": "Packet loss allowed in maximum is:",
+            "options": [
+                {"id": "a", "text": "2%"},
+                {"id": "b", "text": "1%"},
+                {"id": "c", "text": "0.50%"},
+                {"id": "d", "text": "0.10%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_9",
+            "text": "In case BSNL is the lead bidder, Corporate Office shall provide approval if the estimated bid value is greater than INR:",
+            "options": [
+                {"id": "a", "text": "50 Cr."},
+                {"id": "b", "text": "75 Cr."},
+                {"id": "c", "text": "100 Cr."},
+                {"id": "d", "text": "200 Cr."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6_18",
+            "text": "Full form of ARPU is:",
+            "options": [
+                {"id": "a", "text": "average rupees per user"},
+                {"id": "b", "text": "average rate per user"},
+                {"id": "c", "text": "average return per user"},
+                {"id": "d", "text": "average revenue per user"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6_19",
+            "text": "The global telecom enterprise services market is anticipated to ________ at a steady pace during the forecast period.",
+            "options": [
+                {"id": "a", "text": "Shrink"},
+                {"id": "b", "text": "grow"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_25",
+            "text": "Which of the following is not a project management feature?",
+            "options": [
+                {"id": "a", "text": "A defined Goal"},
+                {"id": "b", "text": "Day to day operation of a policy"},
+                {"id": "c", "text": "Time & Cost constraints"},
+                {"id": "d", "text": "Unique scope of work"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_26",
+            "text": "What is the sequence of the project management life cycle?",
+            "options": [
+                {"id": "a", "text": "Initiation – Need identification - Planning - Execution - Close out"},
+                {"id": "b", "text": "Planning – Need identification – Initiation - Execution - Close out"},
+                {"id": "c", "text": "Need identification - Initiation - Planning - Execution - Close out"},
+                {"id": "d", "text": "Need identification – Planning - Initiation - Execution - Close out"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6_27",
+            "text": "Full form of PERT:",
+            "options": [
+                {"id": "a", "text": "Performance Error & Review Technique"},
+                {"id": "b", "text": "Program Evaluation & Review Technique"},
+                {"id": "c", "text": "Program Error & Review Technique"},
+                {"id": "d", "text": "Performance Evaluation & Review Technique"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_28",
+            "text": "Project completion time with the highest possibility is:",
+            "options": [
+                {"id": "a", "text": "Optimistic time"},
+                {"id": "b", "text": "Pessimistic time"},
+                {"id": "c", "text": "Most Likely time"},
+                {"id": "d", "text": "Expected time"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6_29",
+            "text": "Main Partner of the USOF project:",
+            "options": [
+                {"id": "a", "text": "BSNL"},
+                {"id": "b", "text": "BBNL"},
+                {"id": "c", "text": "TATA"},
+                {"id": "d", "text": "RIL"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q6_30",
+            "text": "WCL project run by BSNL is:",
+            "options": [
+                {"id": "a", "text": "Implementation Wi-Fi Hotspot"},
+                {"id": "b", "text": "Implementation of MPLS based VPN Managed Network service"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_40",
+            "text": "NSAPs Connectivity is based on the concept of:",
+            "options": [
+                {"id": "a", "text": "Media"},
+                {"id": "b", "text": "Addressing"},
+                {"id": "c", "text": "Policy"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_41",
+            "text": "SDWAN offers the facility to use:",
+            "options": [
+                {"id": "a", "text": "Single transport network"},
+                {"id": "b", "text": "Multiple transport network"},
+                {"id": "c", "text": "Fixed transport network"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6_42",
+            "text": "SDWAN users/resources are connected to:",
+            "options": [
+                {"id": "a", "text": "Edge node"},
+                {"id": "b", "text": "Hub"},
+                {"id": "c", "text": "Gateway"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q6_50",
+            "text": "Debriefing of submission is issued for ________ tender:",
+            "options": [
+                {"id": "a", "text": "Successful"},
+                {"id": "b", "text": "unsuccessful"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}

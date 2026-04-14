@@ -1,0 +1,330 @@
+{
+    "title": "Practice Theory Test (week-2)",
+    "questions": [
+        {
+            "id": "q2_1",
+            "text": "How many B channels (Speech Channels) are there in PRA?",
+            "options": [
+                {"id": "a", "text": "30"},
+                {"id": "b", "text": "16"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "2"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_2",
+            "text": "In ISDN, the 'D' channel speed may be ….. Kbps.",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "64"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_3",
+            "text": "For outgoing call (to call outside the Centrex group), it is to dial ……… to get normal dial tone.",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "6"},
+                {"id": "d", "text": "9"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_10",
+            "text": "Which of the following is not an advantage of IN?",
+            "options": [
+                {"id": "a", "text": "Introduce new services rapidly"},
+                {"id": "b", "text": "Provide service customization"},
+                {"id": "c", "text": "Establish vendor dependence"},
+                {"id": "d", "text": "Create open interfaces"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_11",
+            "text": "Which of the following is not a network element of IN Platform?",
+            "options": [
+                {"id": "a", "text": "SSP"},
+                {"id": "b", "text": "SAP"},
+                {"id": "c", "text": "SCP"},
+                {"id": "d", "text": "SMP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2_12",
+            "text": "Which of the following televoting number is used for no charge to voter?",
+            "options": [
+                {"id": "a", "text": "1803-424-ABCD-XY"},
+                {"id": "b", "text": "1861-424-ABCD-XY"},
+                {"id": "c", "text": "1862-424-ABCD-XY"},
+                {"id": "d", "text": "None of the options is true"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_18",
+            "text": "Full form of EFM is:",
+            "options": [
+                {"id": "a", "text": "Ethernet in the last make"},
+                {"id": "b", "text": "Ethernet in the last mile"},
+                {"id": "c", "text": "Ethernet in the latest mile"},
+                {"id": "d", "text": "Internet in the last mile"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2_19",
+            "text": "Security Deposit (Refundable) _________ per NTU:",
+            "options": [
+                {"id": "a", "text": "Rs. 15,000/-"},
+                {"id": "b", "text": "Rs. 11,000/-"},
+                {"id": "c", "text": "Rs. 10,000/-"},
+                {"id": "d", "text": "Rs. 12,000/-"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_20",
+            "text": "Regulatory bodies namely __________________ can connect to any of these MLLN CUGs without extra charge:",
+            "options": [
+                {"id": "a", "text": "Reserve Bank of India (RBI) and Securities & Exchange Board of India (SEBI)"},
+                {"id": "b", "text": "Reserve Bank of India (RBI) and State bank of India (SBI)"},
+                {"id": "c", "text": "State Bank of India (SBI) and Securities & Exchange Board of India (SEBI)"},
+                {"id": "d", "text": "Reserve Bank of India (RBI) and Securities & Exchange Branch of India (SEBI)"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_21",
+            "text": "5GHz spectrum use for wireless bridge is:",
+            "options": [
+                {"id": "a", "text": "Light licensed and used for links up to 1Gbps"},
+                {"id": "b", "text": "licensed exempt and used for links of <300Mbps"},
+                {"id": "c", "text": "Light licensed and used for links of >300Mbps"},
+                {"id": "d", "text": "licensed exempt and used for links of >300Mbps"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_22",
+            "text": "Advantages of Bharat AIR Fiber are:",
+            "options": [
+                {"id": "a", "text": "Quick & Easy implementation with very less set up time"},
+                {"id": "b", "text": "Low maintenance cost"},
+                {"id": "c", "text": "Eliminate the requirements for expensive wiring"},
+                {"id": "d", "text": "All of the above."}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_23",
+            "text": "The dark fiber on BBNL'S OFC (Incremental cable) is offered to service providers, government agencies etc at a uniform rate of_______________:",
+            "options": [
+                {"id": "a", "text": "Rs 2750/- per fiber per Km per annum"},
+                {"id": "b", "text": "Rs 2550/- per fiber per Km per annum"},
+                {"id": "c", "text": "Rs 2220/- per fiber per Km per annum"},
+                {"id": "d", "text": "Rs 2250/- per fiber per Km per annum"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_24",
+            "text": "BSNL Bizcom 1024 give the features like:",
+            "options": [
+                {"id": "a", "text": "SLA-99% Uptime"},
+                {"id": "b", "text": "ISDN Backup"},
+                {"id": "c", "text": "Only 24*7 Telephonic Support"},
+                {"id": "d", "text": "None of the above."}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_25",
+            "text": "When the participant is joining the conference from within India, for access through Toll Free numbers usage Charges/minute/participant is:",
+            "options": [
+                {"id": "a", "text": "Rs. 2.50/-"},
+                {"id": "b", "text": "Rs. 3.75/-"},
+                {"id": "c", "text": "Rs. 2.70/-"},
+                {"id": "d", "text": "Rs. 3.50/-"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2_26",
+            "text": "___________ Data Center infrastructure guaranteeing 99.982% availability:",
+            "options": [
+                {"id": "a", "text": "Tier Level 1"},
+                {"id": "b", "text": "Tier Level 2"},
+                {"id": "c", "text": "Tier Level 3"},
+                {"id": "d", "text": "Tier Level 4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_27",
+            "text": "BUC in outdoor Unit of a VSAT converts:",
+            "options": [
+                {"id": "a", "text": "IF to RF"},
+                {"id": "b", "text": "RF to IF"},
+                {"id": "c", "text": "IF to Baseband Signal"},
+                {"id": "d", "text": "Baseband signal to IF"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_28",
+            "text": "VSAT Broadband Ku HUB situated at:",
+            "options": [
+                {"id": "a", "text": "Pune"},
+                {"id": "b", "text": "Sikanderabad"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Bangalore"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_29",
+            "text": "Receive chain of DSPT Hub outdoor unit consists of:",
+            "options": [
+                {"id": "a", "text": "SSPA"},
+                {"id": "b", "text": "ULPC"},
+                {"id": "c", "text": "LNA"},
+                {"id": "d", "text": "None of the above."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_30",
+            "text": "The Enterprise Broadband services option are:",
+            "options": [
+                {"id": "a", "text": "Wi-fi"},
+                {"id": "b", "text": "DSL Broadband/ FTTH Broadband"},
+                {"id": "c", "text": "VPN"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_31",
+            "text": "Which is true for overlay VPN model?",
+            "options": [
+                {"id": "a", "text": "The service provider provides the customer with L3 routing."},
+                {"id": "b", "text": "The service provider provides the customer with a set of emulated leased lines."},
+                {"id": "c", "text": "The CE router is provided and maintained by service provider."},
+                {"id": "d", "text": "PE router directly exchanges routing information with the CE router"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2_37",
+            "text": "Full form of IFMC:",
+            "options": [
+                {"id": "a", "text": "In-Flight and Marine Connectivity"},
+                {"id": "b", "text": "International Flight and Marine Connectivity"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_38",
+            "text": "BSNL is approved to offer IFMC services, which will include:",
+            "options": [
+                {"id": "a", "text": "Global Xpress (Ka-band) services"},
+                {"id": "b", "text": "Swift Broadband services"},
+                {"id": "c", "text": "Fleet Broadband (L-band) services"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_39",
+            "text": "Multicast forwarding state is written in which notation?",
+            "options": [
+                {"id": "a", "text": "(*,G)"},
+                {"id": "b", "text": "(S,G)"},
+                {"id": "c", "text": "Both A & B"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_40",
+            "text": "In Which mode of PIM, the assumption is that very few of the possible receivers want packets from each source?",
+            "options": [
+                {"id": "a", "text": "PIM Dense Mode"},
+                {"id": "b", "text": "PIM Bi-directional Mode"},
+                {"id": "c", "text": "PIM Sparse Mode"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2_41",
+            "text": "With the emergence of Multicast VPN (MVPN) technology, the service providers use the multicast services to transmit data packets in the core network over an MPLS Network.",
+            "options": [
+                {"id": "a", "text": "True"},
+                {"id": "b", "text": "False"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_42",
+            "text": "Internet Leased Line is a ______ connection:",
+            "options": [
+                {"id": "a", "text": "Dedicated"},
+                {"id": "b", "text": "Fixed bandwidth"},
+                {"id": "c", "text": "Reliable"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2_43",
+            "text": "ILL has _____ Latency and Jitter compared to conventional Internet:",
+            "options": [
+                {"id": "a", "text": "Low"},
+                {"id": "b", "text": "High"},
+                {"id": "c", "text": "Same"},
+                {"id": "d", "text": "Moderate"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_44",
+            "text": "CAPEX and OPEX of ILL is _______ than MPLS:",
+            "options": [
+                {"id": "a", "text": "Less"},
+                {"id": "b", "text": "Higher"},
+                {"id": "c", "text": "Same"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2_49",
+            "text": "In the context of eSBM platform, what does SWM stand for?",
+            "options": [
+                {"id": "a", "text": "Special Waste Meter"},
+                {"id": "b", "text": "Solid Waste Management"},
+                {"id": "c", "text": "Solid Waste Meter"},
+                {"id": "d", "text": "Special Water Management"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2_50",
+            "text": "Which type of Modulation is used in Radio Modem?",
+            "options": [
+                {"id": "a", "text": "FHSS"},
+                {"id": "b", "text": "DSSS"},
+                {"id": "c", "text": "Both A & B"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        }
+    ]
+}

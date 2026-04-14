@@ -1,0 +1,555 @@
+{
+    "title": "Practice Theory Test (week-1)",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "Which one is true for Sales funnel?",
+            "options": [
+                {"id": "a", "text": "Sales funnel has leads as inputs and customers as the output."},
+                {"id": "b", "text": "Sales funnel has prospective customers as input and leads as the output."},
+                {"id": "c", "text": "Sales funnel has target customer as input and prospective customers as the output."},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "Achieving profitable and sustainable growth of enterprise business by creating sales policy & strategy for platinum enterprise customers and monitoring:",
+            "options": [
+                {"id": "a", "text": "GM (Enterprise Business – City) – Ent:"},
+                {"id": "b", "text": "GM (Enterprise Business – I) – Ent:"},
+                {"id": "c", "text": "GM (Enterprise Business – II) – Ent:"},
+                {"id": "d", "text": "Executive Director (Core Network) – Ent:"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "Annual turnover of a enterprise customer is Rs.500/- crore. He will be considered as …",
+            "options": [
+                {"id": "a", "text": "Platinum customer"},
+                {"id": "b", "text": "Gold customer"},
+                {"id": "c", "text": "Silver customer"},
+                {"id": "d", "text": "Cupper customer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q4",
+            "text": "Choose the most appropriate option for grooming & presentation:",
+            "options": [
+                {"id": "a", "text": "Appearance"},
+                {"id": "b", "text": "Actions"},
+                {"id": "c", "text": "Words"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q5",
+            "text": "In CORPORATE GROOMING, you shall:",
+            "options": [
+                {"id": "a", "text": "MAKE FOR YOURSELF A REPUTATION AS A SLOB."},
+                {"id": "b", "text": "MAKE WRONGFUL USE OF COLOURS, CUTS AND SIZES"},
+                {"id": "c", "text": "SHALL NOT COVET THE NEIGHBOR'S STYLE"},
+                {"id": "d", "text": "BEAR FALSE FASHION LABELS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6",
+            "text": "TYPICALLY, AN EFFECTIVE PRESENTATION HAS FOUR PARTS: which option is NOT one of these parts?",
+            "options": [
+                {"id": "a", "text": "Segregate"},
+                {"id": "b", "text": "Recap"},
+                {"id": "c", "text": "Solution details"},
+                {"id": "d", "text": "Credentials"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7",
+            "text": "Enterprise Customers are important because they:",
+            "options": [
+                {"id": "a", "text": "contribute large revenue"},
+                {"id": "b", "text": "consume large number of services from telecom segment"},
+                {"id": "c", "text": "constitute highly demanding customers"},
+                {"id": "d", "text": "All options are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q8",
+            "text": "Enterprise Portal is a web based application which can be accessed by navigating to:",
+            "options": [
+                {"id": "a", "text": "http//:ebonline.bsnl.co.in."},
+                {"id": "b", "text": "http//:ebportal.bsnl.co.in."},
+                {"id": "c", "text": "http//:ebportal@bsnl.co.in."},
+                {"id": "d", "text": "http//:ebsite.bsnl.co.in."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q9",
+            "text": "Which ITEM is not available in the System menu of the EB Portal?",
+            "options": [
+                {"id": "a", "text": "DASHBOARD"},
+                {"id": "b", "text": "CORPORATE SALE"},
+                {"id": "c", "text": "CUSTOMER SALES"},
+                {"id": "d", "text": "LEAD MANAGEMENT"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q10",
+            "text": "LEAD MANAGEMENT does not include:",
+            "options": [
+                {"id": "a", "text": "Create Opportunity/Lead"},
+                {"id": "b", "text": "Storage Management"},
+                {"id": "c", "text": "Feasibility Management"},
+                {"id": "d", "text": "Manage Zero Stage Lead"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "When a lead is created, it is initially placed in which stage?",
+            "options": [
+                {"id": "a", "text": "Zero-Stage"},
+                {"id": "b", "text": "One Stage"},
+                {"id": "c", "text": "Two Stage"},
+                {"id": "d", "text": "Three Stage"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q12",
+            "text": "Sales Activity Visit allows the user to enter:",
+            "options": [
+                {"id": "a", "text": "his Customer Calls and Customer Visits to Existing customers"},
+                {"id": "b", "text": "his Customer Calls and Customer Visits to New EB Customers"},
+                {"id": "c", "text": "Options A & B Both are false."},
+                {"id": "d", "text": "Options A & B Both are true."}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q13",
+            "text": "OPEX means:",
+            "options": [
+                {"id": "a", "text": "operational expenditure"},
+                {"id": "b", "text": "open expenditure"},
+                {"id": "c", "text": "out of expenditure"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q14",
+            "text": "SLA means:",
+            "options": [
+                {"id": "a", "text": "service level agreement"},
+                {"id": "b", "text": "sector level agreement"},
+                {"id": "c", "text": "street level agreement"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q15",
+            "text": "BSNL is willing to offer an SLA of ______uptime.",
+            "options": [
+                {"id": "a", "text": "99.5%"},
+                {"id": "b", "text": "99%"},
+                {"id": "c", "text": "96.23%"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16",
+            "text": "Components of pre-sales preparation include:",
+            "options": [
+                {"id": "a", "text": "knowledge of C-P-C"},
+                {"id": "b", "text": "stands of company, product and cost"},
+                {"id": "c", "text": "both a and b"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q17",
+            "text": "The stages of the selling cycle are:",
+            "options": [
+                {"id": "a", "text": "opening"},
+                {"id": "b", "text": "developing the sale"},
+                {"id": "c", "text": "closing"},
+                {"id": "d", "text": "all"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q18",
+            "text": "Which is NOT in the Selling (ODPEC) cycle?",
+            "options": [
+                {"id": "a", "text": "proposing"},
+                {"id": "b", "text": "eliminating doubts"},
+                {"id": "c", "text": "decides to buy"},
+                {"id": "d", "text": "post sale follow up"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "ODPEC cycle is:",
+            "options": [
+                {"id": "a", "text": "Buying Cycle"},
+                {"id": "b", "text": "Selling Cycle"},
+                {"id": "c", "text": "Marketing Cycle"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q20",
+            "text": "Platinum account is said to be penetrated if a minimum business of Rs. _____ per account per annum is generated from customer:",
+            "options": [
+                {"id": "a", "text": "500 cr"},
+                {"id": "b", "text": "100 cr"},
+                {"id": "c", "text": "40 lakhs"},
+                {"id": "d", "text": "10 lakhs"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q21",
+            "text": "For a good presentation in pre-sales process you must have a clear idea on CPC. What is the full form of C-P-C?",
+            "options": [
+                {"id": "a", "text": "Company-Product-Competition"},
+                {"id": "b", "text": "Company-Price-Competition"},
+                {"id": "c", "text": "Company-Product-Completeness"},
+                {"id": "d", "text": "Computer-Presentation-Completeness"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q22",
+            "text": "Manage Customer in EB portal allows user to:",
+            "options": [
+                {"id": "a", "text": "Add new Company Details"},
+                {"id": "b", "text": "Edit Existing Company details"},
+                {"id": "c", "text": "Gives a report of registered EB customer in PAN India basis."},
+                {"id": "d", "text": "Edit Existing Company Contact details"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q23",
+            "text": "How to boost customer management?",
+            "options": [
+                {"id": "a", "text": "Request feedback from your Customer"},
+                {"id": "b", "text": "Knowing the basic details about the company"},
+                {"id": "c", "text": "Maintain a good relationship with the customer"},
+                {"id": "d", "text": "All of the Above."}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q24",
+            "text": "Key Account fundamental before approaching the Single company:",
+            "options": [
+                {"id": "a", "text": "Basic Name and location"},
+                {"id": "b", "text": "Market share"},
+                {"id": "c", "text": "Nature of Business"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q25",
+            "text": "Sources of sales leads are:",
+            "options": [
+                {"id": "a", "text": "Market research"},
+                {"id": "b", "text": "Media outlets"},
+                {"id": "c", "text": "Promotional programs"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q26",
+            "text": "A prospect means:",
+            "options": [
+                {"id": "a", "text": "Company's prospectus"},
+                {"id": "b", "text": "A likely buyer"},
+                {"id": "c", "text": "A likely seller"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q27",
+            "text": "Value Added service means:",
+            "options": [
+                {"id": "a", "text": "Costlier product"},
+                {"id": "b", "text": "Additional benefits at the same cost"},
+                {"id": "c", "text": "Both of these"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "Lead segmentation means:",
+            "options": [
+                {"id": "a", "text": "Dividing the marketing process into small groups"},
+                {"id": "b", "text": "Dividing the sales team into small groups"},
+                {"id": "c", "text": "Dividing the target groups into homogeneous groups"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q29",
+            "text": "Customer database is useful for:",
+            "options": [
+                {"id": "a", "text": "Lead generation"},
+                {"id": "b", "text": "Cross selling"},
+                {"id": "c", "text": "CRM"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q30",
+            "text": "Which is/are the sub-module under lead management module of EB portal:",
+            "options": [
+                {"id": "a", "text": "Create opportunity/lead"},
+                {"id": "b", "text": "Manage zero stage lead"},
+                {"id": "c", "text": "Opportunity"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q31",
+            "text": "SLA Reports is calculated on ______ of the link.",
+            "options": [
+                {"id": "a", "text": "Uptime"},
+                {"id": "b", "text": "Downtime"},
+                {"id": "c", "text": "Data uses"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q32",
+            "text": "Prabal plus is hosted on:",
+            "options": [
+                {"id": "a", "text": "www.prabal.bsnl.co.in"},
+                {"id": "b", "text": "www.prabalplus.bsnl.in"},
+                {"id": "c", "text": "lcprabal.bsnl.co.in"},
+                {"id": "d", "text": "lcprabal.bsnl.in"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q33",
+            "text": "Prabal plus is integrated with _____ app:",
+            "options": [
+                {"id": "a", "text": "Youtube"},
+                {"id": "b", "text": "Telegram"},
+                {"id": "c", "text": "Instagram"},
+                {"id": "d", "text": "google meet"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q34",
+            "text": "What is the url of CPP portal?",
+            "options": [
+                {"id": "a", "text": "https://etenders.gov.in"},
+                {"id": "b", "text": "https://etenders.bsn.in"},
+                {"id": "c", "text": "https://cpp.gov.in"},
+                {"id": "d", "text": "https://epublishing.bsnl.in"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q35",
+            "text": "Cross Selling means:",
+            "options": [
+                {"id": "a", "text": "Cross country marketing"},
+                {"id": "b", "text": "Selling other product to the existing customer"},
+                {"id": "c", "text": "Selling to friends"},
+                {"id": "d", "text": "Selling to employees"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q36",
+            "text": "CDR billing package covers the customer care and billing for ________ services.",
+            "options": [
+                {"id": "a", "text": "Landline"},
+                {"id": "b", "text": "Broad band"},
+                {"id": "c", "text": "Lease line"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q37",
+            "text": "At the beginning of the sales funnel, prospect interaction is:",
+            "options": [
+                {"id": "a", "text": "Low"},
+                {"id": "b", "text": "High"},
+                {"id": "c", "text": "Moderate"},
+                {"id": "d", "text": "Very high"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "Who among these use the sales funnel?",
+            "options": [
+                {"id": "a", "text": "Sales managers & professionals"},
+                {"id": "b", "text": "Marketing managers."},
+                {"id": "c", "text": "Business owners"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q39",
+            "text": "Channel partner is not eligible for renewal commission from category of Enterprise customer:",
+            "options": [
+                {"id": "a", "text": "CPSU & Central Govt"},
+                {"id": "b", "text": "State PSU & State Govt"},
+                {"id": "c", "text": "All other except option a & b"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q40",
+            "text": "Important point for sales review:",
+            "options": [
+                {"id": "a", "text": "Frame the retrospective as a positive event"},
+                {"id": "b", "text": "Discuss what went well"},
+                {"id": "c", "text": "Discuss what went poorly"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q41",
+            "text": "What should be done for knowing the root cause of the problem in a sales review?",
+            "options": [
+                {"id": "a", "text": "Registering the leads"},
+                {"id": "b", "text": "Introductory meeting"},
+                {"id": "c", "text": "Turning the what into why"},
+                {"id": "d", "text": "Negotiation"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q42",
+            "text": "Consumer studies have shown that targeted multi-channel marketing is ______ more effective than other forms of marketing campaigns.",
+            "options": [
+                {"id": "a", "text": "Up to 70%"},
+                {"id": "b", "text": "Up to 50%"},
+                {"id": "c", "text": "Up to 75%"},
+                {"id": "d", "text": "60%"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q43",
+            "text": "A multi-channel strategy will target potential clients through:",
+            "options": [
+                {"id": "a", "text": "Social media"},
+                {"id": "b", "text": "Emails"},
+                {"id": "c", "text": "Personal meet"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q44",
+            "text": "The Enterprise Marketing Strategy is very important to increase revenue with the following:",
+            "options": [
+                {"id": "a", "text": "Effective Communication Skill"},
+                {"id": "b", "text": "Getting knowledge about your competitor"},
+                {"id": "c", "text": "Maintain a good relationship"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q45",
+            "text": "In 2009, as part of massive restructuring, which post was created for Enterprise & Wholesale?",
+            "options": [
+                {"id": "a", "text": "Director level post"},
+                {"id": "b", "text": "GM level post"},
+                {"id": "c", "text": "DGM level post"},
+                {"id": "d", "text": "SDE level post"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q46",
+            "text": "________ Accounts are typically assigned to each NAM.",
+            "options": [
+                {"id": "a", "text": "1 to 4"},
+                {"id": "b", "text": "11 to 20"},
+                {"id": "c", "text": "20 to 25"},
+                {"id": "d", "text": "5 to 10"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q47",
+            "text": "_______ accounts are typically assigned per KAM:",
+            "options": [
+                {"id": "a", "text": "50 to 75"},
+                {"id": "b", "text": "25 to 50"},
+                {"id": "c", "text": "25 to 75"},
+                {"id": "d", "text": "25 to 55"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q48",
+            "text": "Which statement is true for an Account Manager?",
+            "options": [
+                {"id": "a", "text": "Should have at least high level knowledge on BSNL network"},
+                {"id": "b", "text": "Must have idea about Flow chart."},
+                {"id": "c", "text": "Must have the knowledge about Accounting"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q49",
+            "text": "Pre-work preparation for an Account Manager means:",
+            "options": [
+                {"id": "a", "text": "An account manager would define his/ her expectations from their position in BSNL"},
+                {"id": "b", "text": "The account manager would familiarize himself/ herself with the business of BSNL as well as the customer"},
+                {"id": "c", "text": "The account manager would create solutions for their clients needs and understand the profitability of the same in the long run"},
+                {"id": "d", "text": "The account manager would keep BSNL updated on their progress."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q50",
+            "text": "The full form of KAM is:",
+            "options": [
+                {"id": "a", "text": "King Account Manager"},
+                {"id": "b", "text": "Known Account manager"},
+                {"id": "c", "text": "Key account Manager"},
+                {"id": "d", "text": "Key Admin Manager"}
+            ],
+            "correctAnswer": "c"
+        }
+    ]
+}
