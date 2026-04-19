@@ -1,0 +1,1105 @@
+{
+    "title": "BSNL JTO Phase 2nd Training Exam Preparation - 100 Question Set",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "What is the primary benefit of OTN technology regarding dedicated overhead monitoring?",
+            "options": [
+                {"id": "a", "text": "It provides two levels of Tandem Connection Monitoring (TCM)."},
+                {"id": "b", "text": "It provides six levels of Tandem Connection Monitoring (TCM)."},
+                {"id": "c", "text": "It eliminates the need for Tandem Connection Monitoring entirely."},
+                {"id": "d", "text": "It restricts Tandem Connection Monitoring to the core network only."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2",
+            "text": "In the context of DWDM, which wavelength range defines the C-Band (Conventional Band)?",
+            "options": [
+                {"id": "a", "text": "1530 to 1565 nm"},
+                {"id": "b", "text": "1565 to 1620 nm"},
+                {"id": "c", "text": "1260 to 1360 nm"},
+                {"id": "d", "text": "1460 to 1530 nm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3",
+            "text": "Which cloud service model provides end users with access to software applications as utilities over the Internet?",
+            "options": [
+                {"id": "a", "text": "PaaS (Platform as a Service)"},
+                {"id": "b", "text": "IaaS (Infrastructure as a Service)"},
+                {"id": "c", "text": "SaaS (Software as a Service)"},
+                {"id": "d", "text": "CaaS (Compute as a Service)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q4",
+            "text": "According to the BSNL MLLN network architecture, what is the standardized bandwidth range for data circuits?",
+            "options": [
+                {"id": "a", "text": "128 Kbps to 10 Mbps"},
+                {"id": "b", "text": "64 Kbps to 2048 Kbps"},
+                {"id": "c", "text": "2 Mbps to 34 Mbps"},
+                {"id": "d", "text": "512 Kbps to 155 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q5",
+            "text": "What is the typical end-to-end optical split ratio supported by BSNL's standard Passive Optical Network (PON)?",
+            "options": [
+                {"id": "a", "text": "Up to 1:16"},
+                {"id": "b", "text": "Up to 1:32"},
+                {"id": "c", "text": "Up to 1:64"},
+                {"id": "d", "text": "Up to 1:128"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6",
+            "text": "Which wavelength is used for CATV/Video transmission in an FTTH network?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1610 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "In the Buying Cycle (REED-Cycle), what does the first 'E' stand for?",
+            "options": [
+                {"id": "a", "text": "Establish needs"},
+                {"id": "b", "text": "Evaluate the options"},
+                {"id": "c", "text": "Execute the sale"},
+                {"id": "d", "text": "Engage the customer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8",
+            "text": "Which cloud risk refers to the failure of the mechanism that separates memory or storage between different tenants?",
+            "options": [
+                {"id": "a", "text": "Vendor Lock-In"},
+                {"id": "b", "text": "Isolation Failure"},
+                {"id": "c", "text": "Management Interface Compromise"},
+                {"id": "d", "text": "Insecure Data Deletion"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q9",
+            "text": "The 'Dying Gasp' protocol in MLLN NTUs is specifically used to signal what to the NMS?",
+            "options": [
+                {"id": "a", "text": "A physical line break"},
+                {"id": "b", "text": "An immediate power off"},
+                {"id": "c", "text": "Low signal-to-noise ratio"},
+                {"id": "d", "text": "A remote loopback request"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q10",
+            "text": "Which SDH network element is designed to restore both the amplitude and clock of data signals after attenuation?",
+            "options": [
+                {"id": "a", "text": "Add-Drop Multiplexer (ADM)"},
+                {"id": "b", "text": "Terminal Multiplexer (TM)"},
+                {"id": "c", "text": "Regenerator (REG)"},
+                {"id": "d", "text": "Digital Cross-Connect (DXC)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q11",
+            "text": "What is the downstream bit rate for a standard GPON system?",
+            "options": [
+                {"id": "a", "text": "1.244 Gbps"},
+                {"id": "b", "text": "2.488 Gbps"},
+                {"id": "c", "text": "1.25 Gbps"},
+                {"id": "d", "text": "10 Gbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q12",
+            "text": "Which protocol is used for channel selection and managing multicast group membership in IPTV?",
+            "options": [
+                {"id": "a", "text": "RTSP (Real Time Streaming Protocol)"},
+                {"id": "b", "text": "IPGMP (IP Group Membership Protocol)"},
+                {"id": "c", "text": "RADIUS"},
+                {"id": "d", "text": "LDAP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q13",
+            "text": "In the IoT reference model, what is the minimum requirement for a device to be used in IoT?",
+            "options": [
+                {"id": "a", "text": "Sensing unit"},
+                {"id": "b", "text": "Network connectivity"},
+                {"id": "c", "text": "Actuating unit"},
+                {"id": "d", "text": "Data storage"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q14",
+            "text": "Which type of hosting service allows a user root/administrator access but typically does not involve owning the hardware?",
+            "options": [
+                {"id": "a", "text": "Managed hosting"},
+                {"id": "b", "text": "Colocation hosting"},
+                {"id": "c", "text": "Dedicated hosting"},
+                {"id": "d", "text": "VPS hosting"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q15",
+            "text": "The Gigabit Readiness Index (GRI) assumes what percentage of Broadband users will migrate to FTTH?",
+            "options": [
+                {"id": "a", "text": "10%"},
+                {"id": "b", "text": "25%"},
+                {"id": "c", "text": "50%"},
+                {"id": "d", "text": "75%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q16",
+            "text": "What is the primary function of a transponder in a DWDM system?",
+            "options": [
+                {"id": "a", "text": "To amplify all optical signals simultaneously."},
+                {"id": "b", "text": "To convert client signals into specific WDM wavelengths."},
+                {"id": "c", "text": "To monitor the supervisory channel (OSC) exclusively."},
+                {"id": "d", "text": "To split a single wavelength into multiple data streams."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "Which cloud deployment model is designed to be accessible by a specific group of organizations with shared concerns?",
+            "options": [
+                {"id": "a", "text": "Public Cloud"},
+                {"id": "b", "text": "Private Cloud"},
+                {"id": "c", "text": "Community Cloud"},
+                {"id": "d", "text": "Hybrid Cloud"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q18",
+            "text": "For a standard 64 Kbps MLLN circuit using HDSL, what is the maximum recommended driving distance over copper?",
+            "options": [
+                {"id": "a", "text": "3.5 km"},
+                {"id": "b", "text": "5.0 km"},
+                {"id": "c", "text": "7.0 km"},
+                {"id": "d", "text": "10.0 km"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "What is the standard VPI/VCI configuration for BSNL Enterprise Broadband data services?",
+            "options": [
+                {"id": "a", "text": "VPI=0, VCI=32"},
+                {"id": "b", "text": "VPI=0, VCI=35"},
+                {"id": "c", "text": "VPI=8, VCI=35"},
+                {"id": "d", "text": "VPI=1, VCI=33"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q20",
+            "text": "Which protocol is used by the Teevra app to allow franchisees to perform port resets for their mapped numbers?",
+            "options": [
+                {"id": "a", "text": "RADIUS"},
+                {"id": "b", "text": "FMS (Franchisee Management System)"},
+                {"id": "c", "text": "SNMP"},
+                {"id": "d", "text": "IPGMP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q21",
+            "text": "What does the abbreviation ODU stand for in a Satellite/VSAT system?",
+            "options": [
+                {"id": "a", "text": "Optical Data Unit"},
+                {"id": "b", "text": "Operational Device Unit"},
+                {"id": "c", "text": "Outdoor Unit"},
+                {"id": "d", "text": "Orthogonal Data Utility"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q22",
+            "text": "In SDH, an STM-1 frame consists of how many rows and columns?",
+            "options": [
+                {"id": "a", "text": "3 rows and 270 columns"},
+                {"id": "b", "text": "9 rows and 270 columns"},
+                {"id": "c", "text": "9 rows and 260 columns"},
+                {"id": "d", "text": "12 rows and 255 columns"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q23",
+            "text": "Which MPLS-TP feature is disabled to ensure better Quality of Service (QoS) for transport networks?",
+            "options": [
+                {"id": "a", "text": "LDP (Label Distribution Protocol)"},
+                {"id": "b", "text": "PHP (Penultimate Hop Popping)"},
+                {"id": "c", "text": "OAM (Operations, Administration, Maintenance)"},
+                {"id": "d", "text": "FEC (Forward Error Correction)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q24",
+            "text": "What is the primary purpose of the 'VMS Portal' developed by BBNOC Bangalore?",
+            "options": [
+                {"id": "a", "text": "To provision new FTTH connections for VIP customers."},
+                {"id": "b", "text": "To monitor OLT temperature and fan status remotely."},
+                {"id": "c", "text": "To address security concerns and harden vulnerable ONTs."},
+                {"id": "d", "text": "To track the delivery status of customer modems."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q25",
+            "text": "Which storage type is recommended for critical applications and databases due to its high performance and reliability?",
+            "options": [
+                {"id": "a", "text": "SATA (Serial Advanced Technology Attachment)"},
+                {"id": "b", "text": "IDE (Integrated Drive Electronics)"},
+                {"id": "c", "text": "SAS (Serial Attached SCSI)"},
+                {"id": "d", "text": "SSD (Solid State Drive) - cold tier"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q26",
+            "text": "In the selling cycle (ODPEC), what does 'P' stand for?",
+            "options": [
+                {"id": "a", "text": "Planning"},
+                {"id": "b", "text": "Proposing"},
+                {"id": "c", "text": "Positioning"},
+                {"id": "d", "text": "Profiling"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q27",
+            "text": "What is the maximum number of ports available on a standalone Cluster Node DXC in the MLLN network?",
+            "options": [
+                {"id": "a", "text": "64"},
+                {"id": "b", "text": "128"},
+                {"id": "c", "text": "256"},
+                {"id": "d", "text": "512"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q28",
+            "text": "Which IPTV standard is increasingly being used due to its superior performance and efficient bandwidth usage?",
+            "options": [
+                {"id": "a", "text": "MPEG-1"},
+                {"id": "b", "text": "MPEG-2"},
+                {"id": "c", "text": "MPEG-4"},
+                {"id": "d", "text": "JPEG-2000"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q29",
+            "text": "In the IoT business model, which player typically operates the network and platform while allowing others to operate the device?",
+            "options": [
+                {"id": "a", "text": "Player A (Telecom Operator)"},
+                {"id": "b", "text": "Player B (Service Provider)"},
+                {"id": "c", "text": "Player C (Enterprise Customer)"},
+                {"id": "d", "text": "Platform Provider exclusively"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q30",
+            "text": "What is the required earthing value for the Charge Controller Unit (CCU) of a DSPT remote terminal?",
+            "options": [
+                {"id": "a", "text": "< 2 Ohms"},
+                {"id": "b", "text": "< 5 Ohms"},
+                {"id": "c", "text": "< 10 Ohms"},
+                {"id": "d", "text": "< 50 Ohms"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q31",
+            "text": "Which cloud model is a mixture of public and private cloud services?",
+            "options": [
+                {"id": "a", "text": "Community Cloud"},
+                {"id": "b", "text": "Distributed Cloud"},
+                {"id": "c", "text": "Hybrid Cloud"},
+                {"id": "d", "text": "Unified Cloud"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q32",
+            "text": "What is the primary function of the 'AU-PTR' (Administrative Unit Pointer) in an SDH frame?",
+            "options": [
+                {"id": "a", "text": "To monitor error performance via parity bits."},
+                {"id": "b", "text": "To facilitate voice communication between technicians."},
+                {"id": "c", "text": "To indicate the start position of the payload (VC-4)."},
+                {"id": "d", "text": "To manage the automatic protection switching logic."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q33",
+            "text": "Which transmission window is known as the 'L-Band' in optical networking?",
+            "options": [
+                {"id": "a", "text": "1530 to 1565 nm"},
+                {"id": "b", "text": "1565 to 1620 nm"},
+                {"id": "c", "text": "1300 to 1350 nm"},
+                {"id": "d", "text": "1620 to 1675 nm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q34",
+            "text": "In the 'C-P-C' component of pre-sales preparation, what does the second 'C' stand for?",
+            "options": [
+                {"id": "a", "text": "Commitment"},
+                {"id": "b", "text": "Competition"},
+                {"id": "c", "text": "Configuration"},
+                {"id": "d", "text": "Customer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q35",
+            "text": "Which GPON network element does not require a power supply?",
+            "options": [
+                {"id": "a", "text": "OLT (Optical Line Terminal)"},
+                {"id": "b", "text": "ONT (Optical Network Terminal)"},
+                {"id": "c", "text": "Optical Splitter"},
+                {"id": "d", "text": "DSLAM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q36",
+            "text": "What is the main advantage of Virtual Concatenation (VCAT) in Next-Gen SDH?",
+            "options": [
+                {"id": "a", "text": "It requires configuration changes on all core network elements."},
+                {"id": "b", "text": "It provides better bandwidth granularity and efficiency."},
+                {"id": "c", "text": "It eliminates the need for any framing protocol like GFP."},
+                {"id": "d", "text": "It only supports contiguous containers for simplicity."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q37",
+            "text": "Which cloud computing characteristic involves the ability to scale resources up or down quickly according to demand?",
+            "options": [
+                {"id": "a", "text": "Resource Pooling"},
+                {"id": "b", "text": "Broad Network Access"},
+                {"id": "c", "text": "Rapid Elasticity"},
+                {"id": "d", "text": "Measured Service"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q38",
+            "text": "What is the location of the main Network Management System (NMS) for BSNL's MLLN network?",
+            "options": [
+                {"id": "a", "text": "Pune"},
+                {"id": "b", "text": "Bangalore"},
+                {"id": "c", "text": "New Delhi"},
+                {"id": "d", "text": "Hyderabad"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "Which protocol allows DVD-style control (play, pause, stop) over a media stream in an IPTV Unicast/VOD environment?",
+            "options": [
+                {"id": "a", "text": "IPGMP"},
+                {"id": "b", "text": "RADIUS"},
+                {"id": "c", "text": "RTSP (Real Time Streaming Protocol)"},
+                {"id": "d", "text": "HTTP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "Which type of submarine cable structure is specifically protected for shallow water and specific hazards?",
+            "options": [
+                {"id": "a", "text": "Lightweight (LW)"},
+                {"id": "b", "text": "Single Armoured (SA)"},
+                {"id": "c", "text": "Rock Armoured (RA)"},
+                {"id": "d", "text": "Double Armoured (DA)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q41",
+            "text": "What is the capacity of the 'Cross Connection & Clock Unit' card (XCUJ2) in a standard PAN switch like CITRANS 660?",
+            "options": [
+                {"id": "a", "text": "64 G"},
+                {"id": "b", "text": "128 G"},
+                {"id": "c", "text": "320 G"},
+                {"id": "d", "text": "512 G"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q42",
+            "text": "In the IoT environment, objects that exist in the physical world and are capable of being sensed and connected are called what?",
+            "options": [
+                {"id": "a", "text": "Virtual things"},
+                {"id": "b", "text": "Physical things"},
+                {"id": "c", "text": "Metadata objects"},
+                {"id": "d", "text": "Abstract nodes"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q43",
+            "text": "Which cloud computing deployment model offers the highest levels of security and control for an organization?",
+            "options": [
+                {"id": "a", "text": "Public Cloud"},
+                {"id": "b", "text": "Hybrid Cloud"},
+                {"id": "c", "text": "Private Cloud"},
+                {"id": "d", "text": "Community Cloud"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q44",
+            "text": "What is the maximum bit rate typically supported by the first generation of PDH (Plesiochronous Digital Hierarchy) in Europe?",
+            "options": [
+                {"id": "a", "text": "45 Mbit/s"},
+                {"id": "b", "text": "140 Mbit/s"},
+                {"id": "c", "text": "155 Mbit/s"},
+                {"id": "d", "text": "565 Mbit/s"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q45",
+            "text": "Which wavelength is used upstream (from subscriber to OLT) in a standard GPON system?",
+            "options": [
+                {"id": "a", "text": "1550 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1310 nm"},
+                {"id": "d", "text": "1610 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q46",
+            "text": "Which term describes the business life cycle stage where revenue is low, risks are high, and the focus is on product development?",
+            "options": [
+                {"id": "a", "text": "Growth Stage"},
+                {"id": "b", "text": "Maturity Stage"},
+                {"id": "c", "text": "Startup (Seed Stage)"},
+                {"id": "d", "text": "Renewal Stage"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q47",
+            "text": "What is the default password for the 'super' login in the softswitch GUI for Switching Lab configuration?",
+            "options": [
+                {"id": "a", "text": "admin123"},
+                {"id": "b", "text": "super654"},
+                {"id": "c", "text": "SSsuper1654"},
+                {"id": "d", "text": "Password123"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q48",
+            "text": "Which entity in the Switching Lab GUI is responsible for creating administrators with specific permissions?",
+            "options": [
+                {"id": "a", "text": "Operator"},
+                {"id": "b", "text": "Administrator"},
+                {"id": "c", "text": "Super"},
+                {"id": "d", "text": "Subscriber"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q49",
+            "text": "Which cloud service model provides a runtime environment for applications, including development and deployment tools?",
+            "options": [
+                {"id": "a", "text": "IaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "SaaS"},
+                {"id": "d", "text": "DaaS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q50",
+            "text": "In a DWDM system, what is the purpose of the 'Booster Amplifier' (OBA)?",
+            "options": [
+                {"id": "a", "text": "To amplify signals at the receiving end just before demultiplexing."},
+                {"id": "b", "text": "To amplify signals at the transmitting end after the multiplexer."},
+                {"id": "c", "text": "To add or drop specific wavelengths in the middle of a link."},
+                {"id": "d", "text": "To convert optical signals into electrical ones for cross-connection."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q51",
+            "text": "What is the total number of security layers mentioned for the BSNL Internet Data Center (IDC)?",
+            "options": [
+                {"id": "a", "text": "More than 5"},
+                {"id": "b", "text": "More than 10"},
+                {"id": "c", "text": "More than 25"},
+                {"id": "d", "text": "More than 50"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q52",
+            "text": "Which type of Wi-Fi Hotspot is designed for hotels, privately owned institutes, and campuses on a commission basis?",
+            "options": [
+                {"id": "a", "text": "Type-A"},
+                {"id": "b", "text": "Type-B"},
+                {"id": "c", "text": "Type-C"},
+                {"id": "d", "text": "Type-D"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q53",
+            "text": "In the CPAN hierarchy, client services are primarily carried over which component?",
+            "options": [
+                {"id": "a", "text": "LSP Tunnels"},
+                {"id": "b", "text": "Section Layer"},
+                {"id": "c", "text": "Pseudo Wires (PW)"},
+                {"id": "d", "text": "Physical Interface"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q54",
+            "text": "Which geostationary satellite was the first to relay television coverage of the Olympics (1964 Tokyo) across the Pacific?",
+            "options": [
+                {"id": "a", "text": "Syncom 1"},
+                {"id": "b", "text": "Syncom 2"},
+                {"id": "c", "text": "Syncom 3"},
+                {"id": "d", "text": "Early Bird"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q55",
+            "text": "Which protocol is recommended for secure data loading and backup for maintenance staff in the Huawei GPON system?",
+            "options": [
+                {"id": "a", "text": "FTP"},
+                {"id": "b", "text": "Telnet"},
+                {"id": "c", "text": "SFTP (Secure File Transfer Protocol)"},
+                {"id": "d", "text": "HTTP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q56",
+            "text": "What is the recommended vertical distance (in feet) between the IDU/CCU and the Battery in a two-tier DSPT rack?",
+            "options": [
+                {"id": "a", "text": "1 ft"},
+                {"id": "b", "text": "2.5 ft"},
+                {"id": "c", "text": "3 ft"},
+                {"id": "d", "text": "5 ft"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q57",
+            "text": "In a DWDM sub-rack, what is the function of the NCP board?",
+            "options": [
+                {"id": "a", "text": "To amplify optical wavelengths."},
+                {"id": "b", "text": "To handle all monitoring subsystem functions of a Network Element."},
+                {"id": "c", "text": "To provide primary power supply to the fans."},
+                {"id": "d", "text": "To multiplex client signals into a single fiber."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q58",
+            "text": "What does the 'FAB' in the pre-sales process stand for?",
+            "options": [
+                {"id": "a", "text": "Facility, Asset, Budget"},
+                {"id": "b", "text": "Feature, Advantage, Benefit"},
+                {"id": "c", "text": "Fix, Analyze, Build"},
+                {"id": "d", "text": "Focus, Action, Business"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q59",
+            "text": "Which type of SDH network element allows the extraction or insertion of low-rate signals from a high-speed stream without full demultiplexing?",
+            "options": [
+                {"id": "a", "text": "TM (Terminal Multiplexer)"},
+                {"id": "b", "text": "REG (Regenerator)"},
+                {"id": "c", "text": "ADM (Add-Drop Multiplexer)"},
+                {"id": "d", "text": "DCS (Digital Cross-Connect System)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q60",
+            "text": "Which cloud service model provides access to fundamental resources such as physical and virtual machines and storage?",
+            "options": [
+                {"id": "a", "text": "PaaS"},
+                {"id": "b", "text": "SaaS"},
+                {"id": "c", "text": "IaaS"},
+                {"id": "d", "text": "DaaS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q61",
+            "text": "What is the primary role of the 'Head-End' in an IPTV system?",
+            "options": [
+                {"id": "a", "text": "To display content on the user's television."},
+                {"id": "b", "text": "To capture, encode, and prepare content for distribution."},
+                {"id": "c", "text": "To provide DVD-style control over video streams."},
+                {"id": "d", "text": "To manage billing and customer accounts only."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q62",
+            "text": "In an IoT reference model, generic support capabilities such as data processing or data storage belong to which layer?",
+            "options": [
+                {"id": "a", "text": "Application Layer"},
+                {"id": "b", "text": "Device Layer"},
+                {"id": "c", "text": "Service Support and Application Support Layer"},
+                {"id": "d", "text": "Network Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q63",
+            "text": "Which MLLN node type is designed as a small-capacity, non-blocking device for mobile networks that cross-connects at the bit level?",
+            "options": [
+                {"id": "a", "text": "Midi Node"},
+                {"id": "b", "text": "Mini Node"},
+                {"id": "c", "text": "Micro Node"},
+                {"id": "d", "text": "Basic Node"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q64",
+            "text": "What is the availability percentage guaranteed by a Tier III certified data center infrastructure?",
+            "options": [
+                {"id": "a", "text": "99.671%"},
+                {"id": "b", "text": "99.741%"},
+                {"id": "c", "text": "99.982%"},
+                {"id": "d", "text": "99.995%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q65",
+            "text": "In the context of FTTH, what is the role of an 'ONU' (Optical Network Unit) when used at a curb or cabinet?",
+            "options": [
+                {"id": "a", "text": "It replaces the OLT in small exchanges."},
+                {"id": "b", "text": "It provides network termination inside the subscriber's home."},
+                {"id": "c", "text": "It terminates the fiber and provides service over copper loops."},
+                {"id": "d", "text": "It acts as a passive splitter for higher split ratios."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q66",
+            "text": "What is the function of the 'RSOH' (Regenerator Section Overhead) in an SDH STM frame?",
+            "options": [
+                {"id": "a", "text": "To monitor path performance end-to-end."},
+                {"id": "b", "text": "To monitor sections between regenerators and other network elements."},
+                {"id": "c", "text": "To provide synchronization for all VC-12 channels."},
+                {"id": "d", "text": "To carry client traffic protocols like Ethernet."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q67",
+            "text": "Which of these is an 'Open SaaS' benefit?",
+            "options": [
+                {"id": "a", "text": "High licensing costs."},
+                {"id": "b", "text": "Vendor lock-in requirements."},
+                {"id": "c", "text": "No license required and more portable applications."},
+                {"id": "d", "text": "Mandatory onsite server maintenance."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q68",
+            "text": "Which CPAN node type is typically used for high-capacity aggregation in Metros and operates on 10GE/40GE fiber rings?",
+            "options": [
+                {"id": "a", "text": "Type A"},
+                {"id": "b", "text": "Type B"},
+                {"id": "c", "text": "Type C"},
+                {"id": "d", "text": "Edge Node"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q69",
+            "text": "What is the purpose of the 'OSC' (Optical Supervisory Channel) wavelength, typically at 1510 nm?",
+            "options": [
+                {"id": "a", "text": "To carry high-speed client data traffic."},
+                {"id": "b", "text": "To carry CATV video signals to subscribers."},
+                {"id": "c", "text": "To carry network management and monitoring information."},
+                {"id": "d", "text": "To provide backup synchronization for TDM circuits."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q70",
+            "text": "What does the acronym 'MPLS-TP' stand for?",
+            "options": [
+                {"id": "a", "text": "Multi-Protocol Label Switching - Transport Protocol"},
+                {"id": "b", "text": "Multi-Protocol Label Switching - Traffic Profile"},
+                {"id": "c", "text": "Multi-Protocol Label Switching - Transport Profile"},
+                {"id": "d", "text": "Modular Packet Label Switching - Transport Profile"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q71",
+            "text": "Which entity in the Switching Lab GUI contains mapping for emergency numbers and full numbers?",
+            "options": [
+                {"id": "a", "text": "City"},
+                {"id": "b", "text": "State"},
+                {"id": "c", "text": "Zone"},
+                {"id": "d", "text": "Local"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q72",
+            "text": "According to the business life cycle, which stage is characterized by stable revenue, strong brand recognition, and high competition?",
+            "options": [
+                {"id": "a", "text": "Startup Stage"},
+                {"id": "b", "text": "Growth Stage"},
+                {"id": "c", "text": "Maturity Stage"},
+                {"id": "d", "text": "Decline Stage"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q73",
+            "text": "What is the purpose of the 'RADIUS' protocol in Enterprise Wi-Fi Hotspot solutions?",
+            "options": [
+                {"id": "a", "text": "To manage the physical hardware of Access Points."},
+                {"id": "b", "text": "To provide remote authentication for dial-in user services."},
+                {"id": "c", "text": "To route packets between different hotspots."},
+                {"id": "d", "text": "To encrypt Wi-Fi data over the air using WEP."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q74",
+            "text": "Which wavelength is used downstream for data transmission in a standard FTTH network?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1490 nm"},
+                {"id": "d", "text": "1610 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q75",
+            "text": "In the context of cloud computing, 'Measured Service' means that resources are monitored and billed based on what?",
+            "options": [
+                {"id": "a", "text": "A fixed annual fee regardless of use."},
+                {"id": "b", "text": "Actual usage (pay-as-you-go)."},
+                {"id": "c", "text": "The number of devices owned by the client."},
+                {"id": "d", "text": "The physical location of the data center."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q76",
+            "text": "What is the typical availability guarantee provided by BSNL's cloud servers?",
+            "options": [
+                {"id": "a", "text": "98%"},
+                {"id": "b", "text": "99%"},
+                {"id": "c", "text": "99.99%"},
+                {"id": "d", "text": "100%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q77",
+            "text": "Which type of SDH concatenation requires functionality at every network element and is based on adjacent containers?",
+            "options": [
+                {"id": "a", "text": "Virtual Concatenation"},
+                {"id": "b", "text": "Logical Concatenation"},
+                {"id": "c", "text": "Contiguous Concatenation"},
+                {"id": "d", "text": "Linear Concatenation"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q78",
+            "text": "In a VSAT system, which component is responsible for converting IF (Intermediate Frequency) signals to RF (Radio Frequency)?",
+            "options": [
+                {"id": "a", "text": "LNB (Low Noise Block)"},
+                {"id": "b", "text": "Antenna Feed"},
+                {"id": "c", "text": "BUC (Block Up-Converter)"},
+                {"id": "d", "text": "IDU (Indoor Unit)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q79",
+            "text": "Which MLLN NMS functionality allows the operator to isolate faults remotely through line loop testing?",
+            "options": [
+                {"id": "a", "text": "Dying Gasp signaling"},
+                {"id": "b", "text": "ITU-T V.54 support"},
+                {"id": "c", "text": "HDSL modulation"},
+                {"id": "d", "text": "Centralized billing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q80",
+            "text": "What is the primary function of the 'Add-Drop Multiplexer' (ADM) in an SDH ring?",
+            "options": [
+                {"id": "a", "text": "To regenerate optical signals for long-haul transmission."},
+                {"id": "b", "text": "To cross-connect signals at the bit level exclusively."},
+                {"id": "c", "text": "To insert or extract lower-rate signals without demultiplexing the entire stream."},
+                {"id": "d", "text": "To act as a gateway to the internet exclusively."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q81",
+            "text": "Which component of an IPTV system re-assembles and decodes data packets to provide output for a television?",
+            "options": [
+                {"id": "a", "text": "Middleware"},
+                {"id": "b", "text": "Head-End"},
+                {"id": "c", "text": "Set-top box"},
+                {"id": "d", "text": "Content Delivery Network"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q82",
+            "text": "Which cloud model provides the user with an entire infrastructure (compute/storage) as a service?",
+            "options": [
+                {"id": "a", "text": "SaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "IaaS"},
+                {"id": "d", "text": "BaaS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q83",
+            "text": "Which 'dimension' does IoT add to existing Information and Communication Technologies (ICT)?",
+            "options": [
+                {"id": "a", "text": "Any Time"},
+                {"id": "b", "text": "Any Place"},
+                {"id": "c", "text": "Any Thing"},
+                {"id": "d", "text": "Any Speed"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q84",
+            "text": "What is the standard altitude for a geostationary satellite according to Kepler's third law?",
+            "options": [
+                {"id": "a", "text": "2,000 km"},
+                {"id": "b", "text": "20,200 km"},
+                {"id": "c", "text": "35,786 km"},
+                {"id": "d", "text": "42,164 km"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q85",
+            "text": "In a Teracom OLT system, adding a 'Management Domain' is a prerequisite for which step?",
+            "options": [
+                {"id": "a", "text": "Logging in to ANM2000."},
+                {"id": "b", "text": "Connecting the local console via USB."},
+                {"id": "c", "text": "Adding the OLT system hardware."},
+                {"id": "d", "text": "Updating the Informix database manually."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q86",
+            "text": "What is the purpose of the 'Teevra App' in BSNL?",
+            "options": [
+                {"id": "a", "text": "To create marketing posters for enterprise customers."},
+                {"id": "b", "text": "To fetch LIVE FTTH/Broadband details and perform port resets."},
+                {"id": "c", "text": "To replace the centralized MLLN NMS entirely."},
+                {"id": "d", "text": "To track the movement of BSNL fleet vehicles exclusively."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q87",
+            "text": "Which transmission window range is defined as the 'Second Window' in optical networking?",
+            "options": [
+                {"id": "a", "text": "850 nm"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1310 nm (near ~1300 nm)"},
+                {"id": "d", "text": "1610 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q88",
+            "text": "In an OTN container hierarchy, what is the role of the 'OPUk' layer?",
+            "options": [
+                {"id": "a", "text": "To add Forward Error Correction (FEC)."},
+                {"id": "b", "text": "To carry the actual client payload."},
+                {"id": "c", "text": "To monitor tandem connections between operators."},
+                {"id": "d", "text": "To manage wavelength switching exclusively."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q89",
+            "text": "Which BSNL operational index measures the umbrella coverage of GPON connectivity at a PAN India level?",
+            "options": [
+                {"id": "a", "text": "Umbrella Index (UI)"},
+                {"id": "b", "text": "Broadband Reach Metric (BRM)"},
+                {"id": "c", "text": "Gigabit Readiness Index (GRI)"},
+                {"id": "d", "text": "FTTH Success Index (FSI)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q90",
+            "text": "In the selling process, what does 'Knowledge of C-P-C' involve?",
+            "options": [
+                {"id": "a", "text": "Company, Product, and Competition"},
+                {"id": "b", "text": "Client, Profit, and Cost"},
+                {"id": "c", "text": "Contract, Payment, and Closing"},
+                {"id": "d", "text": "Capability, Price, and Compliance"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q91",
+            "text": "Which protocol is used in IPTV Unicast/Video on Demand to rebuild missing or corrupted data at the receiver?",
+            "options": [
+                {"id": "a", "text": "RTSP"},
+                {"id": "b", "text": "IPGMP"},
+                {"id": "c", "text": "FEC (Forward Error Correction)"},
+                {"id": "d", "text": "TCP Retransmission"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q92",
+            "text": "What is the typical physical distance supported by a standard optical splitter (PON) in an FTTH network?",
+            "options": [
+                {"id": "a", "text": "10 km"},
+                {"id": "b", "text": "20 km"},
+                {"id": "c", "text": "40 km"},
+                {"id": "d", "text": "100 km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q93",
+            "text": "Which MLLN DXC configuration is Typically upgradeable from 96 to 128 ports?",
+            "options": [
+                {"id": "a", "text": "Main DXC"},
+                {"id": "b", "text": "Standard DXC (96 port)"},
+                {"id": "c", "text": "Cluster Node"},
+                {"id": "d", "text": "Midi Node"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q94",
+            "text": "Which cloud model provides a runtime environment for development and deployment tools but handles infrastructure maintenance for the user?",
+            "options": [
+                {"id": "a", "text": "SaaS"},
+                {"id": "b", "text": "IaaS"},
+                {"id": "c", "text": "PaaS"},
+                {"id": "d", "text": "MaaS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q95",
+            "text": "What is the name of the BSNL nominated Project Execution Agency for establishing submarine OFC between Kochi and Lakshadweep?",
+            "options": [
+                {"id": "a", "text": "BBNL"},
+                {"id": "b", "text": "TCIL"},
+                {"id": "c", "text": "BSNL"},
+                {"id": "d", "text": "ITI Limited"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q96",
+            "text": "In IoT, what is the role of a 'Gateway' in device communication?",
+            "options": [
+                {"id": "a", "text": "To physically sense environmental factors."},
+                {"id": "b", "text": "To store all application software for virtual things."},
+                {"id": "c", "text": "To facilitate communication through the network when direct connection isn't used."},
+                {"id": "d", "text": "To provide power to passive physical objects."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q97",
+            "text": "Which technology is specifically used to transport Ethernet traffic over an SDH frame efficiently?",
+            "options": [
+                {"id": "a", "text": "ATM (Asynchronous Transfer Mode)"},
+                {"id": "b", "text": "HDSL"},
+                {"id": "c", "text": "GFP (Generic Framing Protocol)"},
+                {"id": "d", "text": "RADIUS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q98",
+            "text": "According to the 'Managed Hosting' concept, what is the best description of the customer's role?",
+            "options": [
+                {"id": "a", "text": "Manage the hardware and environmental controls."},
+                {"id": "b", "text": "Provide technical support to other users."},
+                {"id": "c", "text": "Use the infrastructure while focus on business applications ('Use don't manage')."},
+                {"id": "d", "text": "Manually update the operating system daily."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q99",
+            "text": "Which entity in the MLLN network is responsible for the 'last mile' connection to the customer premises?",
+            "options": [
+                {"id": "a", "text": "DXC"},
+                {"id": "b", "text": "VMUX"},
+                {"id": "c", "text": "NTU (Network Terminating Unit)"},
+                {"id": "d", "text": "Central NMS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q100",
+            "text": "What is the primary focus of Managed IT services?",
+            "options": [
+                {"id": "a", "text": "To increase hardware inventory counts."},
+                {"id": "b", "text": "To enhance the efficiency of business management."},
+                {"id": "c", "text": "To eliminate the need for any internet connectivity."},
+                {"id": "d", "text": "To replace all local workstations with mainframe terminals."}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}

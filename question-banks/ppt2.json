@@ -1,0 +1,1105 @@
+{
+    "title": "BSNL JTO Phase 2nd Training Exam - Advanced Practice Set",
+    "questions": [
+        {
+            "id": "adv1",
+            "text": "What is the specific benefit of the 'Carrier’s Carrier' application in OTN technology?",
+            "options": [
+                {"id": "a", "text": "It eliminates the need for any client overhead processing."},
+                {"id": "b", "text": "It allows the entire client SONET/SDH signal overhead to be preserved."},
+                {"id": "c", "text": "It restricts client traffic to a single vendor's equipment."},
+                {"id": "d", "text": "It provides a direct link to the international gateway only."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv2",
+            "text": "According to ITU standards, what is the frequency spacing equivalent for a 0.8 nm channel spacing in DWDM?",
+            "options": [
+                {"id": "a", "text": "25 GHz"},
+                {"id": "b", "text": "50 GHz"},
+                {"id": "c", "text": "100 GHz"},
+                {"id": "d", "text": "200 GHz"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv3",
+            "text": "Which functional component of a transponder is responsible for 3R regeneration?",
+            "options": [
+                {"id": "a", "text": "Optical to Optical conversion exclusively."},
+                {"id": "b", "text": "Regeneration and Reshaping only."},
+                {"id": "c", "text": "Regeneration, Reshaping, and Retiming."},
+                {"id": "d", "text": "Wavelength splitting and amplification."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv4",
+            "text": "What is a primary advantage of ROADM over the first generation of OADM?",
+            "options": [
+                {"id": "a", "text": "It requires physical manual configuration for every wavelength change."},
+                {"id": "b", "text": "It allows remote reconfiguration without affecting passing traffic."},
+                {"id": "c", "text": "It is restricted to linear network topologies only."},
+                {"id": "d", "text": "It eliminates the need for any optical amplifiers."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv5",
+            "text": "In the BSNL Cloud model, which activities are recommended to be performed using a Private Cloud?",
+            "options": [
+                {"id": "a", "text": "Non-critical public-facing activities."},
+                {"id": "b", "text": "Critical internal organization activities."},
+                {"id": "c", "text": "General email and web hosting for the public."},
+                {"id": "d", "text": "Temporary marketing campaign data."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv6",
+            "text": "Which cloud service model typically includes CRM, Email, and Virtual Desktops?",
+            "options": [
+                {"id": "a", "text": "IaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "SaaS"},
+                {"id": "d", "text": "CaaS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv7",
+            "text": "Which cloud-related risk refers to the difficulty customers face when trying to switch from one service provider to another?",
+            "options": [
+                {"id": "a", "text": "Isolation Failure"},
+                {"id": "b", "text": "Management Interface Compromise"},
+                {"id": "c", "text": "Vendor Lock-In"},
+                {"id": "d", "text": "Insecure Data Deletion"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv8",
+            "text": "What is a documented disadvantage of the Private Cloud model?",
+            "options": [
+                {"id": "a", "text": "Higher vulnerability to public internet attacks."},
+                {"id": "b", "text": "Inflexible pricing and limited scalability compared to public models."},
+                {"id": "c", "text": "Lack of administrative control over the hardware."},
+                {"id": "d", "text": "Requirement for high-speed fiber at all endpoints."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv9",
+            "text": "BSNL’s Cloud Servers offer a specific availability guarantee. What is it?",
+            "options": [
+                {"id": "a", "text": "98.50%"},
+                {"id": "b", "text": "99.00%"},
+                {"id": "c", "text": "99.90%"},
+                {"id": "d", "text": "99.99%"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "adv10",
+            "text": "What is the default IP address used to access the web-based configuration of a standard BSNL ADSL modem?",
+            "options": [
+                {"id": "a", "text": "192.168.100.1"},
+                {"id": "b", "text": "192.168.1.1"},
+                {"id": "c", "text": "10.0.0.1"},
+                {"id": "d", "text": "172.16.1.1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv11",
+            "text": "What is the standard wavelength spacing for Coarse WDM (CWDM)?",
+            "options": [
+                {"id": "a", "text": "0.4 nm"},
+                {"id": "b", "text": "0.8 nm"},
+                {"id": "c", "text": "1.6 nm"},
+                {"id": "d", "text": "20 nm"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "adv12",
+            "text": "Which wavelength is injected into an Erbium-doped fiber to excite electrons for light amplification?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "980 nm (or 1480 nm)"},
+                {"id": "d", "text": "1550 nm only"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv13",
+            "text": "In the context of optical bands, where is the gain for EDFA amplifiers noted to be the 'flattest'?",
+            "options": [
+                {"id": "a", "text": "Blue Band"},
+                {"id": "b", "text": "Red Band"},
+                {"id": "c", "text": "S-Band"},
+                {"id": "d", "text": "O-Band"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv14",
+            "text": "For G.655 fiber, what is the maximum total dispersion assumption for a distance of 640 km?",
+            "options": [
+                {"id": "a", "text": "6400 ps/nm"},
+                {"id": "b", "text": "12800 ps/nm"},
+                {"id": "c", "text": "15500 ps/nm"},
+                {"id": "d", "text": "22000 ps/nm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv15",
+            "text": "In the ZTE 32-channel DWDM system (ZXWM M900), what is the channel interval in the C-band?",
+            "options": [
+                {"id": "a", "text": "25 GHz"},
+                {"id": "b", "text": "50 GHz"},
+                {"id": "c", "text": "100 GHz"},
+                {"id": "d", "text": "200 GHz"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv16",
+            "text": "The control command for an OSC (Optical Supervisory Channel) board in the ZTE system primarily includes which action?",
+            "options": [
+                {"id": "a", "text": "Manual wavelength switching."},
+                {"id": "b", "text": "Board software online upgrade."},
+                {"id": "c", "text": "Client TDM clock synchronization."},
+                {"id": "d", "text": "Remote laser shutdown for all traffic."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv17",
+            "text": "During which business life cycle stage is the focus primarily on survival and product development?",
+            "options": [
+                {"id": "a", "text": "Maturity Stage"},
+                {"id": "b", "text": "Growth Stage"},
+                {"id": "c", "text": "Startup (Seed Stage)"},
+                {"id": "d", "text": "Renewal Stage"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv18",
+            "text": "What is the annual turnover threshold for an enterprise customer in the Telecom/IT sector to be classified as 'Platinum'?",
+            "options": [
+                {"id": "a", "text": "Rs. 50 Crore"},
+                {"id": "b", "text": "Rs. 100 Crore"},
+                {"id": "c", "text": "Rs. 250 Crore"},
+                {"id": "d", "text": "Rs. 500 Crore"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv19",
+            "text": "Hot Spot Type-A for public utility services is initially applicable for what period from the date of launch?",
+            "options": [
+                {"id": "a", "text": "30 days"},
+                {"id": "b", "text": "60 days"},
+                {"id": "c", "text": "90 days"},
+                {"id": "d", "text": "180 days"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv20",
+            "text": "In Wi-Fi security features, which process involves the client linking themselves to a specific Access Point?",
+            "options": [
+                {"id": "a", "text": "Authentication"},
+                {"id": "b", "text": "Association"},
+                {"id": "c", "text": "Access Control"},
+                {"id": "d", "text": "Accounting"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv21",
+            "text": "Which encryption protocol used by WPA (Wireless Protected Access) is now considered insecure?",
+            "options": [
+                {"id": "a", "text": "AES"},
+                {"id": "b", "text": "TKIP"},
+                {"id": "c", "text": "WPA3"},
+                {"id": "d", "text": "LDAP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv22",
+            "text": "For a Public Wi-Fi Provider (PWP) managing 5 to 10 Access Points, what is their net revenue share percentage?",
+            "options": [
+                {"id": "a", "text": "25%"},
+                {"id": "b", "text": "28%"},
+                {"id": "c", "text": "30%"},
+                {"id": "d", "text": "90%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv23",
+            "text": "In Managed Network Services, which solution allows remote users secure access to an internal network via the Internet?",
+            "options": [
+                {"id": "a", "text": "Bonded T1"},
+                {"id": "b", "text": "DSL Broadband"},
+                {"id": "c", "text": "VPN based on SSL/MPLS"},
+                {"id": "d", "text": "Enterprise Wi-Fi only"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv24",
+            "text": "BSNL Public CaaS (Compute-as-a-Service) enables automated provisioning of virtual servers in less than how many minutes?",
+            "options": [
+                {"id": "a", "text": "2 minutes"},
+                {"id": "b", "text": "5 minutes"},
+                {"id": "c", "text": "10 minutes"},
+                {"id": "d", "text": "30 minutes"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv25",
+            "text": "BSNL provides Internet services for Web Co-location customers at approximately how many locations?",
+            "options": [
+                {"id": "a", "text": "150"},
+                {"id": "b", "text": "300"},
+                {"id": "c", "text": "450"},
+                {"id": "d", "text": "600"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv26",
+            "text": "What is the monthly rental for the 'Etrack' (BSNL Fleet Management) service?",
+            "options": [
+                {"id": "a", "text": "Rs. 25/-"},
+                {"id": "b", "text": "Rs. 49/-"},
+                {"id": "c", "text": "Rs. 150/-"},
+                {"id": "d", "text": "Rs. 500/-"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv27",
+            "text": "A complex website package for business hosting often requires application development platforms like:",
+            "options": [
+                {"id": "a", "text": "HTML and CSS only"},
+                {"id": "b", "text": "Simple FTP interfaces"},
+                {"id": "c", "text": "PHP, Java, or ASP.NET"},
+                {"id": "d", "text": "Text-based blog tools"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv28",
+            "text": "Which type of hosting allows clients to become web hosts themselves by providing identical services to others?",
+            "options": [
+                {"id": "a", "text": "Shared Hosting"},
+                {"id": "b", "text": "Dedicated Hosting"},
+                {"id": "c", "text": "Reseller Hosting"},
+                {"id": "d", "text": "VPS Hosting"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv29",
+            "text": "What is cited as the main disadvantage of using Microsoft Windows for web hosting compared to Linux?",
+            "options": [
+                {"id": "a", "text": "It does not support SQL databases."},
+                {"id": "b", "text": "It cannot run Active Server Pages."},
+                {"id": "c", "text": "It is very expensive."},
+                {"id": "d", "text": "It has no graphical user interface."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv30",
+            "text": "Which compression standard is increasingly used for IPTV due to its superior performance?",
+            "options": [
+                {"id": "a", "text": "MPEG-1"},
+                {"id": "b", "text": "MPEG-2"},
+                {"id": "c", "text": "MPEG-4"},
+                {"id": "d", "text": "MPEG-7"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv31",
+            "text": "Which protocol in an IPTV environment allows for DVD-style controls like pause and rewind?",
+            "options": [
+                {"id": "a", "text": "IPGMP"},
+                {"id": "b", "text": "RADIUS"},
+                {"id": "c", "text": "RTSP"},
+                {"id": "d", "text": "IGMP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv32",
+            "text": "BSNL maintains dedicated Internet data centers in which of the following locations?",
+            "options": [
+                {"id": "a", "text": "Chennai, Bangalore, Kolkata"},
+                {"id": "b", "text": "Ahmedabad, Faridabad, Mumbai"},
+                {"id": "c", "text": "Lucknow, Patna, Bhopal"},
+                {"id": "d", "text": "Delhi, Shimla, Chandigarh"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv33",
+            "text": "What is the guaranteed site infrastructure availability for a Tier 1 data center?",
+            "options": [
+                {"id": "a", "text": "99.000%"},
+                {"id": "b", "text": "99.671%"},
+                {"id": "c", "text": "99.741%"},
+                {"id": "d", "text": "99.982%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv34",
+            "text": "In the context of IoT devices, what is the role of a sensing unit?",
+            "options": [
+                {"id": "a", "text": "To convert digital signals into physical operations."},
+                {"id": "b", "text": "To detect or measure environmental information."},
+                {"id": "c", "text": "To manage the network connectivity of other devices."},
+                {"id": "d", "text": "To provide power backup for actuating units."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv35",
+            "text": "Which capability is required in an IoT gateway to handle devices using different protocols like ZigBee and Bluetooth?",
+            "options": [
+                {"id": "a", "text": "Physical sensing"},
+                {"id": "b", "text": "Protocol conversion"},
+                {"id": "c", "text": "Sleeping and waking-up"},
+                {"id": "d", "text": "Ad-hoc networking"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv36",
+            "text": "In IoT Business Model 2, which player typically operates the device, network, and platform?",
+            "options": [
+                {"id": "a", "text": "Player A (Telecom Operator)"},
+                {"id": "b", "text": "Player B (Application Service Provider)"},
+                {"id": "c", "text": "The End Customer"},
+                {"id": "d", "text": "A third-party auditor"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "adv37",
+            "text": "What is the monthly price for 1 TB of SATA storage in the BSNL Managed Hosting service?",
+            "options": [
+                {"id": "a", "text": "INR 5,500"},
+                {"id": "b", "text": "INR 9,880"},
+                {"id": "c", "text": "INR 12,400"},
+                {"id": "d", "text": "INR 15,000"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv38",
+            "text": "In the 'Managed Hosting' model, how is administrative control typically handled?",
+            "options": [
+                {"id": "a", "text": "The provider has exclusive full control."},
+                {"id": "b", "text": "The user has exclusive full control."},
+                {"id": "c", "text": "Control is shared between the provider and the user."},
+                {"id": "d", "text": "Control is automated with no human intervention."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv39",
+            "text": "What is the primary requirement for a client to successfully use Unmanaged Hosting?",
+            "options": [
+                {"id": "a", "text": "No technical skills are needed."},
+                {"id": "b", "text": "High-level IT expertise is required for self-management."},
+                {"id": "c", "text": "The client must own the physical server hardware."},
+                {"id": "d", "text": "The client must be a government organization."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv40",
+            "text": "What is the default IP address used to log in to a Huawei ONT configuration page?",
+            "options": [
+                {"id": "a", "text": "192.168.1.1"},
+                {"id": "b", "text": "192.168.100.1"},
+                {"id": "c", "text": "10.0.0.1"},
+                {"id": "d", "text": "172.16.1.1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv41",
+            "text": "For Teracom GEPON service configuration, what are the default credentials for ANM2000 login?",
+            "options": [
+                {"id": "a", "text": "User: admin, Pass: password"},
+                {"id": "b", "text": "User: 1, Pass: 1"},
+                {"id": "c", "text": "User: root, Pass: root"},
+                {"id": "d", "text": "User: telecomadmin, Pass: admintelecom"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv42",
+            "text": "In the Teracom OLT system, which card type is typically used as a 4-port EPON service interface?",
+            "options": [
+                {"id": "a", "text": "HSWA"},
+                {"id": "b", "text": "EC4B"},
+                {"id": "c", "text": "HU1A"},
+                {"id": "d", "text": "FAN"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv43",
+            "text": "A single OLT's voice service uplink interfaces cannot exceed what maximum number?",
+            "options": [
+                {"id": "a", "text": "3"},
+                {"id": "b", "text": "7"},
+                {"id": "c", "text": "10"},
+                {"id": "d", "text": "16"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv44",
+            "text": "In the Teracom OLT configuration for voice, what is the default value for the SIP Protocol Timeout?",
+            "options": [
+                {"id": "a", "text": "60"},
+                {"id": "b", "text": "300"},
+                {"id": "c", "text": "600"},
+                {"id": "d": "900"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv45",
+            "text": "For a GPON system using 1000BASE-PX20 modules, what is the minimum sensitivity for an ONT optical receiver?",
+            "options": [
+                {"id": "a", "text": "-7 dBm"},
+                {"id": "b", "text": "-27 dBm"},
+                {"id": "c", "text": "-30 dBm"},
+                {"id": "d", "text": "-40 dBm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv46",
+            "text": "Which wavelength is used for the CATV video signal in an FTTH network using WDM technology?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1610 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv47",
+            "text": "The first submarine communication cable (telegraph) was laid in 1850 across which location?",
+            "options": [
+                {"id": "a", "text": "Atlantic Ocean"},
+                {"id": "b", "text": "English Channel"},
+                {"id": "c", "text": "Pacific Ocean"},
+                {"id": "d", "text": "Indian Ocean"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv48",
+            "text": "The purpose of a Desk Route Study for submarine cables is to investigate which of the following items?",
+            "options": [
+                {"id": "a", "text": "Nautical charts and tide/sea currents."},
+                {"id": "b", "text": "The price of fiber in the local market."},
+                {"id": "c", "text": "The distance to the nearest OLT."},
+                {"id": "d", "text": "The availability of copper scrap."}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "adv49",
+            "text": "What is the documented target for submarine plant reliability regarding ship repairs?",
+            "options": [
+                {"id": "a", "text": "One repair every 5 years."},
+                {"id": "b", "text": "No more than one ship repair during its lifetime per two fiber pairs."},
+                {"id": "c", "text": "One repair after every storm."},
+                {"id": "d", "text": "Monthly maintenance by diving teams."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv50",
+            "text": "The estimated cost for the BSNL submarine OFC connectivity project between Kochi and Lakshadweep is approximately:",
+            "options": [
+                {"id": "a", "text": "Rs. 500 crore"},
+                {"id": "b", "text": "Rs. 1072 crore"},
+                {"id": "c", "text": "Rs. 2000 crore"},
+                {"id": "d", "text": "Rs. 13,334 crore"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv51",
+            "text": "Which of the following is considered a primary 'Wired' transport media?",
+            "options": [
+                {"id": "a", "text": "Microwave"},
+                {"id": "b", "text": "Satellite"},
+                {"id": "c", "text": "Fiber Optic"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv52",
+            "text": "Why have ring topologies become increasingly popular in transport networks?",
+            "options": [
+                {"id": "a", "text": "They use less fiber than star topologies."},
+                {"id": "b", "text": "They provide inherent route diversity for protection switching."},
+                {"id": "c", "text": "They are easier to install in deep ocean environments."},
+                {"id": "d", "text": "They eliminate the need for any IP addressing."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv53",
+            "text": "What is the highest data rate available in traditional Plesiochronous Digital Hierarchy (PDH)?",
+            "options": [
+                {"id": "a", "text": "2 Mbps"},
+                {"id": "b", "text": "34 Mbps"},
+                {"id": "c", "text": "140 Mbps"},
+                {"id": "d", "text": "155 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv54",
+            "text": "Next Generation SDH is defined as Classic SDH combined with which three technologies?",
+            "options": [
+                {"id": "a", "text": "IP, MPLS, and BGP"},
+                {"id": "b", "text": "DWDM, OTN, and ROADM"},
+                {"id": "c", "text": "GFP, VCAT, and LCAS"},
+                {"id": "d", "text": "GPON, DSL, and FTTH"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv55",
+            "text": "Which platform is designed to handle increasing data traffic by replacing traditional SDH/SONET ADMs?",
+            "options": [
+                {"id": "a", "text": "MSPP (Multi-Service Provisioning Platform)"},
+                {"id": "b", "text": "SLTE (Submarine Line Terminal Equipment)"},
+                {"id": "c", "text": "DSLAM"},
+                {"id": "d", "text": "BBNMS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "adv56",
+            "text": "What is the primary aim of an Automatically Switched Optical Network (ASON)?",
+            "options": [
+                {"id": "a", "text": "To increase the physical depth of submarine cables."},
+                {"id": "b", "text": "To automate resource and connection management within the network."},
+                {"id": "c", "text": "To convert all TDM traffic to Voice over IP exclusively."},
+                {"id": "d", "text": "To replace all optical fibers with wireless microwave links."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv57",
+            "text": "In PCM technology, the analog telephone signal is sampled at what bandwidth?",
+            "options": [
+                {"id": "a", "text": "1 kHz"},
+                {"id": "b", "text": "2 kHz"},
+                {"id": "c", "text": "3.1 kHz"},
+                {"id": "d", "text": "8 kHz"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv58",
+            "text": "According to SDH rates, what is the bit rate of an STM-4 signal?",
+            "options": [
+                {"id": "a", "text": "155.52 Mbps"},
+                {"id": "b", "text": "622.08 Mbps"},
+                {"id": "c", "text": "1244.16 Mbps"},
+                {"id": "d", "text": "2488.32 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv59",
+            "text": "In the SDH Section Overhead, which bytes are specifically used for Automatic Protection Switching (APS) control?",
+            "options": [
+                {"id": "a", "text": "A1, A2"},
+                {"id": "b", "text": "B1, B2"},
+                {"id": "c", "text": "K1, K2"},
+                {"id": "d", "text": "D1... D3"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv60",
+            "text": "Where is the Administrative Unit Pointer (AU-PTR) located in the STM-N frame structure?",
+            "options": [
+                {"id": "a", "text": "First row"},
+                {"id": "b", "text": "Fourth row"},
+                {"id": "c", "text": "Ninth row"},
+                {"id": "d", "text": "All rows (distributed)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv61",
+            "text": "Which SDH process takes place when a pointer is included in a TU or AU to allow the first byte of a Virtual Container to be located?",
+            "options": [
+                {"id": "a", "text": "Mapping"},
+                {"id": "b", "text": "Aligning"},
+                {"id": "c", "text": "Multiplexing"},
+                {"id": "d", "text": "Stuffing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv62",
+            "text": "In a higher-order virtual container like VC-4, the Path Overhead (POH) consists of how many columns?",
+            "options": [
+                {"id": "a", "text": "1 column (9 bytes)"},
+                {"id": "b", "text": "4 columns (36 bytes)"},
+                {"id": "c", "text": "9 columns (81 bytes)"},
+                {"id": "d", "text": "270 columns"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "adv63",
+            "text": "Which protection mechanism uses a 1+1 mode where traffic is simultaneously sent on both working and protection paths, requiring no APS protocol if unidirectional?",
+            "options": [
+                {"id": "a", "text": "Linear MS Protection"},
+                {"id": "b", "text": "Path Protection Ring"},
+                {"id": "c", "text": "Sub-network connection protection (SNCP)"},
+                {"id": "d", "text": "Mesh Restoration"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv64",
+            "text": "Which ITU-T standard defines the Generic Framing Procedure (GFP)?",
+            "options": [
+                {"id": "a", "text": "G.707"},
+                {"id": "b", "text": "G.7041"},
+                {"id": "c", "text": "G.7042"},
+                {"id": "d", "text": "G.8113.1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv65",
+            "text": "Which mode of GFP accepts native block mode data signals and uses the SDH frame as a digital wrapper, ideal for delay-sensitive SAN protocols?",
+            "options": [
+                {"id": "a", "text": "GFP-F (Framed)"},
+                {"id": "b", "text": "GFP-T (Transparent)"},
+                {"id": "c", "text": "GFP-L (Linear)"},
+                {"id": "d", "text": "GFP-M (Multicast)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv66",
+            "text": "What is a significant disadvantage of 'Contiguous Concatenation' in SDH?",
+            "options": [
+                {"id": "a", "text": "It cannot handle high-bit-rate payloads."},
+                {"id": "b", "text": "It requires functionality at every network element, adding complexity."},
+                {"id": "c", "text": "It is incompatible with VC-4 containers."},
+                {"id": "d", "text": "It results in high bit error rates for TDM traffic."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv67",
+            "text": "Which functionality allows an operator to provision an additional VC-12 path and add it 'hitless' to an existing connection?",
+            "options": [
+                {"id": "a", "text": "GFP"},
+                {"id": "b", "text": "VCAT"},
+                {"id": "c", "text": "LCAS"},
+                {"id": "d", "text": "APS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv68",
+            "text": "Because of DWDM technology, single fibers are now documented as being able to transmit data at speeds up to:",
+            "options": [
+                {"id": "a", "text": "100 Gb/s"},
+                {"id": "b", "text": "400 Gb/s"},
+                {"id": "c", "text": "1 Tb/s"},
+                {"id": "d", "text": "10 Tb/s"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv69",
+            "text": "A transponder that performs regeneration, re-shaping, and re-timing is classified as which type?",
+            "options": [
+                {"id": "a", "text": "1R"},
+                {"id": "b", "text": "2R"},
+                {"id": "c", "text": "3R"},
+                {"id": "d", "text": "4R"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv70",
+            "text": "One of the requirements for optical amplifiers for DWDM purposes is a 'flat amplification profile'. What does this ensure?",
+            "options": [
+                {"id": "a", "text": "Consistent gain across multiple wavelength signals in the operating band."},
+                {"id": "b", "text": "That the amplifier physical structure is thin and rack-mountable."},
+                {"id": "c", "text": "That the output signal is perfectly converted to electrical bits."},
+                {"id": "d", "text": "The elimination of all fiber splice loss."}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "adv71",
+            "text": "Stimulated Raman Scattering (SRS) in a fiber was originally considered an 'impairment'. Why?",
+            "options": [
+                {"id": "a", "text": "It caused the fiber to overheat and melt."},
+                {"id": "b", "text": "It robbed energy from lower wavelengths and fed it to upper wavelengths."},
+                {"id": "c", "text": "It restricted the maximum distance to less than 10 km."},
+                {"id": "d", "text": "It required the use of multimode fiber exclusively."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv72",
+            "text": "Which type of Optical Cross Connect (OXC) keeps signals in the photonic domain without needing expensive OEO conversion?",
+            "options": [
+                {"id": "a", "text": "Opaque OXC"},
+                {"id": "b", "text": "Photonic Cross-Connect (PXC)"},
+                {"id": "c", "text": "Translucent OXC"},
+                {"id": "d", "text": "Digital Cross-Connect (DXC)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv73",
+            "text": "What is the weight of a standard 2,200 mm high ZTE ZXWM M900 cabinet structure?",
+            "options": [
+                {"id": "a", "text": "50 kg"},
+                {"id": "b", "text": "70 kg"},
+                {"id": "c", "text": "80 kg"},
+                {"id": "d", "text": "90 kg"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv74",
+            "text": "What are the dimensions of the guide rail used in the ZTE OA sub-rack?",
+            "options": [
+                {"id": "a", "text": "200 mm (H) * 300 mm (W)"},
+                {"id": "b", "text": "577 mm (H) * 482.6 mm (W)"},
+                {"id": "c", "text": "1000 mm (H) * 600 mm (W)"},
+                {"id": "d", "text": "2600 mm (H) * 300 mm (D)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv75",
+            "text": "Which ZTE DWDM configuration typically consists of one power alarm sub-rack and one OA sub-rack?",
+            "options": [
+                {"id": "a", "text": "OTM (Optical Terminal Multiplexer)"},
+                {"id": "b", "text": "OADM"},
+                {"id": "c", "text": "OLA (Optical Line Amplifier)"},
+                {"id": "d", "text": "OXC"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv76",
+            "text": "In a ZTE DWDM sub-rack, which card is the carrier connecting boards and providing external signal interfaces?",
+            "options": [
+                {"id": "a", "text": "NCP"},
+                {"id": "b", "text": "OTUF"},
+                {"id": "c", "text": "Backplane"},
+                {"id": "d", "text": "OSC"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv77",
+            "text": "Which feature of traditional MPLS is disabled in MPLS-TP because it conflicts with the concept of a connection-oriented circuit path?",
+            "options": [
+                {"id": "a", "text": "LSP Creation"},
+                {"id": "b", "text": "OAM Monitoring"},
+                {"id": "c", "text": "Equal Cost Multi Path (ECMP)"},
+                {"id": "d", "text": "Section Layering"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv78",
+            "text": "Unlike traditional IP routing, MPLS-TP mandates the support of which type of paths?",
+            "options": [
+                {"id": "a", "text": "Unidirectional paths only."},
+                {"id": "b", "text": "Bidirectional Label Switched Paths (LSPs)."},
+                {"id": "c", "text": "Randomized routing paths for security."},
+                {"id": "d", "text": "Multi-hop wireless mesh paths."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv79",
+            "text": "Which MPLS OAM function is used Detect an unexpected connectivity defect between two MEPs as proactive OAM?",
+            "options": [
+                {"id": "a", "text": "RDI"},
+                {"id": "b", "text": "AIS"},
+                {"id": "c", "text": "CC/CV (Continuity Check/Verification)"},
+                {"id": "d", "text": "Trace Route"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv80",
+            "text": "Which mobile application allows MNS Partners to know the health status of DSLAM/OLTs relating to specific telephone numbers?",
+            "options": [
+                {"id": "a", "text": "EPAY App"},
+                {"id": "b", "text": "Sanchar Aadhar App"},
+                {"id": "c", "text": "Teevra App"},
+                {"id": "d", "text": "FMS Mobile"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv81",
+            "text": "What is the total documented power consumption for the CITRANS 660 PAN switch?",
+            "options": [
+                {"id": "a", "text": "408 Watt"},
+                {"id": "b", "text": "535 Watt"},
+                {"id": "c", "text": "625 Watt"},
+                {"id": "d", "text": "1000 Watt"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv82",
+            "text": "For MNG-PAN Switches, what is the maximum supported distance for 10G single-mode optical interfaces at 1550 nm?",
+            "options": [
+                {"id": "a", "text": "10 km"},
+                {"id": "b", "text": "20 km"},
+                {"id": "c", "text": "40 km"},
+                {"id": "d", "text": "80 km"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv83",
+            "text": "In satellite telephony, what equipment is used at the earth station to counteract the echo caused by large propagation delays?",
+            "options": [
+                {"id": "a", "text": "Transponders"},
+                {"id": "b", "text": "Altitude Controllers"},
+                {"id": "c", "text": "Echo Suppressors"},
+                {"id": "d", "text": "Telemetry systems"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv84",
+            "text": "What is the typical diameter of a BSNL broadband Ku-band VSAT dish/antenna?",
+            "options": [
+                {"id": "a", "text": "1 foot"},
+                {"id": "b", "text": "2 to 5 feet (0.55-1.8 meters)"},
+                {"id": "c", "text": "8.1 meters"},
+                {"id": "d", "text": "15 meters"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv85",
+            "text": "What is the size of the antenna assembly used in the DSPT outdoor facility (Hub)?",
+            "options": [
+                {"id": "a", "text": "1.2 meter"},
+                {"id": "b", "text": "3.5 meter"},
+                {"id": "c", "text": "8.1 meter"},
+                {"id": "d", "text": "10 meter"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv86",
+            "text": "BSNL DSPT service provides satellite telecommunication using the NSS-6 satellite with its hub located at:",
+            "options": [
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Pune"},
+                {"id": "c", "text": "Sikandrabad (UP)"},
+                {"id": "d", "text": "Hyderabad"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv87",
+            "text": "What is the maximum number of digits allowed in the VSAT ID field during configuration?",
+            "options": [
+                {"id": "a", "text": "3"},
+                {"id": "b", "text": "4"},
+                {"id": "c", "text": "5"},
+                {"id": "d", "text": "7"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv88",
+            "text": "For a BSNL employee to sign up for the Teevra App, what must they use as their User ID?",
+            "options": [
+                {"id": "a", "text": "Any chosen username"},
+                {"id": "b", "text": "Auto-generated username"},
+                {"id": "c", "text": "HRMS Number (including first digit)"},
+                {"id": "d", "text": "Service Mobile Number"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv89",
+            "text": "In the Gigabit Readiness Index (GRI) formula, the denominator includes which components?",
+            "options": [
+                {"id": "a", "text": "Total fiber length only."},
+                {"id": "b", "text": "Present OLTE count + future targets."},
+                {"id": "c", "text": "(BB working as on 31st March 2020 / 4) + FTTH Target of FY20-21."},
+                {"id": "d", "text": "Total population of the circle / 100."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv90",
+            "text": "According to the router security checklist, how frequently should login passwords be changed?",
+            "options": [
+                {"id": "a", "text": "Every 7 days"},
+                {"id": "b", "text": "Every 30 to 90 days"},
+                {"id": "c", "text": "Every year"},
+                {"id": "d", "text": "Only when a breach occurs"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv91",
+            "text": "What specific overhead feature in OTN provides dedicated bytes for dedicated overhead monitoring of paths across multiple operators?",
+            "options": [
+                {"id": "a", "text": "Section Monitoring (SM)"},
+                {"id": "b", "text": "Forward Error Correction (FEC)"},
+                {"id": "c", "text": "Tandem Connection Monitoring (TCM)"},
+                {"id": "d", "text": "Automatic Protection Switching (APS)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv92",
+            "text": "The DWDM frequency grid standard defines a S-band wavelength range. What is it?",
+            "options": [
+                {"id": "a", "text": "1280-1625 nm"},
+                {"id": "b", "text": "1460-1530 nm"},
+                {"id": "c", "text": "1530-1565 nm"},
+                {"id": "d", "text": "1565-1625 nm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv93",
+            "text": "What is the annual turnover requirement for an enterprise customer in the Telecom/IT sector to be classified as 'Gold'?",
+            "options": [
+                {"id": "a", "text": "Rs. 25 Crore"},
+                {"id": "b", "text": "Rs. 50 Crore"},
+                {"id": "c", "text": "Rs. 100 Crore"},
+                {"id": "d", "text": "Rs. 500 Crore"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv94",
+            "text": "Which Wi-Fi network standard supports a maximum speed of 200 Mbps and range up to 300 feet?",
+            "options": [
+                {"id": "a", "text": "802.11a"},
+                {"id": "b", "text": "802.11b"},
+                {"id": "c", "text": "802.11g"},
+                {"id": "d", "text": "802.11n"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "adv95",
+            "text": "In the content of Cloud services, what does the abbreviation SAP stand for?",
+            "options": [
+                {"id": "a", "text": "Service Access Protocol"},
+                {"id": "b", "text": "System Administration Platform"},
+                {"id": "c", "text": "Storage Allocation Plan"},
+                {"id": "d", "text": "Systems Applications and Products"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "adv96",
+            "text": "The BSNL VMS Portal for security hardening is accessible with which levels of authorization?",
+            "options": [
+                {"id": "a", "text": "National level only."},
+                {"id": "b", "text": "Corporate Office and Circle level only."},
+                {"id": "c", "text": "Circle and SSA levels."},
+                {"id": "d", "text": "Individual customer levels."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv97",
+            "text": "Which part of the SDH Section Overhead is coupler to the network architecture for monitoring between regenerators and other elements?",
+            "options": [
+                {"id": "a", "text": "RSOH"},
+                {"id": "b", "text": "MSOH"},
+                {"id": "c", "text": "POH"},
+                {"id": "d", "text": "AU-PTR"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "adv98",
+            "text": "What are the physical dimensions of an Alphion AONT-100 (Single Family Unit)?",
+            "options": [
+                {"id": "a", "text": "140mm x 170mm x 40mm"},
+                {"id": "b", "text": "200mm x 200mm x 50mm"},
+                {"id": "c", "text": "330mm (H) x 254mm (W) x 102mm (D)"},
+                {"id": "d", "text": "600mm x 600mm x 300mm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "adv99",
+            "text": "The CITRANS 650 (OC-PAN) switch utilizes which card for Cross Connection and EMU functions?",
+            "options": [
+                {"id": "a", "text": "XCUJ2"},
+                {"id": "b", "text": "SNCV1 (100G)"},
+                {"id": "c", "text": "XSJ3"},
+                {"id": "d", "text": "NMUJ1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "adv100",
+            "text": "In the OTN frame format, which field is used for future international standardization?",
+            "options": [
+                {"id": "a", "text": "SM"},
+                {"id": "b", "text": "TCM"},
+                {"id": "c", "text": "RES"},
+                {"id": "d", "text": "EXP"}
+            ],
+            "correctAnswer": "c"
+        }
+    ]
+}
