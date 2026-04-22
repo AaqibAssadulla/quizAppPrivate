@@ -1,0 +1,555 @@
+{
+  "title": "BSNL JTO Phase 2nd Training Exam - Enterprise Business GZB6 (Week 1) Full Extraction",
+  "questions": [
+    {
+      "id": "gzb6_q1",
+      "text": "BSNL created the Enterprise Business (EB) vertical mainly to:",
+      "options": [
+        { "id": "a", "text": "Replace CFA and CM verticals" },
+        { "id": "b", "text": "Handle rural telephony only" },
+        { "id": "c", "text": "Focus on high-volume enterprise clients" },
+        { "id": "d", "text": "Increase prepaid SIM sales" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q2",
+      "text": "Which of the following is NOT a business vertical of BSNL?",
+      "options": [
+        { "id": "a", "text": "International Roaming Division (IRD)" },
+        { "id": "b", "text": "Consumer Mobility (CM)" },
+        { "id": "c", "text": "Consumer Fixed Access (CFA)" },
+        { "id": "d", "text": "Enterprise Business (EB)" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q3",
+      "text": "According to the handout, enterprise customers are generally defined as businesses with a turnover of at least:",
+      "options": [
+        { "id": "a", "text": "₹1 Crore" },
+        { "id": "b", "text": "₹50 Crore" },
+        { "id": "c", "text": "₹10 Crore" },
+        { "id": "d", "text": "₹100 Crore" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q4",
+      "text": "Platinum enterprise customers are typically those with an annual turnover of:",
+      "options": [
+        { "id": "a", "text": "Above ₹500 Crore" },
+        { "id": "b", "text": "Above ₹50 Crore" },
+        { "id": "c", "text": "Above ₹100 Crore" },
+        { "id": "d", "text": "Between ₹50–500 Crore" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q5",
+      "text": "Which type of account manager handles Gold customers in BSNL’s EB setup?",
+      "options": [
+        { "id": "a", "text": "Key Account Manager (KAM)" },
+        { "id": "b", "text": "Circle Head" },
+        { "id": "c", "text": "National Account Manager (NAM)" },
+        { "id": "d", "text": "Service Delivery Manager" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q6",
+      "text": "Silver category enterprise customers are typically managed by:",
+      "options": [
+        { "id": "a", "text": "BSNL Board directly" },
+        { "id": "b", "text": "National Account Managers" },
+        { "id": "c", "text": "Channel Partners" },
+        { "id": "d", "text": "Customer Service Centers" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q7",
+      "text": "Which of the following best describes BSNL’s transformation towards enterprise segment?",
+      "options": [
+        { "id": "a", "text": "From solutions to products" },
+        { "id": "b", "text": "From converged to siloed" },
+        { "id": "c", "text": "From proactive BD to reactive order booking" },
+        { "id": "d", "text": "From “Customer will come” to “Customer is King”" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb6_q8",
+      "text": "In Enterprise Business Marketing, multi-channel strategy typically does NOT include:",
+      "options": [
+        { "id": "a", "text": "Social media/website" },
+        { "id": "b", "text": "Lottery-based promotions" },
+        { "id": "c", "text": "Emails and landing pages" },
+        { "id": "d", "text": "Mobile applications" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q9",
+      "text": "Which of the following is an example of brand diversity in BSNL’s enterprise portfolio?",
+      "options": [
+        { "id": "a", "text": "Providing Managed IT Services, Data Center, and Cloud Solutions" },
+        { "id": "b", "text": "Only selling SIM cards" },
+        { "id": "c", "text": "Offering just broadband connections" },
+        { "id": "d", "text": "Selling only landline and mobile connections" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q10",
+      "text": "The main objective of Enterprise Marketing Strategy is:",
+      "options": [
+        { "id": "a", "text": "Maximize short-term profits only" },
+        { "id": "b", "text": "Provide cheaper prepaid recharge coupons" },
+        { "id": "c", "text": "Focus only on government clients" },
+        { "id": "d", "text": "Increase revenue through customized solutions and strong client relations" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb6_q11",
+      "text": "Which of the following is NOT an attribute of good business etiquette?",
+      "options": [
+        { "id": "a", "text": "Thoughtfulness" },
+        { "id": "b", "text": "Respect" },
+        { "id": "c", "text": "Aggressiveness" },
+        { "id": "d", "text": "Graciousness" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q12",
+      "text": "The three components of business etiquette are:",
+      "options": [
+        { "id": "a", "text": "Dress, Status, Hierarchy" },
+        { "id": "b", "text": "Appearance, Actions, Words" },
+        { "id": "c", "text": "Knowledge, Attitude, Skills" },
+        { "id": "d", "text": "Communication, Style, Leadership" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q13",
+      "text": "While introducing yourself in a corporate setting, you should:",
+      "options": [
+        { "id": "a", "text": "Not use courtesy titles for yourself" },
+        { "id": "b", "text": "Use your courtesy title (e.g., “I am Mr. Sharma”)" },
+        { "id": "c", "text": "Only state your first name" },
+        { "id": "d", "text": "Avoid introductions" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q14",
+      "text": "Which of the following is a workspace manner as per BSNL’s EB guidelines?",
+      "options": [
+        { "id": "a", "text": "Playing loud music in your cabin" },
+        { "id": "b", "text": "Using foul language" },
+        { "id": "c", "text": "Keeping restrooms and pantry clean" },
+        { "id": "d", "text": "Eating smelly food at your desk" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q15",
+      "text": "“Lead to inspire, follow to exceed expectations” relates to:",
+      "options": [
+        { "id": "a", "text": "Customer classification" },
+        { "id": "b", "text": "Working with teams and supervisors" },
+        { "id": "c", "text": "Telecom service delivery" },
+        { "id": "d", "text": "Marketing strategy" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q16",
+      "text": "Which of the following is part of Corporate Grooming guidelines?",
+      "options": [
+        { "id": "a", "text": "Follow organization’s dress code" },
+        { "id": "b", "text": "Ignore neatness if skilled enough" },
+        { "id": "c", "text": "Always wear flashy clothes" },
+        { "id": "d", "text": "Use counterfeit fashion labels" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q17",
+      "text": "According to grooming rules, “Slobs” are perceived as:",
+      "options": [
+        { "id": "a", "text": "Highly efficient" },
+        { "id": "b", "text": "Disrespectful and poor at time management" },
+        { "id": "c", "text": "Smart and stylish" },
+        { "id": "d", "text": "Carefree but productive" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q18",
+      "text": "The minimum annual turnover required for an enterprise customer in BSNL is:",
+      "options": [
+        { "id": "a", "text": "₹5 Crore" },
+        { "id": "b", "text": "₹10 Crore" },
+        { "id": "c", "text": "₹50 Crore" },
+        { "id": "d", "text": "₹100 Crore" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q19",
+      "text": "In BSNL’s EB customer grading, Gold customers are those with turnover:",
+      "options": [
+        { "id": "a", "text": "₹10–50 Crore" },
+        { "id": "b", "text": "Above ₹500 Crore" },
+        { "id": "c", "text": "Less than ₹10 Crore" },
+        { "id": "d", "text": "₹50–500 Crore" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb6_q20",
+      "text": "Which type of BSNL enterprise customers are handled by Channel Partners?",
+      "options": [
+        { "id": "a", "text": "Platinum customers" },
+        { "id": "b", "text": "Gold customers" },
+        { "id": "c", "text": "Silver customers" },
+        { "id": "d", "text": "Government departments only" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q21",
+      "text": "In BSNL, National Account Managers (NAMs) are primarily responsible for:",
+      "options": [
+        { "id": "a", "text": "Handling Silver customers" },
+        { "id": "b", "text": "Overseeing Channel Partners" },
+        { "id": "c", "text": "Managing Platinum customers" },
+        { "id": "d", "text": "Supervising CFA vertical" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q22",
+      "text": "Key Account Managers (KAMs) are assigned to:",
+      "options": [
+        { "id": "a", "text": "Gold customers" },
+        { "id": "b", "text": "Only Silver customers" },
+        { "id": "c", "text": "Government clients only" },
+        { "id": "d", "text": "All BSNL prepaid users" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q23",
+      "text": "Which of the following is NOT a phase in the role of an Account Manager?",
+      "options": [
+        { "id": "a", "text": "Understanding aspirations" },
+        { "id": "b", "text": "Solution Refinement" },
+        { "id": "c", "text": "Stock Market Investment" },
+        { "id": "d", "text": "Introductory Meetings" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q24",
+      "text": "Before approaching a customer, an Account Manager must:",
+      "options": [
+        { "id": "a", "text": "Focus only on personal rapport" },
+        { "id": "b", "text": "Have deep knowledge of BSNL products and network" },
+        { "id": "c", "text": "Rely solely on third-party data" },
+        { "id": "d", "text": "Avoid learning customer details" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q25",
+      "text": "Which of the following perceptions must Account Managers create with customers?",
+      "options": [
+        { "id": "a", "text": "Accessibility and sincerity" },
+        { "id": "b", "text": "Difficult to reach" },
+        { "id": "c", "text": "Less responsive" },
+        { "id": "d", "text": "Keeps customers uninformed" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q26",
+      "text": "Which BSNL EB product falls under Data Services?",
+      "options": [
+        { "id": "a", "text": "EPBAX system" },
+        { "id": "b", "text": "PRI Lines" },
+        { "id": "c", "text": "MPLS VPN" },
+        { "id": "d", "text": "Business etiquette training" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q27",
+      "text": "Enterprise customers generally desire solutions that:",
+      "options": [
+        { "id": "a", "text": "Involve multiple vendors" },
+        { "id": "b", "text": "Provide complete, reliable services from a single interface" },
+        { "id": "c", "text": "Avoid hardware like routers" },
+        { "id": "d", "text": "Focus only on prepaid mobility" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q28",
+      "text": "Which of the following is a Managed Service offered by BSNL EB?",
+      "options": [
+        { "id": "a", "text": "FTTH home connection" },
+        { "id": "b", "text": "Cloud & Data Center services" },
+        { "id": "c", "text": "Prepaid recharge vouchers" },
+        { "id": "d", "text": "Only landline voice" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q29",
+      "text": "BSNL’s solution-based selling in EB means:",
+      "options": [
+        { "id": "a", "text": "Offering tailor-made packages combining voice, data, and IT services" },
+        { "id": "b", "text": "Selling maximum number of SIM cards" },
+        { "id": "c", "text": "Forcing customers to buy predefined products" },
+        { "id": "d", "text": "Avoiding bundled services" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q30",
+      "text": "The primary reason enterprises prefer BSNL EB services is:",
+      "options": [
+        { "id": "a", "text": "Cheaper SMS packs" },
+        { "id": "b", "text": "Only availability of mobile prepaid" },
+        { "id": "c", "text": "National reach with complete telecom + IT solutions" },
+        { "id": "d", "text": "Free promotional offers" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q31",
+      "text": "The EB Sales Funnel begins with:",
+      "options": [
+        { "id": "a", "text": "Lead registration" },
+        { "id": "b", "text": "Order booking" },
+        { "id": "c", "text": "Price negotiation" },
+        { "id": "d", "text": "Deal lost" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q32",
+      "text": "Which stage of the EB sales funnel involves submission of proposal to customers?",
+      "options": [
+        { "id": "a", "text": "Stage I" },
+        { "id": "b", "text": "Stage III" },
+        { "id": "c", "text": "Stage IV" },
+        { "id": "d", "text": "Stage II" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb6_q33",
+      "text": "In EB workflow, after order booking, the next crucial step is:",
+      "options": [
+        { "id": "a", "text": "Proposal submission" },
+        { "id": "b", "text": "Price renegotiation" },
+        { "id": "c", "text": "Service delivery and commissioning" },
+        { "id": "d", "text": "Lead registration" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q34",
+      "text": "Sales Activity Reports in EB are prepared by:",
+      "options": [
+        { "id": "a", "text": "Each KAM after every customer interaction" },
+        { "id": "b", "text": "Customers themselves" },
+        { "id": "c", "text": "Only Circle Heads" },
+        { "id": "d", "text": "Channel Partners" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q35",
+      "text": "EB sales funnel reports are sent weekly to Corporate Office for review by:",
+      "options": [
+        { "id": "a", "text": "CMD BSNL" },
+        { "id": "b", "text": "Head of CFA Vertical" },
+        { "id": "c", "text": "Director (Enterprise)" },
+        { "id": "d", "text": "AGM (Finance)" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q36",
+      "text": "Which of the following is NOT part of the EB Life Cycle?",
+      "options": [
+        { "id": "a", "text": "Prospecting & Lead Generation" },
+        { "id": "b", "text": "Service Delivery & Billing" },
+        { "id": "c", "text": "Retail SIM Activation" },
+        { "id": "d", "text": "Fault Monitoring & Assurance" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q37",
+      "text": "EB Life Cycle typically begins with:",
+      "options": [
+        { "id": "a", "text": "Customer Service Assurance" },
+        { "id": "b", "text": "Prospecting & Enquiry" },
+        { "id": "c", "text": "Billing & Collection" },
+        { "id": "d", "text": "Revenue Closure" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q38",
+      "text": "Which activity ensures long-term relationship in the EB Life Cycle?",
+      "options": [
+        { "id": "a", "text": "Only order booking" },
+        { "id": "b", "text": "Service assurance & fault resolution" },
+        { "id": "c", "text": "Sales closure" },
+        { "id": "d", "text": "Discount approvals" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q39",
+      "text": "In EB workflow, feasibility check is important because:",
+      "options": [
+        { "id": "a", "text": "It reduces customer billing" },
+        { "id": "b", "text": "It ensures technical capability before committing solutions" },
+        { "id": "c", "text": "It avoids customer categorization" },
+        { "id": "d", "text": "It helps in tariff approvals" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q40",
+      "text": "Which of the following best summarizes the EB Life Cycle?",
+      "options": [
+        { "id": "a", "text": "One-time sale -> Revenue closure" },
+        { "id": "b", "text": "Lead gen -> Solution design -> Delivery -> Billing -> Assurance" },
+        { "id": "c", "text": "Customer complaint -> Refund -> Closure" },
+        { "id": "d", "text": "Tariff approval -> Order booking" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q41",
+      "text": "The EB Portal is primarily used for:",
+      "options": [
+        { "id": "a", "text": "Managing enterprise customer services, billing, and workflows" },
+        { "id": "b", "text": "Social media promotion" },
+        { "id": "c", "text": "Employee HR functions" },
+        { "id": "d", "text": "General prepaid recharge" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q42",
+      "text": "In EB Portal, which of the following is NOT a core function?",
+      "options": [
+        { "id": "a", "text": "Lead registration" },
+        { "id": "b", "text": "Online gaming support" },
+        { "id": "c", "text": "Sales order tracking" },
+        { "id": "d", "text": "Service assurance" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q43",
+      "text": "EB Customer Management involves:",
+      "options": [
+        { "id": "a", "text": "Only collecting payments" },
+        { "id": "b", "text": "Avoiding customer interactions" },
+        { "id": "c", "text": "Understanding needs, maintaining relationship, and assurance" },
+        { "id": "d", "text": "Only handling complaints" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q44",
+      "text": "Lead Management in EB helps to:",
+      "options": [
+        { "id": "a", "text": "Reduce customer satisfaction" },
+        { "id": "b", "text": "Track conversion of prospects into sales" },
+        { "id": "c", "text": "Avoid systematic reporting" },
+        { "id": "d", "text": "Eliminate sales funnel monitoring" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q45",
+      "text": "In BSNL’s EB Sales Funnel, Stage III corresponds to:",
+      "options": [
+        { "id": "a", "text": "Price negotiation" },
+        { "id": "b", "text": "Registering the lead" },
+        { "id": "c", "text": "Proposal submission" },
+        { "id": "d", "text": "Orders booked" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q46",
+      "text": "The purpose of Sales Funnel Review meetings is to:",
+      "options": [
+        { "id": "a", "text": "Entertain customers" },
+        { "id": "b", "text": "Discuss employee promotions" },
+        { "id": "c", "text": "Finalize advertising budgets" },
+        { "id": "d", "text": "Track sales progress and reasons for non-progress" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb6_q47",
+      "text": "Who reviews the consolidated Sales Funnel at BSNL Corporate Office?",
+      "options": [
+        { "id": "a", "text": "Director (Enterprise)" },
+        { "id": "b", "text": "CMD BSNL" },
+        { "id": "c", "text": "Director (HR)" },
+        { "id": "d", "text": "General Manager (Finance)" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb6_q48",
+      "text": "Which is the correct order of Lead Stages in EB Funnel?",
+      "options": [
+        { "id": "a", "text": "Proposal -> Order -> Negotiation -> Registration" },
+        { "id": "b", "text": "Order -> Negotiation -> Proposal -> Registration" },
+        { "id": "c", "text": "Registration -> Proposal -> Negotiation -> Order -> Deal lost" },
+        { "id": "d", "text": "Registration -> Order -> Proposal -> Negotiation" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb6_q49",
+      "text": "In EB reviews, Service Delivery tracking is linked with:",
+      "options": [
+        { "id": "a", "text": "Prospecting stage" },
+        { "id": "b", "text": "Orders booked (Stage IV)" },
+        { "id": "c", "text": "Proposal submission" },
+        { "id": "d", "text": "Deal lost" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb6_q50",
+      "text": "Effective Lead and Sales Funnel Management ensures:",
+      "options": [
+        { "id": "a", "text": "Random customer handling" },
+        { "id": "b", "text": "Avoiding accountability in sales" },
+        { "id": "c", "text": "Structured conversion of prospects into enterprise customers" },
+        { "id": "d", "text": "More dependence on retail connections" }
+      ],
+      "correctAnswer": "c"
+    }
+  ]
+}

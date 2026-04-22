@@ -1,0 +1,488 @@
+{
+  "title": "BSNL JTO Phase 2nd Training Exam - Enterprise Business GZB5 Extraction",
+  "questions": [
+    {
+      "id": "gzb5_q1",
+      "text": "Which ITU document defines the 5G vision (IMT-2020)?",
+      "options": [
+        { "id": "a", "text": "ITU-T G.709" },
+        { "id": "b", "text": "ITU-T Y.1564" },
+        { "id": "c", "text": "ITU-R M.1079" },
+        { "id": "d", "text": "ITU-R M.2083" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb5_q2",
+      "text": "5G technology promises latency as low as:",
+      "options": [
+        { "id": "a", "text": "1 ms" },
+        { "id": "b", "text": "10 ms" },
+        { "id": "c", "text": "20 ms" },
+        { "id": "d", "text": "50 ms" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q3",
+      "text": "A key use case of 5G mMTC (Massive Machine Type Communications) is:",
+      "options": [
+        { "id": "a", "text": "Fixed broadband replacement" },
+        { "id": "b", "text": "Cloud gaming" },
+        { "id": "c", "text": "Massive IoT device connectivity" },
+        { "id": "d", "text": "AR/VR" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q4",
+      "text": "The new radio access technology introduced with 5G is:",
+      "options": [
+        { "id": "a", "text": "NR (New Radio)" },
+        { "id": "b", "text": "UMTS" },
+        { "id": "c", "text": "GSM" },
+        { "id": "d", "text": "LTE-A" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q5",
+      "text": "Cloud computing is often referred to as:",
+      "options": [
+        { "id": "a", "text": "Local computing" },
+        { "id": "b", "text": "Traditional computing" },
+        { "id": "c", "text": "Utility computing" },
+        { "id": "d", "text": "Analog computing" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q6",
+      "text": "Which cloud model gives customers the most control over the IT stack?",
+      "options": [
+        { "id": "a", "text": "SaaS" },
+        { "id": "b", "text": "IaaS" },
+        { "id": "c", "text": "PaaS" },
+        { "id": "d", "text": "BPaaS" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q7",
+      "text": "The 'Pay-as-you-go' model is a hallmark feature of:",
+      "options": [
+        { "id": "a", "text": "Cloud billing" },
+        { "id": "b", "text": "PSTN" },
+        { "id": "c", "text": "MPLS VPN" },
+        { "id": "d", "text": "PRI trunk" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q8",
+      "text": "Next Generation Network (NGN) primarily uses which switching technique?",
+      "options": [
+        { "id": "a", "text": "Circuit switching" },
+        { "id": "b", "text": "Frequency switching" },
+        { "id": "c", "text": "Optical-only switching" },
+        { "id": "d", "text": "Packet switching (IP-based)" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb5_q9",
+      "text": "A softswitch in an NGN architecture controls:",
+      "options": [
+        { "id": "a", "text": "User billing directly" },
+        { "id": "b", "text": "Call control and signaling functions" },
+        { "id": "c", "text": "Access points only" },
+        { "id": "d", "text": "Satellite links" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q10",
+      "text": "Which protocol is considered the core for NGN call control?",
+      "options": [
+        { "id": "a", "text": "SIP" },
+        { "id": "b", "text": "FTP" },
+        { "id": "c", "text": "SNMP" },
+        { "id": "d", "text": "SMTP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q11",
+      "text": "A key advantage of NGN is:",
+      "options": [
+        { "id": "a", "text": "Single service per network" },
+        { "id": "b", "text": "No scalability" },
+        { "id": "c", "text": "Convergence of voice, data & video over IP" },
+        { "id": "d", "text": "Dedicated copper lines required" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q12",
+      "text": "A VPN provides which of the following?",
+      "options": [
+        { "id": "a", "text": "Open public browsing" },
+        { "id": "b", "text": "Virtual Private Network over public internet" },
+        { "id": "c", "text": "Dedicated leased copper pair" },
+        { "id": "d", "text": "Local loop access only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q13",
+      "text": "MPLS VPN is preferred by enterprises because it:",
+      "options": [
+        { "id": "a", "text": "Uses only satellite links" },
+        { "id": "b", "text": "Removes need of IP routing" },
+        { "id": "c", "text": "Works only in LAN" },
+        { "id": "d", "text": "Provides QoS and traffic engineering" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb5_q14",
+      "text": "A common protocol used in VPN tunneling is:",
+      "options": [
+        { "id": "a", "text": "SMTP" },
+        { "id": "b", "text": "IPsec" },
+        { "id": "c", "text": "DHCP" },
+        { "id": "d", "text": "POP3" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q15",
+      "text": "A leased line is best described as a:",
+      "options": [
+        { "id": "a", "text": "Dedicated point-to-point link for enterprise" },
+        { "id": "b", "text": "Shared public internet line" },
+        { "id": "c", "text": "Dial-up access line" },
+        { "id": "d", "text": "Wireless only service" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q16",
+      "text": "In leased line services, CIR stands for:",
+      "options": [
+        { "id": "a", "text": "Common Internet Rate" },
+        { "id": "b", "text": "Committed Information Rate" },
+        { "id": "c", "text": "Customer Installation Record" },
+        { "id": "d", "text": "Control Input Request" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q17",
+      "text": "BSNL leased lines are primarily delivered over:",
+      "options": [
+        { "id": "a", "text": "Wi-Fi only" },
+        { "id": "b", "text": "Copper pair" },
+        { "id": "c", "text": "Optical fiber / MPLS backbone" },
+        { "id": "d", "text": "Satellite" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q18",
+      "text": "ISDN PRI in India typically provides how many channels?",
+      "options": [
+        { "id": "a", "text": "30 B-channels + 1 D-channel" },
+        { "id": "b", "text": "2 channels" },
+        { "id": "c", "text": "64 channels" },
+        { "id": "d", "text": "Unlimited channels" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q19",
+      "text": "BRI ISDN provides which configuration?",
+      "options": [
+        { "id": "a", "text": "30B + D channels" },
+        { "id": "b", "text": "64B channels" },
+        { "id": "c", "text": "2B + D channels" },
+        { "id": "d", "text": "Only 1 channel" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q20",
+      "text": "A main benefit of ISDN PRI for enterprise customers is:",
+      "options": [
+        { "id": "a", "text": "Always-on IP connectivity" },
+        { "id": "b", "text": "Multiple voice lines on a single circuit" },
+        { "id": "c", "text": "Free satellite calls" },
+        { "id": "d", "text": "Elimination of network switching" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q21",
+      "text": "The primary technology used in BSNL FTTH is:",
+      "options": [
+        { "id": "a", "text": "ADSL" },
+        { "id": "b", "text": "GPON" },
+        { "id": "c", "text": "VSAT" },
+        { "id": "d", "text": "WiMAX" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q22",
+      "text": "BSNL FTTH offers potential speeds up to:",
+      "options": [
+        { "id": "a", "text": "2 Mbps" },
+        { "id": "b", "text": "100 Mbps – 1 Gbps" },
+        { "id": "c", "text": "10 Mbps" },
+        { "id": "d", "text": "64 kbps" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q23",
+      "text": "In an FTTH environment, ONU stands for:",
+      "options": [
+        { "id": "a", "text": "Online Network Utility" },
+        { "id": "b", "text": "Overhead Node Utility" },
+        { "id": "c", "text": "Operator Network User" },
+        { "id": "d", "text": "Optical Network Unit" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb5_q24",
+      "text": "MPLS stands for:",
+      "options": [
+        { "id": "a", "text": "Multi Protocol Label Switching" },
+        { "id": "b", "text": "Multi Processing Label Service" },
+        { "id": "c", "text": "Multi Path Local Switching" },
+        { "id": "d", "text": "Managed Protocol Layer Service" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q25",
+      "text": "A major advantage of using MPLS in a network is:",
+      "options": [
+        { "id": "a", "text": "Only works for voice" },
+        { "id": "b", "text": "Provides QoS and traffic engineering" },
+        { "id": "c", "text": "Eliminates the need for routers" },
+        { "id": "d", "text": "Works only on copper infrastructure" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q26",
+      "text": "The MPLS backbone of BSNL connects which layers of the network?",
+      "options": [
+        { "id": "a", "text": "Only rural areas" },
+        { "id": "b", "text": "Only Wi-Fi hotspots" },
+        { "id": "c", "text": "Core, distribution, and access layers" },
+        { "id": "d", "text": "Only cloud services" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q27",
+      "text": "Data Centers are typically classified into tiers according to which standard?",
+      "options": [
+        { "id": "a", "text": "ISO 9001" },
+        { "id": "b", "text": "TIA-942" },
+        { "id": "c", "text": "IEEE 802.11" },
+        { "id": "d", "text": "ITU-R" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q28",
+      "text": "Which Data Center tier provides approximately 99.995% uptime?",
+      "options": [
+        { "id": "a", "text": "Tier IV" },
+        { "id": "b", "text": "Tier I" },
+        { "id": "c", "text": "Tier II" },
+        { "id": "d", "text": "Tier III" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q29",
+      "text": "BSNL Internet Data Centers (IDCs) provide which of the following?",
+      "options": [
+        { "id": "a", "text": "Only voice services" },
+        { "id": "b", "text": "Hosting, cloud, co-location, and managed services" },
+        { "id": "c", "text": "GSM SIM distribution only" },
+        { "id": "d", "text": "Dial-up internet access" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q30",
+      "text": "Managed IT and network services help reduce:",
+      "options": [
+        { "id": "a", "text": "Customer’s focus on core business" },
+        { "id": "b", "text": "Operational complexity and downtime" },
+        { "id": "c", "text": "SLA compliance" },
+        { "id": "d", "text": "Remote management capabilities" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q38",
+      "text": "DDoS attack refers to:",
+      "options": [
+        { "id": "a", "text": "Distributed Denial of Service" },
+        { "id": "b", "text": "Digital Data on Server" },
+        { "id": "c", "text": "Direct Data Output System" },
+        { "id": "d", "text": "Distributed Database Operation" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q39",
+      "text": "VoIP stands for:",
+      "options": [
+        { "id": "a", "text": "Video over IP" },
+        { "id": "b", "text": "Voice over Internet Protocol" },
+        { "id": "c", "text": "Virtual over IP" },
+        { "id": "d", "text": "Voice on ISDN Protocol" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q40",
+      "text": "An advantage of VoIP for enterprises is:",
+      "options": [
+        { "id": "a", "text": "Cheaper long-distance calls" },
+        { "id": "b", "text": "Integration with SIP platforms" },
+        { "id": "c", "text": "Uses packet-switched networking" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb5_q42",
+      "text": "Telepresence technology is best described as:",
+      "options": [
+        { "id": "a", "text": "Satellite TV" },
+        { "id": "b", "text": "Advanced video conferencing providing life-like meetings" },
+        { "id": "c", "text": "IPTV" },
+        { "id": "d", "text": "Wi-Fi connectivity" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q46",
+      "text": "A typical protocol used for standard video conferencing is:",
+      "options": [
+        { "id": "a", "text": "FTP" },
+        { "id": "b", "text": "POP3" },
+        { "id": "c", "text": "H.323" },
+        { "id": "d", "text": "DNS" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q48",
+      "text": "VSAT stands for:",
+      "options": [
+        { "id": "a", "text": "Very Small Aperture Terminal" },
+        { "id": "b", "text": "Virtual Satellite Access Terminal" },
+        { "id": "c", "text": "Video Satellite Access Technology" },
+        { "id": "d", "text": "Voice Switching Access Terminal" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q50",
+      "text": "A primary limitation of VSAT communication is:",
+      "options": [
+        { "id": "a", "text": "High latency (~500-600 ms)" },
+        { "id": "b", "text": "Inability to provide IP connectivity" },
+        { "id": "c", "text": "Requirement for indoor operation only" },
+        { "id": "d", "text": "Lack of link redundancy" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q52",
+      "text": "Smart metering is a prominent example of which application?",
+      "options": [
+        { "id": "a", "text": "IoT (Internet of Things)" },
+        { "id": "b", "text": "PRI trunking" },
+        { "id": "c", "text": "VSAT" },
+        { "id": "d", "text": "WiMAX" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q56",
+      "text": "Which protocol is commonly used to synchronize email across multiple devices?",
+      "options": [
+        { "id": "a", "text": "FTP" },
+        { "id": "b", "text": "IMAP" },
+        { "id": "c", "text": "DNS" },
+        { "id": "d", "text": "RIP" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb5_q60",
+      "text": "Unified Communications (UC) aims to integrate:",
+      "options": [
+        { "id": "a", "text": "Voice, video, email, and IM into one platform" },
+        { "id": "b", "text": "Telegraph and landline only" },
+        { "id": "c", "text": "GSM & CDMA networks only" },
+        { "id": "d", "text": "PSTN and satellite switching" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q63",
+      "text": "Content Delivery Networks (CDN) are primarily used to improve:",
+      "options": [
+        { "id": "a", "text": "SMS delivery speeds" },
+        { "id": "b", "text": "Content delivery latency" },
+        { "id": "c", "text": "PSTN voice quality" },
+        { "id": "d", "text": "PRI trunking efficiency" }
+      ],
+      "correctAnswer": "b"
+    },
+    { "id": "gzb5_q66",
+      "text": "OTT stands for:",
+      "options": [
+        { "id": "a", "text": "Over The Top" },
+        { "id": "b", "text": "Online Telecom Trunk" },
+        { "id": "c", "text": "One Time Transfer" },
+        { "id": "d", "text": "Open Telecom Technology" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb5_q74",
+      "text": "A flagship service launched under the Digital India initiative is:",
+      "options": [
+        { "id": "a", "text": "Telegraph booking" },
+        { "id": "b", "text": "VSAT billing" },
+        { "id": "c", "text": "UMANG app" },
+        { "id": "d", "text": "PRI trunk management" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb5_q75",
+      "text": "The BharatNet project primarily aims at providing:",
+      "options": [
+        { "id": "a", "text": "Satellite SMS for all" },
+        { "id": "b", "text": "Rural broadband via optical fiber" },
+        { "id": "c", "text": "GSM-only rollout in cities" },
+        { "id": "d", "text": "Telegraph expansion in villages" }
+      ],
+      "correctAnswer": "b"
+    }
+  ]
+}
