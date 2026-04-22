@@ -1,555 +1,829 @@
 {
-  "title": "BSNL JTO Phase 2nd Training Exam - Enterprise Business GZB2 Complete Extraction",
+  "title": "BSNL JTO Phase 2nd Training Exam - Enterprise Business GZB8 (Week 5) Full Extraction",
   "questions": [
     {
-      "id": "gzb2_q1",
-      "text": "ISDN BRI provides how many B-channels and D-channels?",
+      "id": "gzb8_q1",
+      "text": "In a GPON system, the typical downstream speed supported is:",
       "options": [
-        { "id": "a", "text": "1B + 1D" },
-        { "id": "b", "text": "2B + 1D" },
-        { "id": "c", "text": "23B + 1D" },
-        { "id": "d", "text": "30B + 1D" }
+        { "id": "a", "text": "1.25 Gbps" },
+        { "id": "b", "text": "622 Mbps" },
+        { "id": "c", "text": "2.5 Gbps" },
+        { "id": "d", "text": "10 Gbps" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q2",
+      "text": "Alphion OLT connects to the core network primarily via:",
+      "options": [
+        { "id": "a", "text": "Analog telephone lines" },
+        { "id": "b", "text": "Uplink ports" },
+        { "id": "c", "text": "Customer LAN directly" },
+        { "id": "d", "text": "Mobile BTS" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q2",
-      "text": "PRI in India is based on which standard?",
+      "id": "gzb8_q3",
+      "text": "In Alphion ONT, voice service is provided through which ports?",
       "options": [
-        { "id": "a", "text": "T1 (23B+1D)" },
-        { "id": "b", "text": "OC-3" },
-        { "id": "c", "text": "E1 (30B+1D)" },
-        { "id": "d", "text": "STM-1" }
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "id": "gzb2_q3",
-      "text": "EPABX stands for:",
-      "options": [
-        { "id": "a", "text": "Extended Private Automatic Branch Exchange" },
-        { "id": "b", "text": "Enhanced Public Access Branch Exchange" },
-        { "id": "c", "text": "Electronic Private Automatic Branch Exchange" },
-        { "id": "d", "text": "Enterprise Private Automatic Broadband Exchange" }
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "id": "gzb2_q4",
-      "text": "Which protocol is most common for VoIP trunking?",
-      "options": [
-        { "id": "a", "text": "H.323" },
-        { "id": "b", "text": "ISUP" },
-        { "id": "c", "text": "RTP" },
-        { "id": "d", "text": "SIP" }
+        { "id": "a", "text": "Optical connectors" },
+        { "id": "b", "text": "RJ45 ports" },
+        { "id": "c", "text": "HDMI ports" },
+        { "id": "d", "text": "RJ11 ports" }
       ],
       "correctAnswer": "d"
     },
     {
-      "id": "gzb2_q5",
-      "text": "ISDN PRI provides how many simultaneous voice calls on one E1 line?",
+      "id": "gzb8_q4",
+      "text": "Huawei GPON OLT uses which specific management system?",
       "options": [
-        { "id": "a", "text": "23" },
-        { "id": "b", "text": "30" },
-        { "id": "c", "text": "24" },
-        { "id": "d", "text": "31" }
+        { "id": "a", "text": "U2000" },
+        { "id": "b", "text": "SDH Manager" },
+        { "id": "c", "text": "SNMP console only" },
+        { "id": "d", "text": "NMS/EMS from third-party" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q5",
+      "text": "The typical split ratio supported in Huawei GPON is:",
+      "options": [
+        { "id": "a", "text": "1:8" },
+        { "id": "b", "text": "1:32 or 1:64" },
+        { "id": "c", "text": "1:16" },
+        { "id": "d", "text": "1:2" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q6",
-      "text": "In Voice VPN, short code dialing is also called:",
+      "id": "gzb8_q6",
+      "text": "Which protocol is used by Huawei ONT for remote management?",
       "options": [
-        { "id": "a", "text": "Speed dialing" },
-        { "id": "b", "text": "Abbreviated dialing" },
-        { "id": "c", "text": "IVRS" },
-        { "id": "d", "text": "Direct Inward Dialing" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q7",
-      "text": "The key benefit of Voice VPN is:",
-      "options": [
-        { "id": "a", "text": "High data transfer speed" },
-        { "id": "b", "text": "Multimedia streaming" },
-        { "id": "c", "text": "Free intra-VPN calls" },
-        { "id": "d", "text": "Location tracking" }
+        { "id": "a", "text": "SNMP only" },
+        { "id": "b", "text": "FTP" },
+        { "id": "c", "text": "TR-069" },
+        { "id": "d", "text": "SMTP" }
       ],
       "correctAnswer": "c"
     },
     {
-      "id": "gzb2_q8",
-      "text": "Which feature allows calls to follow the user outside office VPN?",
+      "id": "gzb8_q7",
+      "text": "Transport networks are primarily designed to carry:",
       "options": [
-        { "id": "a", "text": "Hot Desking" },
-        { "id": "b", "text": "Follow Me" },
-        { "id": "c", "text": "Group Pickup" },
-        { "id": "d", "text": "Call Hunting" }
+        { "id": "a", "text": "SMS services" },
+        { "id": "b", "text": "Voice, video, and data traffic" },
+        { "id": "c", "text": "Telegraph traffic" },
+        { "id": "d", "text": "Only internal emails" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q9",
-      "text": "A VPN number scheme can include:",
+      "id": "gzb8_q8",
+      "text": "SDH technology is a prime example of:",
       "options": [
-        { "id": "a", "text": "Only mobile numbers" },
-        { "id": "b", "text": "Both landline and mobile" },
-        { "id": "c", "text": "Only landline numbers" },
-        { "id": "d", "text": "Only PRI lines" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q10",
-      "text": "BSNL Voice VPN is mainly targeted for:",
-      "options": [
-        { "id": "a", "text": "Individual users" },
-        { "id": "b", "text": "Small offices" },
-        { "id": "c", "text": "Corporate/Enterprise customers" },
-        { "id": "d", "text": "Students" }
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "id": "gzb2_q11",
-      "text": "Broadband VPN typically uses:",
-      "options": [
-        { "id": "a", "text": "ISDN" },
-        { "id": "b", "text": "MPLS" },
-        { "id": "c", "text": "DSLAM" },
-        { "id": "d", "text": "EPABX" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q12",
-      "text": "MPLS VPN supports:",
-      "options": [
-        { "id": "a", "text": "Only voice traffic" },
-        { "id": "b", "text": "Multiple services (voice, data, video)" },
-        { "id": "c", "text": "Only SMS" },
-        { "id": "d", "text": "Fax only" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q13",
-      "text": "Enterprise mobility means:",
-      "options": [
-        { "id": "a", "text": "Providing laptops to employees" },
-        { "id": "b", "text": "Free Wi-Fi in office" },
-        { "id": "c", "text": "Centralized printing" },
-        { "id": "d", "text": "Extending enterprise applications on mobile devices" }
+        { "id": "a", "text": "Packet-based network" },
+        { "id": "b", "text": "Wireless transport" },
+        { "id": "c", "text": "IP/MPLS only" },
+        { "id": "d", "text": "Circuit-switched transport technology" }
       ],
       "correctAnswer": "d"
     },
     {
-      "id": "gzb2_q14",
-      "text": "APN stands for:",
+      "id": "gzb8_q9",
+      "text": "MPLS-TP in transport networks provides which key feature?",
       "options": [
-        { "id": "a", "text": "Application Provider Network" },
-        { "id": "b", "text": "Access Point Name" },
-        { "id": "c", "text": "Advanced Packet Network" },
-        { "id": "d", "text": "Application Protocol Node" }
+        { "id": "a", "text": "GSM connectivity" },
+        { "id": "b", "text": "IP-based packet transport with OAM features" },
+        { "id": "c", "text": "Only voice services" },
+        { "id": "d", "text": "SMS broadcast" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q15",
-      "text": "Which technology ensures separation of traffic in MPLS VPN?",
+      "id": "gzb8_q10",
+      "text": "The basic frame rate for STM-1 in an SDH network is:",
       "options": [
-        { "id": "a", "text": "VLAN" },
-        { "id": "b", "text": "NAT" },
-        { "id": "c", "text": "VRF (Virtual Routing & Forwarding)" },
-        { "id": "d", "text": "Proxy ARP" }
+        { "id": "a", "text": "155 Mbps" },
+        { "id": "b", "text": "622 Mbps" },
+        { "id": "c", "text": "2.5 Gbps" },
+        { "id": "d", "text": "10 Gbps" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q11",
+      "text": "The primary goal of CPAN in BSNL's network is:",
+      "options": [
+        { "id": "a", "text": "Replacing all copper lines with satellite" },
+        { "id": "b", "text": "Aggregating IP traffic from various access networks" },
+        { "id": "c", "text": "Handling only rural voice calls" },
+        { "id": "d", "text": "Providing free Wi-Fi to employees" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q12",
+      "text": "CPAN is based on which fundamental technology?",
+      "options": [
+        { "id": "a", "text": "MPLS-TP" },
+        { "id": "b", "text": "Legacy TDM" },
+        { "id": "c", "text": "Analog switching" },
+        { "id": "d", "text": "Coaxial transport" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q13",
+      "text": "NG-SDH adds support for:",
+      "options": [
+        { "id": "a", "text": "IP/Ethernet services" },
+        { "id": "b", "text": "Telegraph services" },
+        { "id": "c", "text": "Dial-up" },
+        { "id": "d", "text": "Analog TV" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q14",
+      "text": "GFP in NG-SDH stands for:",
+      "options": [
+        { "id": "a", "text": "Generic Framing Procedure" },
+        { "id": "b", "text": "General Frame Processor" },
+        { "id": "c", "text": "Gigabit Frame Path" },
+        { "id": "d", "text": "Global Forwarding Packet" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q15",
+      "text": "A key advantage of NG-SDH is:",
+      "options": [
+        { "id": "a", "text": "Backward compatibility with SDH and support for packet transport" },
+        { "id": "b", "text": "Only supports legacy services" },
+        { "id": "c", "text": "No support for Ethernet" },
+        { "id": "d", "text": "Incompatible with existing networks" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q16",
+      "text": "VSAT systems typically utilize satellites in which orbit?",
+      "options": [
+        { "id": "a", "text": "LEO" },
+        { "id": "b", "text": "MEO" },
+        { "id": "c", "text": "GEO" },
+        { "id": "d", "text": "Polar" }
       ],
       "correctAnswer": "c"
     },
     {
-      "id": "gzb2_q16",
-      "text": "Bulk SMS is widely used for:",
+      "id": "gzb8_q17",
+      "text": "A typical VSAT antenna diameter range is:",
       "options": [
-        { "id": "a", "text": "Video calls" },
-        { "id": "b", "text": "Marketing campaigns" },
-        { "id": "c", "text": "File transfer" },
-        { "id": "d", "text": "VPN tunnels" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q17",
-      "text": "Which protocol is used in SMS centers?",
-      "options": [
-        { "id": "a", "text": "HTTP" },
-        { "id": "b", "text": "SMPP" },
-        { "id": "c", "text": "SMTP" },
-        { "id": "d", "text": "SIP" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q18",
-      "text": "DLT registration in India is mandatory for:",
-      "options": [
-        { "id": "a", "text": "ISPs" },
-        { "id": "b", "text": "Enterprises using Bulk SMS" },
-        { "id": "c", "text": "VPN users" },
-        { "id": "d", "text": "Data centers" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q19",
-      "text": "Transactional SMS example:",
-      "options": [
-        { "id": "a", "text": "“Buy 1 Get 1 Free!”" },
-        { "id": "b", "text": "“Win a prize now”" },
-        { "id": "c", "text": "“Your OTP is 456789”" },
-        { "id": "d", "text": "“Festive discount offer”" }
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "id": "gzb2_q20",
-      "text": "Promotional SMS can be sent only:",
-      "options": [
-        { "id": "a", "text": "24x7" },
-        { "id": "b", "text": "9am – 9pm" },
-        { "id": "c", "text": "6am – 12pm" },
-        { "id": "d", "text": "10am – 5pm" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q21",
-      "text": "Leased line provides:",
-      "options": [
-        { "id": "a", "text": "Shared bandwidth" },
-        { "id": "b", "text": "Wi-Fi access" },
-        { "id": "c", "text": "Dedicated bandwidth" },
-        { "id": "d", "text": "Dial-up access" }
-      ],
-      "correctAnswer": "c"
-    },
-    {
-      "id": "gzb2_q22",
-      "text": "MLLN stands for:",
-      "options": [
-        { "id": "a", "text": "Metro Local Loop Network" },
-        { "id": "b", "text": "Managed Leased Line Network" },
-        { "id": "c", "text": "Multi Layer LAN Node" },
-        { "id": "d", "text": "Mobile Local Link Network" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q23",
-      "text": "MLLN CPE is installed at:",
-      "options": [
-        { "id": "a", "text": "BSNL switch" },
-        { "id": "b", "text": "Customer premises" },
-        { "id": "c", "text": "Mobile tower" },
-        { "id": "d", "text": "ISP NOC" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q24",
-      "text": "Advantage of MLLN over Non-MLLN?",
-      "options": [
-        { "id": "a", "text": "Lower QoS" },
-        { "id": "b", "text": "Higher downtime" },
-        { "id": "c", "text": "Limited reporting" },
-        { "id": "d", "text": "SNMP-based management" }
+        { "id": "a", "text": "0.3 m" },
+        { "id": "b", "text": "10 m" },
+        { "id": "c", "text": "20 m" },
+        { "id": "d", "text": "0.75–2.4 m" }
       ],
       "correctAnswer": "d"
     },
     {
-      "id": "gzb2_q25",
-      "text": "Typical leased line bandwidth range in BSNL?",
+      "id": "gzb8_q18",
+      "text": "In a VSAT network, the hub station performs:",
       "options": [
-        { "id": "a", "text": "64 kbps to 2 Mbps" },
-        { "id": "b", "text": "10–100 Mbps" },
-        { "id": "c", "text": "1–10 Gbps" },
-        { "id": "d", "text": "300 Mbps only" }
-      ],
-      "correctAnswer": "a"
-    },
-    {
-      "id": "gzb2_q26",
-      "text": "MPLS stands for:",
-      "options": [
-        { "id": "a", "text": "Multi-Protocol Label Switching" },
-        { "id": "b", "text": "Multiple Path Link Service" },
-        { "id": "c", "text": "Multi Packet Link System" },
-        { "id": "d", "text": "Managed Packet Line Service" }
-      ],
-      "correctAnswer": "a"
-    },
-    {
-      "id": "gzb2_q27",
-      "text": "MPLS VPNs are mainly used for:",
-      "options": [
-        { "id": "a", "text": "File compression" },
-        { "id": "b", "text": "Secure enterprise connectivity" },
-        { "id": "c", "text": "Free internet browsing" },
-        { "id": "d", "text": "Streaming video only" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q28",
-      "text": "In MPLS, the label is assigned at:",
-      "options": [
-        { "id": "a", "text": "Customer edge" },
-        { "id": "b", "text": "Provider edge" },
-        { "id": "c", "text": "Internet gateway" },
-        { "id": "d", "text": "Firewall" }
-      ],
-      "correctAnswer": "b"
-    },
-    {
-      "id": "gzb2_q29",
-      "text": "Multicasting over MPLS VPN helps in:",
-      "options": [
-        { "id": "a", "text": "SMS marketing" },
-        { "id": "b", "text": "File storage" },
-        { "id": "c", "text": "Efficient video conferencing" },
-        { "id": "d", "text": "ATM transactions" }
+        { "id": "a", "text": "Customer billing only" },
+        { "id": "b", "text": "LAN cabling" },
+        { "id": "c", "text": "Network control and traffic switching" },
+        { "id": "d", "text": "DSL access management" }
       ],
       "correctAnswer": "c"
     },
     {
-      "id": "gzb2_q30",
-      "text": "Which router maintains VRFs in MPLS VPN?",
+      "id": "gzb8_q19",
+      "text": "The Teevra App is primarily designed for:",
       "options": [
-        { "id": "a", "text": "CE" },
-        { "id": "b", "text": "P router" },
-        { "id": "c", "text": "Access Router" },
-        { "id": "d", "text": "PE" }
+        { "id": "a", "text": "Network fault management" },
+        { "id": "b", "text": "Employee attendance" },
+        { "id": "c", "text": "Mobile recharge" },
+        { "id": "d", "text": "IPTV streaming" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q20",
+      "text": "A core feature of the Teevra App is:",
+      "options": [
+        { "id": "a", "text": "Offline chat" },
+        { "id": "b", "text": "Real-time ticket monitoring" },
+        { "id": "c", "text": "Video calling" },
+        { "id": "d", "text": "SMS-only alerts" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q21",
+      "text": "Teevra primarily assists which group?",
+      "options": [
+        { "id": "a", "text": "Customers directly" },
+        { "id": "b", "text": "OTT platforms" },
+        { "id": "c", "text": "BSNL staff in field maintenance" },
+        { "id": "d", "text": "IPTV subscribers" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q22",
+      "text": "The Broadband Network Management System (BBNMS) is used for:",
+      "options": [
+        { "id": "a", "text": "Managing IPTV subscribers" },
+        { "id": "b", "text": "Video calls" },
+        { "id": "c", "text": "SMS services" },
+        { "id": "d", "text": "Monitoring broadband network elements" }
       ],
       "correctAnswer": "d"
     },
     {
-      "id": "gzb2_q31",
-      "text": "Internet Leased Line provides:",
+      "id": "gzb8_q23",
+      "text": "A key function of BBNMS is:",
       "options": [
-        { "id": "a", "text": "Shared access like broadband" },
-        { "id": "b", "text": "Dedicated, symmetric internet access" },
-        { "id": "c", "text": "Wi-Fi only" },
-        { "id": "d", "text": "Mobile-only service" }
+        { "id": "a", "text": "Inventory of ONTs/DSLAMs" },
+        { "id": "b", "text": "Fault localization" },
+        { "id": "c", "text": "Performance management" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q24",
+      "text": "BBNMS improves overall network performance by enhancing:",
+      "options": [
+        { "id": "a", "text": "Network efficiency and fault handling" },
+        { "id": "b", "text": "Downtime" },
+        { "id": "c", "text": "Manual complaints" },
+        { "id": "d", "text": "Random switching" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q25",
+      "text": "The GRI scheme is intended to:",
+      "options": [
+        { "id": "a", "text": "Technical fault handling" },
+        { "id": "b", "text": "Boosting revenue through staff incentives" },
+        { "id": "c", "text": "Customer billing" },
+        { "id": "d", "text": "Vendor payments" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q32",
-      "text": "Which layer service is Internet Leased Line?",
+      "id": "gzb8_q26",
+      "text": "The Gigabit Readiness Index (GRI) specifically measures:",
       "options": [
-        { "id": "a", "text": "Layer 1 only" },
-        { "id": "b", "text": "Layer 3 service" },
-        { "id": "c", "text": "Layer 4" },
-        { "id": "d", "text": "Application layer" }
+        { "id": "a", "text": "Satellite bandwidth" },
+        { "id": "b", "text": "Last-mile reach of fiber" },
+        { "id": "c", "text": "Number of landline users" },
+        { "id": "d", "text": "Telegraph efficiency" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q33",
-      "text": "One major advantage of ILL over broadband:",
+      "id": "gzb8_q27",
+      "text": "A positive outcome of the GRI scheme is:",
       "options": [
-        { "id": "a", "text": "Cheaper price" },
-        { "id": "b", "text": "SLA-backed guaranteed bandwidth" },
-        { "id": "c", "text": "Only prepaid model" },
-        { "id": "d", "text": "Uses mobile towers" }
+        { "id": "a", "text": "Revenue growth and employee motivation" },
+        { "id": "b", "text": "Increase in network outages" },
+        { "id": "c", "text": "Decline in customer base" },
+        { "id": "d", "text": "Less focus on Enterprise Business" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q28",
+      "text": "CFA, in BSNL's vertical structure, stands for:",
+      "options": [
+        { "id": "a", "text": "Consumer Fixed Access" },
+        { "id": "b", "text": "Central Fiber Area" },
+        { "id": "c", "text": "Common Finance Access" },
+        { "id": "d", "text": "Core Fiber Application" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q29",
+      "text": "The CFA dashboard provides real-time visibility into:",
+      "options": [
+        { "id": "a", "text": "Movie streaming analytics" },
+        { "id": "b", "text": "Sales & provisioning data for FTTH/BB" },
+        { "id": "c", "text": "SMS delivery logs" },
+        { "id": "d", "text": "OTT billing" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q34",
-      "text": "ILL is most suitable for:",
+      "id": "gzb8_q30",
+      "text": "A primary benefit of the CFA Dashboard is:",
       "options": [
-        { "id": "a", "text": "Households" },
-        { "id": "b", "text": "Small offices" },
-        { "id": "c", "text": "Enterprises with critical connectivity" },
-        { "id": "d", "text": "Cafés" }
+        { "id": "a", "text": "Manual reporting" },
+        { "id": "b", "text": "Customer SMS alerts" },
+        { "id": "c", "text": "Data-driven decision making" },
+        { "id": "d", "text": "Reducing fiber latency" }
       ],
       "correctAnswer": "c"
     },
     {
-      "id": "gzb2_q35",
-      "text": "Redundancy in ILL can be achieved by:",
+      "id": "gzb8_q31",
+      "text": "VMS in the context of BSNL operations refers to:",
       "options": [
-        { "id": "a", "text": "Using backup links" },
-        { "id": "b", "text": "Using SMS alerts" },
-        { "id": "c", "text": "Installing extra Wi-Fi" },
-        { "id": "d", "text": "Reducing bandwidth" }
+        { "id": "a", "text": "Video Messaging Service" },
+        { "id": "b", "text": "Virtual Machine System" },
+        { "id": "c", "text": "Value Managed Service" },
+        { "id": "d", "text": "Vendor Management System" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q32",
+      "text": "A core role of the VMS portal is:",
+      "options": [
+        { "id": "a", "text": "Vendor empanelment and contract tracking" },
+        { "id": "b", "text": "SMS push services" },
+        { "id": "c", "text": "IPTV billing" },
+        { "id": "d", "text": "OTT login" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q36",
-      "text": "Bharat Air Fiber is based on:",
+      "id": "gzb8_q33",
+      "text": "The VMS portal improves organizational efficiency by increasing:",
       "options": [
-        { "id": "a", "text": "Satellite" },
-        { "id": "b", "text": "Radio (unlicensed band Wi-Fi)" },
-        { "id": "c", "text": "Copper" },
-        { "id": "d", "text": "MPLS backbone" }
+        { "id": "a", "text": "Delays in payments" },
+        { "id": "b", "text": "Transparency in procurement" },
+        { "id": "c", "text": "Telecom traffic" },
+        { "id": "d", "text": "Network congestion" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q37",
-      "text": "Dark Fiber refers to:",
+      "id": "gzb8_q34",
+      "text": "A significant ONT security risk is:",
       "options": [
-        { "id": "a", "text": "Faulty fiber" },
-        { "id": "b", "text": "Unused optical fiber" },
-        { "id": "c", "text": "Old copper line" },
-        { "id": "d", "text": "Fiber with repeaters" }
+        { "id": "a", "text": "Power surges" },
+        { "id": "b", "text": "Optical loss" },
+        { "id": "c", "text": "Unauthorized access via default passwords" },
+        { "id": "d", "text": "Random noise" }
       ],
-      "correctAnswer": "b"
+      "correctAnswer": "c"
     },
     {
-      "id": "gzb2_q38",
-      "text": "Advantage of Dark Fiber:",
+      "id": "gzb8_q35",
+      "text": "The best practice for securing an OLT is:",
       "options": [
-        { "id": "a", "text": "Lower speeds" },
-        { "id": "b", "text": "Enterprises can light it with their own equipment" },
-        { "id": "c", "text": "Always managed by BSNL" },
-        { "id": "d", "text": "Only for voice calls" }
+        { "id": "a", "text": "Shared login for all users" },
+        { "id": "b", "text": "No authentication" },
+        { "id": "c", "text": "Disable logging" },
+        { "id": "d", "text": "Role-based access control" }
       ],
-      "correctAnswer": "b"
+      "correctAnswer": "d"
     },
     {
-      "id": "gzb2_q39",
-      "text": "Bharat Air Fiber is aimed at:",
+      "id": "gzb8_q36",
+      "text": "Security audits on OLTs and ONTs help in:",
       "options": [
-        { "id": "a", "text": "Rural/remote connectivity" },
-        { "id": "b", "text": "High-rise offices only" },
-        { "id": "c", "text": "International markets" },
-        { "id": "d", "text": "Mobile roaming" }
+        { "id": "a", "text": "Detecting misconfigurations and vulnerabilities" },
+        { "id": "b", "text": "Improving video streaming quality" },
+        { "id": "c", "text": "Extending physical fiber life" },
+        { "id": "d", "text": "Preventing all IP telephony" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q40",
-      "text": "A challenge with Air Fiber is:",
+      "id": "gzb8_q37",
+      "text": "The Network Management System (NMS) is responsible for:",
       "options": [
-        { "id": "a", "text": "High latency over satellite" },
-        { "id": "b", "text": "Line-of-sight issues in radio connectivity" },
-        { "id": "c", "text": "Complex fiber trenching" },
-        { "id": "d", "text": "Costly submarine cables" }
+        { "id": "a", "text": "SMS delivery" },
+        { "id": "b", "text": "Fault, Configuration, Accounting, Performance, Security (FCAPS)" },
+        { "id": "c", "text": "Voice calling only" },
+        { "id": "d", "text": "Optical fiber splicing" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q41",
-      "text": "Managed Network Services (MNS) include:",
+      "id": "gzb8_q38",
+      "text": "The centralized visibility provided by NMS helps to:",
       "options": [
-        { "id": "a", "text": "Only leased lines" },
-        { "id": "b", "text": "End-to-end managed ICT solutions" },
-        { "id": "c", "text": "Free SMS" },
-        { "id": "d", "text": "Only EPABX rentals" }
+        { "id": "a", "text": "Increase manual ticketing" },
+        { "id": "b", "text": "Reduce network downtime" },
+        { "id": "c", "text": "Prevent all network upgrades" },
+        { "id": "d", "text": "Limit customer access" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q42",
-      "text": "Which BSNL service is part of MNS?",
+      "id": "gzb8_q39",
+      "text": "NMS proactive monitoring leads to a reduction in:",
       "options": [
-        { "id": "a", "text": "MPLS VPN" },
-        { "id": "b", "text": "SMSC" },
-        { "id": "c", "text": "GSM roaming" },
-        { "id": "d", "text": "Broadband DSL only" }
+        { "id": "a", "text": "Customer satisfaction" },
+        { "id": "b", "text": "Service provisioning" },
+        { "id": "c", "text": "Billing automation" },
+        { "id": "d", "text": "Network downtime" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q40",
+      "text": "IPTV delivered over FTTH utilizes which traffic method?",
+      "options": [
+        { "id": "a", "text": "IP multicast for channel streaming" },
+        { "id": "b", "text": "Satellite dish reception" },
+        { "id": "c", "text": "Standard coaxial distribution only" },
+        { "id": "d", "text": "Bulk SMS push" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q43",
-      "text": "Key benefit of MNS for enterprises:",
+      "id": "gzb8_q41",
+      "text": "Which is a major benefit of IPTV on an FTTH network?",
       "options": [
-        { "id": "a", "text": "DIY management" },
-        { "id": "b", "text": "Outsourcing IT operations" },
-        { "id": "c", "text": "Free internet" },
-        { "id": "d", "text": "Mobile handsets" }
+        { "id": "a", "text": "No internet access needed" },
+        { "id": "b", "text": "Interactive services (VoD, catch-up TV)" },
+        { "id": "c", "text": "Manual paper billing" },
+        { "id": "d", "text": "SMS-only alerts" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q44",
-      "text": "SLA in managed services ensures:",
+      "id": "gzb8_q42",
+      "text": "In an IPTV setup, middleware is used to manage:",
       "options": [
-        { "id": "a", "text": "Penalties for downtime" },
-        { "id": "b", "text": "Free SMS" },
-        { "id": "c", "text": "Voice mail service" },
-        { "id": "d", "text": "Roaming facility" }
+        { "id": "a", "text": "Optical fiber splicing" },
+        { "id": "b", "text": "DSLAM hardware testing" },
+        { "id": "c", "text": "User interface and channel control" },
+        { "id": "d", "text": "Wi-Fi signals only" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q43",
+      "text": "Voice platforms in Next Generation Networks (NGN) are based on:",
+      "options": [
+        { "id": "a", "text": "Analog circuit switches" },
+        { "id": "b", "text": "Telegraph relay circuits" },
+        { "id": "c", "text": "SMS gateways" },
+        { "id": "d", "text": "Softswitch architecture" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q44",
+      "text": "The primary protocol for NGN voice call setup is:",
+      "options": [
+        { "id": "a", "text": "SIP (Session Initiation Protocol)" },
+        { "id": "b", "text": "POP3" },
+        { "id": "c", "text": "FTP" },
+        { "id": "d", "text": "SNMP" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q45",
-      "text": "MNS is most useful for:",
+      "id": "gzb8_q45",
+      "text": "A key benefit of NGN voice services is:",
       "options": [
-        { "id": "a", "text": "Individual broadband users" },
-        { "id": "b", "text": "Large enterprises and government" },
-        { "id": "c", "text": "School students" },
-        { "id": "d", "text": "Cafeterias" }
+        { "id": "a", "text": "Restricting services to one per line" },
+        { "id": "b", "text": "Converged IP-based network for voice & data" },
+        { "id": "c", "text": "Increased power consumption" },
+        { "id": "d", "text": "Lack of Quality of Service (QoS)" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q46",
-      "text": "VSAT stands for:",
+      "id": "gzb8_q46",
+      "text": "ADSL (Asymmetric Digital Subscriber Line) provides:",
       "options": [
-        { "id": "a", "text": "Very Small Aperture Terminal" },
-        { "id": "b", "text": "Virtual Satellite Access Tunnel" },
-        { "id": "c", "text": "Voice Switching and Transmission" },
-        { "id": "d", "text": "Variable Satellite Allocation Technology" }
+        { "id": "a", "text": "Symmetric high-speed data" },
+        { "id": "b", "text": "Only voice calls" },
+        { "id": "c", "text": "Asymmetric speeds (higher download, lower upload)" },
+        { "id": "d", "text": "Direct fiber-to-the-home" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q47",
+      "text": "VDSL technology can offer speeds up to:",
+      "options": [
+        { "id": "a", "text": "64 kbps" },
+        { "id": "b", "text": "2 Mbps" },
+        { "id": "c", "text": "10 Gbps" },
+        { "id": "d", "text": "50–100 Mbps" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q48",
+      "text": "A major limitation of copper-based DSL is:",
+      "options": [
+        { "id": "a", "text": "Distance sensitivity of the copper line" },
+        { "id": "b", "text": "High cost of fiber installation" },
+        { "id": "c", "text": "Too many Ethernet ports" },
+        { "id": "d", "text": "Static IP addressing" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q47",
-      "text": "VSAT is widely used in:",
+      "id": "gzb8_q49",
+      "text": "BSNL delivers Enterprise VPN services primarily through which network?",
       "options": [
-        { "id": "a", "text": "Dense urban broadband" },
-        { "id": "b", "text": "Remote and rural areas" },
-        { "id": "c", "text": "Undersea cables" },
-        { "id": "d", "text": "Fiber-only offices" }
+        { "id": "a", "text": "Telegraph lines" },
+        { "id": "b", "text": "MPLS backbone" },
+        { "id": "c", "text": "GSM SMS gateway" },
+        { "id": "d", "text": "PRI trunk lines" }
       ],
       "correctAnswer": "b"
     },
     {
-      "id": "gzb2_q48",
-      "text": "DSPT in BSNL services refers to:",
+      "id": "gzb8_q50",
+      "text": "The core benefit of a VPN for an enterprise is:",
       "options": [
-        { "id": "a", "text": "Digital Satellite Phone Terminal" },
-        { "id": "b", "text": "Data Service Packet Tunnel" },
-        { "id": "c", "text": "Direct Switching Protocol Technology" },
-        { "id": "d", "text": "Distributed Spectrum Transmitter" }
+        { "id": "a", "text": "SMS alerts for all employees" },
+        { "id": "b", "text": "IPTV viewing for the office" },
+        { "id": "c", "text": "Secure and isolated enterprise connectivity" },
+        { "id": "d", "text": "Reduced physical fiber maintenance" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q51",
+      "text": "A widely used tunneling protocol for secure VPNs is:",
+      "options": [
+        { "id": "a", "text": "DNS" },
+        { "id": "b", "text": "FTP" },
+        { "id": "c", "text": "POP3" },
+        { "id": "d", "text": "IPsec" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q52",
+      "text": "A hallmark feature of MPLS-TP compared to standard MPLS is:",
+      "options": [
+        { "id": "a", "text": "Dynamic label distribution" },
+        { "id": "b", "text": "Congruent bidirectional paths" },
+        { "id": "c", "text": "Penultimate Hop Popping (PHP)" },
+        { "id": "d", "text": "Equal Cost Multi Path (ECMP)" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q53",
+      "text": "Which function is disabled in MPLS-TP to ensure path determinism?",
+      "options": [
+        { "id": "a", "text": "LSP Merging" },
+        { "id": "b", "text": "OAM packets" },
+        { "id": "c", "text": "Static provisioning" },
+        { "id": "d", "text": "Carrier-grade reliability" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q49",
-      "text": "Global Satellite Phone Service (GSPS) is enabled via:",
+      "id": "gzb8_q54",
+      "text": "Effective BSNL security policies require:",
       "options": [
-        { "id": "a", "text": "GEO satellites" },
-        { "id": "b", "text": "Fiber" },
-        { "id": "c", "text": "Air Fiber" },
-        { "id": "d", "text": "DSL" }
+        { "id": "a", "text": "Regular patch updates and security audits" },
+        { "id": "b", "text": "Keeping default passwords for easy access" },
+        { "id": "c", "text": "Ignoring minor malware reports" },
+        { "id": "d", "text": "Disabling hardware firewalls" }
       ],
       "correctAnswer": "a"
     },
     {
-      "id": "gzb2_q50",
-      "text": "A main limitation of satellite services compared to fiber is:",
+      "id": "gzb8_q55",
+      "text": "Which services are under the purview of Consumer Fixed Access (CFA)?",
       "options": [
-        { "id": "a", "text": "Higher latency" },
-        { "id": "b", "text": "Lower coverage" },
-        { "id": "c", "text": "Higher reliability" },
-        { "id": "d", "text": "Lower reach" }
+        { "id": "a", "text": "Cloud-only IT services" },
+        { "id": "b", "text": "Consumer Fixed Access (landline, broadband, FTTH)" },
+        { "id": "c", "text": "Mobile-only prepaid plans" },
+        { "id": "d", "text": "IPTV software development" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q56",
+      "text": "FTTH in the CFA segment provides:",
+      "options": [
+        { "id": "a", "text": "Telegraph service only" },
+        { "id": "b", "text": "Dial-up internet access" },
+        { "id": "c", "text": "High-speed broadband with triple-play capabilities" },
+        { "id": "d", "text": "Limited SMS alerts" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q57",
+      "text": "CFA dashboards specifically help management monitor:",
+      "options": [
+        { "id": "a", "text": "Movie streaming habits" },
+        { "id": "b", "text": "Customer personal SMS content" },
+        { "id": "c", "text": "OTT subscriber counts only" },
+        { "id": "d", "text": "Service provisioning and sales performance" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q58",
+      "text": "BSNL's ERP (Enterprise Resource Planning) system is built on:",
+      "options": [
+        { "id": "a", "text": "SAP" },
+        { "id": "b", "text": "Legacy Oracle databases only" },
+        { "id": "c", "text": "Excel spreadsheets" },
+        { "id": "d", "text": "Manual paper registers" }
       ],
       "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q59",
+      "text": "The ERP system unifies which organizational functions?",
+      "options": [
+        { "id": "a", "text": "Email services only" },
+        { "id": "b", "text": "Finance, HR, logistics, and procurement" },
+        { "id": "c", "text": "Public OTT accounts" },
+        { "id": "d", "text": "IPTV channel content" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q60",
+      "text": "A primary business benefit of ERP implementation is:",
+      "options": [
+        { "id": "a", "text": "More random manual entries" },
+        { "id": "b", "text": "Significant delays in reporting" },
+        { "id": "c", "text": "Increased transparency and operational efficiency" },
+        { "id": "d", "text": "Isolating departments from each other" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q61",
+      "text": "MPLS networks forward traffic packets based on:",
+      "options": [
+        { "id": "a", "text": "Full IP address lookup at each hop" },
+        { "id": "b", "text": "Circuit IDs only" },
+        { "id": "c", "text": "MAC addresses only" },
+        { "id": "d", "text": "Short, fixed-length labels" }
+      ],
+      "correctAnswer": "d"
+    },
+    { "id": "gzb8_q62",
+      "text": "The IP/MPLS network is the core for delivering which EB services?",
+      "options": [
+        { "id": "a", "text": "Enterprise VPN, leased lines, and dedicated internet" },
+        { "id": "b", "text": "Public OTT applications only" },
+        { "id": "c", "text": "Local CFA dashboards only" },
+        { "id": "d", "text": "IPTV middleware updates" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q63",
+      "text": "Which network features does MPLS provide to enhance service quality?",
+      "options": [
+        { "id": "a", "text": "Random packet delays" },
+        { "id": "b", "text": "QoS & traffic engineering" },
+        { "id": "c", "text": "Old-style circuit switching" },
+        { "id": "d", "text": "Standard DSL backup" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q64",
+      "text": "OFC stands for:",
+      "options": [
+        { "id": "a", "text": "Open Frequency Carrier" },
+        { "id": "b", "text": "Online Fiber Channel" },
+        { "id": "c", "text": "Optical Fiber Cable" },
+        { "id": "d", "text": "Optical Fast Connector" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q65",
+      "text": "Microwave links are typically deployed when:",
+      "options": [
+        { "id": "a", "text": "High-volume SMS is required" },
+        { "id": "b", "text": "DSL signal is weak" },
+        { "id": "c", "text": "OTT services expand" },
+        { "id": "d", "text": "Laying optical fiber is unfeasible" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q66",
+      "text": "A technical disadvantage of microwave links compared to fiber is:",
+      "options": [
+        { "id": "a", "text": "Weather susceptibility (rain fade)" },
+        { "id": "b", "text": "Infinite bandwidth capacity" },
+        { "id": "c", "text": "No requirement for line-of-sight" },
+        { "id": "d", "text": "Always higher reliability" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q67",
+      "text": "The BharatNet project utilizes which primary medium to connect villages?",
+      "options": [
+        { "id": "a", "text": "Legacy telegraph lines" },
+        { "id": "b", "text": "Optical Fiber Cable (OFC)" },
+        { "id": "c", "text": "Standard copper DSL" },
+        { "id": "d", "text": "Coaxial television cables" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q68",
+      "text": "CSC under the Digital India initiative stands for:",
+      "options": [
+        { "id": "a", "text": "Core Switching Centre" },
+        { "id": "b", "text": "Customer Support Channel" },
+        { "id": "c", "text": "Common Service Centre" },
+        { "id": "d", "text": "Central Satellite Communication" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q69",
+      "text": "The fundamental goal of the Digital India initiative is:",
+      "options": [
+        { "id": "a", "text": "Increasing telegraph services" },
+        { "id": "b", "text": "ERP software rollout only" },
+        { "id": "c", "text": "Total elimination of the public internet" },
+        { "id": "d", "text": "Digital empowerment of all citizens" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q70",
+      "text": "Artificial Intelligence (AI) in modern telecommunications helps specifically with:",
+      "options": [
+        { "id": "a", "text": "Predictive network maintenance" },
+        { "id": "b", "text": "Bulk SMS marketing content" },
+        { "id": "c", "text": "Manual telegraph restoration" },
+        { "id": "d", "text": "Paper-based manual billing" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q71",
+      "text": "The Internet of Things (IoT) enables which enterprise applications?",
+      "options": [
+        { "id": "a", "text": "Telegraph offices only" },
+        { "id": "b", "text": "Smart metering, healthcare monitoring, and industrial automation" },
+        { "id": "c", "text": "Manual paper registers" },
+        { "id": "d", "text": "Standard ERP databases only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb8_q72",
+      "text": "Cloud computing allows enterprises to access:",
+      "options": [
+        { "id": "a", "text": "Standard dial-up connections" },
+        { "id": "b", "text": "Analog telegraph signals" },
+        { "id": "c", "text": "On-demand IT resources via the internet" },
+        { "id": "d", "text": "Legacy coaxial TV feeds" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb8_q73",
+      "text": "5G technology is defined by which major service categories?",
+      "options": [
+        { "id": "a", "text": "Voice calls only" },
+        { "id": "b", "text": "Standard SMS only" },
+        { "id": "c", "text": "Legacy telegraph circuits" },
+        { "id": "d", "text": "eMBB, URLLC, and mMTC" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb8_q74",
+      "text": "Edge computing technology specifically supports:",
+      "options": [
+        { "id": "a", "text": "Low-latency services processed closer to the user" },
+        { "id": "b", "text": "Standard telegraph signals" },
+        { "id": "c", "text": "OTT bulk SMS delivery" },
+        { "id": "d", "text": "Basic ERP billing modules" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb8_q75",
+      "text": "Blockchain technology in the telecom sector is used for:",
+      "options": [
+        { "id": "a", "text": "SMS billing only" },
+        { "id": "b", "text": "Fraud prevention and secure, transparent transactions" },
+        { "id": "c", "text": "Dial-up internet services" },
+        { "id": "d", "text": "Telegraph authentication" }
+      ],
+      "correctAnswer": "b"
     }
   ]
 }
