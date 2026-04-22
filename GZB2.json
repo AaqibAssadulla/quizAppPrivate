@@ -1,0 +1,124 @@
+{    
+    {
+      "id": "gzb2_q1",
+      "text": "ISDN BRI provides how many B-channels and D-channels?",
+      "options": [
+        { "id": "a", "text": "1B + 1D" },
+        { "id": "b", "text": "2B + 1D" },
+        { "id": "c", "text": "23B + 1D" },
+        { "id": "d", "text": "30B + 1D" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb2_q2",
+      "text": "PRI in India is based on which standard?",
+      "options": [
+        { "id": "a", "text": "T1 (23B+1D)" },
+        { "id": "b", "text": "E1 (30B+1D)" },
+        { "id": "c", "text": "STM-1" },
+        { "id": "d", "text": "OC-3" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb2_q4",
+      "text": "Which protocol is most common for VoIP trunking?",
+      "options": [
+        { "id": "a", "text": "H.323" },
+        { "id": "b", "text": "SIP" },
+        { "id": "c", "text": "ISUP" },
+        { "id": "d", "text": "RTP" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb2_q9",
+      "text": "A VPN number scheme can include:",
+      "options": [
+        { "id": "a", "text": "Only mobile numbers" },
+        { "id": "b", "text": "Only landline numbers" },
+        { "id": "c", "text": "Both landline and mobile" },
+        { "id": "d", "text": "Only PRI lines" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb2_q12",
+      "text": "MPLS VPN supports:",
+      "options": [
+        { "id": "a", "text": "Only voice traffic" },
+        { "id": "b", "text": "Only SMS" },
+        { "id": "c", "text": "Multiple services (voice, data, video)" },
+        { "id": "d", "text": "Fax only" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb2_q22",
+      "text": "MLLN stands for:",
+      "options": [
+        { "id": "a", "text": "Metro Local Loop Network" },
+        { "id": "b", "text": "Managed Leased Line Network" },
+        { "id": "c", "text": "Multi Layer LAN Node" },
+        { "id": "d", "text": "Mobile Local Link Network" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb2_q26",
+      "text": "MPLS stands for:",
+      "options": [
+        { "id": "a", "text": "Multi-Protocol Label Switching" },
+        { "id": "b", "text": "Multiple Path Link Service" },
+        { "id": "c", "text": "Multi Packet Link System" },
+        { "id": "d", "text": "Managed Packet Line Service" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb2_q31",
+      "text": "Internet Leased Line provides:",
+      "options": [
+        { "id": "a", "text": "Shared access like broadband" },
+        { "id": "b", "text": "Dedicated, symmetric internet access" },
+        { "id": "c", "text": "Wi-Fi only" },
+        { "id": "d", "text": "Mobile-only service" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb2_q36",
+      "text": "Bharat Air Fiber is based on:",
+      "options": [
+        { "id": "a", "text": "Satellite" },
+        { "id": "b", "text": "Radio (unlicensed band Wi-Fi)" },
+        { "id": "c", "text": "Copper" },
+        { "id": "d", "text": "MPLS backbone" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb2_q44",
+      "text": "SLA in managed services ensures:",
+      "options": [
+        { "id": "a", "text": "Penalties for downtime" },
+        { "id": "b", "text": "Free SMS" },
+        { "id": "c", "text": "Voice mail service" },
+        { "id": "d", "text": "Roaming facility" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb2_q49",
+      "text": "Global Satellite Phone Service (GSPS) is enabled via:",
+      "options": [
+        { "id": "a", "text": "GEO satellites" },
+        { "id": "b", "text": "Fiber" },
+        { "id": "c", "text": "Air Fiber" },
+        { "id": "d", "text": "DSL" }
+      ],
+      "correctAnswer": "a"
+    }
+  ]
+}

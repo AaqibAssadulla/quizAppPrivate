@@ -1,0 +1,103 @@
+{
+  "title": "BSNL Enterprise Business Phase-II Assessment - GZB1 & GZB2",
+  "questions": [
+    {
+      "id": "gzb1_q1",
+      "text": "BSNL created the Enterprise Business (EB) vertical mainly to:",
+      "options": [
+        { "id": "a", "text": "Increase prepaid SIM sales" },
+        { "id": "b", "text": "Focus on high-volume enterprise clients" },
+        { "id": "c", "text": "Replace CFA and CM verticals" },
+        { "id": "d", "text": "Handle rural telephony only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb1_q2",
+      "text": "Which of the following is NOT a business vertical of BSNL?",
+      "options": [
+        { "id": "a", "text": "Consumer Mobility (CM)" },
+        { "id": "b", "text": "Consumer Fixed Access (CFA)" },
+        { "id": "c", "text": "Enterprise Business (EB)" },
+        { "id": "d", "text": "International Roaming Division (IRD)" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb1_q5",
+      "text": "Which type of account manager handles Gold customers in BSNL’s EB setup?",
+      "options": [
+        { "id": "a", "text": "National Account Manager (NAM)" },
+        { "id": "b", "text": "Circle Head" },
+        { "id": "c", "text": "Key Account Manager (KAM)" },
+        { "id": "d", "text": "Service Delivery Manager" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb1_q6",
+      "text": "Silver category enterprise customers are typically managed by:",
+      "options": [
+        { "id": "a", "text": "BSNL Board directly" },
+        { "id": "b", "text": "Channel Partners" },
+        { "id": "c", "text": "National Account Managers" },
+        { "id": "d", "text": "Customer Service Centers" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb1_q17",
+      "text": "According to grooming rules, 'Slobs' are perceived as:",
+      "options": [
+        { "id": "a", "text": "Highly efficient" },
+        { "id": "b", "text": "Disrespectful and poor at time management" },
+        { "id": "c", "text": "Smart and stylish" },
+        { "id": "d", "text": "Carefree but productive" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb1_q19",
+      "text": "In BSNL’s EB customer grading, Gold customers are those with turnover:",
+      "options": [
+        { "id": "a", "text": "₹10–50 Crore" },
+        { "id": "b", "text": "₹50–500 Crore" },
+        { "id": "c", "text": "Above ₹500 Crore" },
+        { "id": "d", "text": "Less than ₹10 Crore" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb1_q21",
+      "text": "In BSNL, National Account Managers (NAMs) are primarily responsible for:",
+      "options": [
+        { "id": "a", "text": "Handling Silver customers" },
+        { "id": "b", "text": "Managing Platinum customers" },
+        { "id": "c", "text": "Overseeing Channel Partners" },
+        { "id": "d", "text": "Supervising CFA vertical" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb1_q31",
+      "text": "The EB Sales Funnel begins with:",
+      "options": [
+        { "id": "a", "text": "Order booking" },
+        { "id": "b", "text": "Lead registration" },
+        { "id": "c", "text": "Price negotiation" },
+        { "id": "d", "text": "Deal lost" }
+      ],
+      "correctAnswer": "b"
+    },
+	{
+      "id": "gzb1_q38",
+      "text": "Which activity ensures long-term relationship in the EB Life Cycle?",
+      "options": [
+        { "id": "a", "text": "Only order booking" },
+        { "id": "b", "text": "Sales closure" },
+        { "id": "c", "text": "Service assurance & fault resolution" },
+        { "id": "d", "text": "Discount approvals" }
+      ],
+      "correctAnswer": "c"
+    }
+}
