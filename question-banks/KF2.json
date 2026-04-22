@@ -1,0 +1,1103 @@
+{
+  "title": "BSNL JTO Phase 2nd Training Exam - KalyaniAll1 (Week 5 Practice Set) Full Extraction",
+  "questions": [
+    {
+      "id": "kalyani_all1_q1",
+      "text": "The basic bit rate of an STM-1 signal in the SDH hierarchy is:",
+      "options": [
+        { "id": "a", "text": "622.08 Mbps" },
+        { "id": "b", "text": "155.52 Mbps" },
+        { "id": "c", "text": "2.5 Gbps" },
+        { "id": "d", "text": "140 Mbps" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q2",
+      "text": "How many voice channels are carried by a standard 2.048 Mbps PDH signal?",
+      "options": [
+        { "id": "a", "text": "32" },
+        { "id": "b", "text": "120" },
+        { "id": "c", "text": "30" },
+        { "id": "d", "text": "24" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q3",
+      "text": "What is the repetition period (duration) of any standard SDH frame?",
+      "options": [
+        { "id": "a", "text": "250 µs" },
+        { "id": "b", "text": "125 µs" },
+        { "id": "c", "text": "500 µs" },
+        { "id": "d", "text": "1 ms" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q4",
+      "text": "The number of columns in a standard STM-1 frame is:",
+      "options": [
+        { "id": "a", "text": "270" },
+        { "id": "b", "text": "261" },
+        { "id": "c", "text": "9" },
+        { "id": "d", "text": "1080" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q5",
+      "text": "How many rows are present in an STM-4 frame structure?",
+      "options": [
+        { "id": "a", "text": "270" },
+        { "id": "b", "text": "9" },
+        { "id": "c", "text": "36" },
+        { "id": "d", "text": "5" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q6",
+      "text": "The E1 byte in the Section Overhead (SOH) of an SDH frame is used for:",
+      "options": [
+        { "id": "a", "text": "Error detection (BIP-8)" },
+        { "id": "b", "text": "STM identifier" },
+        { "id": "c", "text": "Automatic Protection Switching" },
+        { "id": "d", "text": "Orderwire/Voice connection" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q7",
+      "text": "How many 2 Mbps (VC-12) signals are contained within a single TUG-3?",
+      "options": [
+        { "id": "a", "text": "3" },
+        { "id": "b", "text": "63" },
+        { "id": "c", "text": "21" },
+        { "id": "d", "text": "7" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q8",
+      "text": "Which overhead bytes are responsible for controlling Protection Switching (APS) in SDH?",
+      "options": [
+        { "id": "a", "text": "K1 and K2" },
+        { "id": "b", "text": "E1 and E2" },
+        { "id": "c", "text": "B1 and B2" },
+        { "id": "d", "text": "S1 and S2" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q9",
+      "text": "How many VC-4 containers are mapped into a single STM-1 frame?",
+      "options": [
+        { "id": "a", "text": "4" },
+        { "id": "b", "text": "1" },
+        { "id": "c", "text": "3" },
+        { "id": "d", "text": "16" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q10",
+      "text": "Which linear protection scheme is considered the most cost-effective due to resource sharing?",
+      "options": [
+        { "id": "a", "text": "1+1 protection" },
+        { "id": "b", "text": "1:1 protection" },
+        { "id": "c", "text": "1:N protection" },
+        { "id": "d", "text": "SNCP" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q11",
+      "text": "Which of the following protection mechanisms operates in a dedicated 1+1 mode?",
+      "options": [
+        { "id": "a", "text": "MS-SPRING" },
+        { "id": "b", "text": "SNCP" },
+        { "id": "c", "text": "1:N Linear" },
+        { "id": "d", "text": "None of these" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q12",
+      "text": "In Next Generation SDH (NG-SDH), integrated data transport (encapsulation) is performed by:",
+      "options": [
+        { "id": "a", "text": "VCAT" },
+        { "id": "b", "text": "LCAS" },
+        { "id": "c", "text": "GFP" },
+        { "id": "d", "text": "SOH" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q13",
+      "text": "Dynamic bandwidth allocation and 'bandwidth on demand' in NG-SDH are enabled by:",
+      "options": [
+        { "id": "a", "text": "LCAS" },
+        { "id": "b", "text": "GFP" },
+        { "id": "c", "text": "VCAT" },
+        { "id": "d", "text": "BIP-8" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q14",
+      "text": "Is data transportation more efficient through a system using contiguous concatenation compared to virtual concatenation?",
+      "options": [
+        { "id": "a", "text": "True" },
+        { "id": "b", "text": "False" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q15",
+      "text": "The VC-12 virtual container in SDH is designed to support a payload of:",
+      "options": [
+        { "id": "a", "text": "2 Mbps" },
+        { "id": "b", "text": "34 Mbps" },
+        { "id": "c", "text": "140 Mbps" },
+        { "id": "d", "text": "155 Mbps" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q16",
+      "text": "Which ITU-T standard specifies the framing and format for Optical Transport Networks (OTN)?",
+      "options": [
+        { "id": "a", "text": "G.707" },
+        { "id": "b", "text": "G.709" },
+        { "id": "c", "text": "G.872" },
+        { "id": "d", "text": "G.703" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q17",
+      "text": "The ITU-T specification that defines the overall OTN architecture is:",
+      "options": [
+        { "id": "a", "text": "G.709" },
+        { "id": "b", "text": "G.703" },
+        { "id": "c", "text": "G.872" },
+        { "id": "d", "text": "G.957" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q18",
+      "text": "How many levels of Tandem Connection Monitoring (TCM) does OTN technology provide?",
+      "options": [
+        { "id": "a", "text": "Two" },
+        { "id": "b", "text": "Eight" },
+        { "id": "c", "text": "One" },
+        { "id": "d", "text": "Six" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q19",
+      "text": "Which interface is used for interworking between different operators or vendors in an OTN?",
+      "options": [
+        { "id": "a", "text": "IaDI" },
+        { "id": "b", "text": "RS232" },
+        { "id": "c", "text": "IrDI" },
+        { "id": "d", "text": "V.35" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q20",
+      "text": "In Coarse WDM (CWDM), the typical channel spacing is 20 nm, which is equivalent to:",
+      "options": [
+        { "id": "a", "text": "100 GHz" },
+        { "id": "b", "text": "3000 GHz" },
+        { "id": "c", "text": "50 GHz" },
+        { "id": "d", "text": "200 GHz" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q21",
+      "text": "A Pre-Amplifier in a DWDM transport system is located at the:",
+      "options": [
+        { "id": "a", "text": "Transmit side" },
+        { "id": "b", "text": "Inline position" },
+        { "id": "c", "text": "Receive side" },
+        { "id": "d", "text": "Optical add/drop point" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q22",
+      "text": "A Post-Amplifier (Booster) in a DWDM transport system is located at the:",
+      "options": [
+        { "id": "a", "text": "Transmit side" },
+        { "id": "b", "text": "Receive side" },
+        { "id": "c", "text": "Mid-span" },
+        { "id": "d", "text": "Customer premises" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q23",
+      "text": "Which wavelength range defines the C-Band (Conventional Band) used in DWDM?",
+      "options": [
+        { "id": "a", "text": "1310-1550 nm" },
+        { "id": "b", "text": "1530-1565 nm" },
+        { "id": "c", "text": "850-1310 nm" },
+        { "id": "d", "text": "1565-1625 nm" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q24",
+      "text": "In DWDM, the L-Band (Long Band) typically encompasses which wavelength range?",
+      "options": [
+        { "id": "a", "text": "1530-1565 nm" },
+        { "id": "b", "text": "1565-1625 nm" },
+        { "id": "c", "text": "1260-1360 nm" },
+        { "id": "d", "text": "1460-1530 nm" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q25",
+      "text": "What is the standard wavelength used for the Optical Supervisory Channel (OSC) in DWDM?",
+      "options": [
+        { "id": "a", "text": "1550 nm" },
+        { "id": "b", "text": "1490 nm" },
+        { "id": "c", "text": "1510 nm" },
+        { "id": "d", "text": "1310 nm" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q26",
+      "text": "The BSNL Teevra App is an Android application accessible to:",
+      "options": [
+        { "id": "a", "text": "Only BSNL employees" },
+        { "id": "b", "text": "Only Franchisees" },
+        { "id": "c", "text": "Both BSNL employees and Franchisees" },
+        { "id": "d", "text": "The general public" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q27",
+      "text": "Which features are provided by the Teevra App?",
+      "options": [
+        { "id": "a", "text": "Broadband/FTTH details" },
+        { "id": "b", "text": "Network health status" },
+        { "id": "c", "text": "Port verification" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q28",
+      "text": "At which level is the Admin user of the Teevra app established?",
+      "options": [
+        { "id": "a", "text": "SSA level" },
+        { "id": "b", "text": "Circle level" },
+        { "id": "c", "text": "National level" },
+        { "id": "d", "text": "Exchange level" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q29",
+      "text": "The full form of GRI in the context of fiber reach measurement is:",
+      "options": [
+        { "id": "a", "text": "Global Reading Index" },
+        { "id": "b", "text": "Gigabit Readiness Index" },
+        { "id": "c", "text": "GPON Reading Index" },
+        { "id": "d", "text": "General Routing Interface" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q30",
+      "text": "The VMS portal is used to manage information regarding:",
+      "options": [
+        { "id": "a", "text": "CPEs with fixed security threats" },
+        { "id": "b", "text": "All operational CPEs" },
+        { "id": "c", "text": "CPEs with threats requiring SSA intervention" },
+        { "id": "d", "text": "Fiber splicing logs" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q31",
+      "text": "The first submarine communication cable was successfully laid in which year?",
+      "options": [
+        { "id": "a", "text": "1850" },
+        { "id": "b", "text": "1900" },
+        { "id": "c", "text": "1947" },
+        { "id": "d", "text": "1950" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q32",
+      "text": "In submarine cabling, LW stands for:",
+      "options": [
+        { "id": "a", "text": "Light Weight" },
+        { "id": "b", "text": "Laser Wave" },
+        { "id": "c", "text": "Link Wire" },
+        { "id": "d", "text": "Long Wavelength" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q33",
+      "text": "In submarine cabling, LWP stands for:",
+      "options": [
+        { "id": "a", "text": "Light Weight Protected" },
+        { "id": "b", "text": "Laser Wave Path" },
+        { "id": "c", "text": "Link Wire Protocol" },
+        { "id": "d", "text": "Local Wide Port" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q34",
+      "text": "A 'Single Armoured' submarine cable is abbreviated as:",
+      "options": [
+        { "id": "a", "text": "SMC" },
+        { "id": "b", "text": "LWP" },
+        { "id": "c", "text": "SA" },
+        { "id": "d", "text": "DA" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q35",
+      "text": "Which of the following is correct regarding fiber movement in cable structures?",
+      "options": [
+        { "id": "a", "text": "In tight cable structure, fibers are free to move" },
+        { "id": "b", "text": "In loose cable structure, fibers are strongly maintained" },
+        { "id": "c", "text": "Both A and B are true" },
+        { "id": "d", "text": "Both A and B are false" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q36",
+      "text": "Which of the following statements is INCORRECT?",
+      "options": [
+        { "id": "a", "text": "Double armoured cable (DA) is suitable for shallow water" },
+        { "id": "b", "text": "Lightweight cable (LW) is suitable for deep water only" },
+        { "id": "c", "text": "Lightweight cable (LW) is suitable for shallow water" },
+        { "id": "d", "text": "Rock armoured cable (RA) is for very shallow areas" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q37",
+      "text": "Which type of submarine cable is required for depths between 0 and 20 meters?",
+      "options": [
+        { "id": "a", "text": "Light Weight (LW)" },
+        { "id": "b", "text": "Rock Armoured (RA)" },
+        { "id": "c", "text": "Single Armoured (SA)" },
+        { "id": "d", "text": "Double Armoured (DA)" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q38",
+      "text": "Critical parameters for a submarine cable laying vessel include:",
+      "options": [
+        { "id": "a", "text": "Precise navigation (differential GPS)" },
+        { "id": "b", "text": "Proper cable handling per manufacturer specs" },
+        { "id": "c", "text": "Professional manning" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q39",
+      "text": "The speed of cable loading onto a vessel is determined by:",
+      "options": [
+        { "id": "a", "text": "Vessel equipment" },
+        { "id": "b", "text": "Tank size" },
+        { "id": "c", "text": "Cable structure and weight" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q40",
+      "text": "Which agency was nominated to establish submarine OFC connectivity between Kochi and Lakshadweep?",
+      "options": [
+        { "id": "a", "text": "TCIL" },
+        { "id": "b", "text": "BSNL" },
+        { "id": "c", "text": "Jio" },
+        { "id": "d", "text": "USOF" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q41",
+      "text": "A geostationary satellite revolves at an approximate height of:",
+      "options": [
+        { "id": "a", "text": "10,000 km" },
+        { "id": "b", "text": "20,000 km" },
+        { "id": "c", "text": "36,000 km" },
+        { "id": "d", "text": "72,000 km" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q42",
+      "text": "The total Round Trip Delay (RTD) for a single-hop satellite link is approximately:",
+      "options": [
+        { "id": "a", "text": "100 ms" },
+        { "id": "b", "text": "240 ms" },
+        { "id": "c", "text": "480-600 ms" },
+        { "id": "d", "text": "1 second" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q43",
+      "text": "A common antenna size for a C-band VSAT earth station is:",
+      "options": [
+        { "id": "a", "text": "0.3 m" },
+        { "id": "b", "text": "1.8 m - 2.4 m" },
+        { "id": "c", "text": "10 m" },
+        { "id": "d", "text": "0.5 m" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q44",
+      "text": "Uplink in satellite communication refers to the:",
+      "options": [
+        { "id": "a", "text": "Path from satellite to Earth station" },
+        { "id": "b", "text": "Path from Earth station to satellite" },
+        { "id": "c", "text": "Satellite-to-satellite link" },
+        { "id": "d", "text": "Ground inter-site link" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q45",
+      "text": "What refers to the actual equipment (transponders/antennas) providing the satellite's specific service?",
+      "options": [
+        { "id": "a", "text": "Support subsystem" },
+        { "id": "b", "text": "Bus" },
+        { "id": "c", "text": "Telemetry" },
+        { "id": "d", "text": "Payload" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q46",
+      "text": "BSNL DSPT service uses which satellite and Hub location?",
+      "options": [
+        { "id": "a", "text": "NSS-7 & Sikandrabad" },
+        { "id": "b", "text": "NSS-6 & Sikandrabad" },
+        { "id": "c", "text": "NSS-6 & Bangalore" },
+        { "id": "d", "text": "INSAT & Pune" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q47",
+      "text": "What is a valid Test VSAT ID for the East Zone Circles?",
+      "options": [
+        { "id": "a", "text": "1280" },
+        { "id": "b", "text": "1284" },
+        { "id": "c", "text": "1287" },
+        { "id": "d", "text": "32766" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q48",
+      "text": "Which Annexure covers the installation of Solar Panels and accessories?",
+      "options": [
+        { "id": "a", "text": "Annexure III A" },
+        { "id": "b", "text": "Annexure III C" },
+        { "id": "c", "text": "Annexure III B" },
+        { "id": "d", "text": "Annexure II" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q49",
+      "text": "The earthing resistance requirement for the DSPT Remote Terminal CCU is:",
+      "options": [
+        { "id": "a", "text": "< 10 Ohms" },
+        { "id": "b", "text": "> 10 Ohms" },
+        { "id": "c", "text": "50 Ohms" },
+        { "id": "d", "text": "Zero" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q50",
+      "text": "The maximum allowable cable length between a solar panel and the CCU is:",
+      "options": [
+        { "id": "a", "text": "15 meters" },
+        { "id": "b", "text": "10 meters" },
+        { "id": "c", "text": "8.5 meters" },
+        { "id": "d", "text": "5 meters" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q51",
+      "text": "The organization whose mission is to accelerate the worldwide adoption of Carrier-class Ethernet is:",
+      "options": [
+        { "id": "a", "text": "ITU" },
+        { "id": "b", "text": "MEF" },
+        { "id": "c", "text": "IEEE" },
+        { "id": "d", "text": "IETF" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q52",
+      "text": "MEF stands for:",
+      "options": [
+        { "id": "a", "text": "Metro Ethernet Forum" },
+        { "id": "b", "text": "Mobile Engineering Fund" },
+        { "id": "c", "text": "Multiprotocol Ethernet Facility" },
+        { "id": "d", "text": "Managed Enterprise Fiber" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q53",
+      "text": "ROADM stands for:",
+      "options": [
+        { "id": "a", "text": "Remote Optical Access Data Module" },
+        { "id": "b", "text": "Reconfigurable Add/Drop Multiplexers" },
+        { "id": "c", "text": "Routing Optical Array Multiplexer" },
+        { "id": "d", "text": "Reconstructed Add/Drop Module" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q54",
+      "text": "Ethernet over DWDM (EoW) offers path protection in less than:",
+      "options": [
+        { "id": "a", "text": "100 ms" },
+        { "id": "b", "text": "10 ms" },
+        { "id": "c", "text": "50 ms" },
+        { "id": "d", "text": "250 ms" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q55",
+      "text": "G-MPLS stands for:",
+      "options": [
+        { "id": "a", "text": "General Multiprotocol Label Switching" },
+        { "id": "b", "text": "Generic Multiprotocol Label Switching" },
+        { "id": "c", "text": "Generate Multiprotocol Label Switching" },
+        { "id": "d", "text": "Global Multiprotocol Label Switching" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q56",
+      "text": "The Alphion AOLT-4000 can be connected in which topologies?",
+      "options": [
+        { "id": "a", "text": "Passive RING" },
+        { "id": "b", "text": "Star" },
+        { "id": "c", "text": "Tree-branch" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q57",
+      "text": "What type of line card equipment protection does the Alphion OLT support?",
+      "options": [
+        { "id": "a", "text": "1+1 dedicated only" },
+        { "id": "b", "text": "1:N protection" },
+        { "id": "c", "text": "No line card protection" },
+        { "id": "d", "text": "Ring protection only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q58",
+      "text": "The Alphion OLT supports which uplink protection option?",
+      "options": [
+        { "id": "a", "text": "1:1 protection on the same card" },
+        { "id": "b", "text": "1+1 protection from different cards" },
+        { "id": "c", "text": "Both a and b" },
+        { "id": "d", "text": "None of these" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q59",
+      "text": "Central office dry alarm contacts in the Alphion OLT are provided via the:",
+      "options": [
+        { "id": "a", "text": "Line card" },
+        { "id": "b", "text": "Uplink card" },
+        { "id": "c", "text": "Control card" },
+        { "id": "d", "text": "Power module" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q60",
+      "text": "Redundant control cards in the Alphion OLT are installed in which slots?",
+      "options": [
+        { "id": "a", "text": "Slots 9 & 10" },
+        { "id": "b", "text": "Slots 1 & 16" },
+        { "id": "c", "text": "Slots 3 & 15" },
+        { "id": "d", "text": "Slots 4 & 13" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q61",
+      "text": "Redundant switching cards in the Alphion OLT are installed in which slots?",
+      "options": [
+        { "id": "a", "text": "Slots 1 & 16" },
+        { "id": "b", "text": "Slots 9 & 10" },
+        { "id": "c", "text": "Slots 3 & 15" },
+        { "id": "d", "text": "Slots 2 & 17" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q62",
+      "text": "How many universal slots for GPON OLT line cards does the Alphion chassis have?",
+      "options": [
+        { "id": "a", "text": "5" },
+        { "id": "b", "text": "10" },
+        { "id": "c", "text": "16" },
+        { "id": "d", "text": "40" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q63",
+      "text": "The Alphion OLT-4000-GLC line card is classified as which type of system?",
+      "options": [
+        { "id": "a", "text": "Class B" },
+        { "id": "b", "text": "Class C" },
+        { "id": "c", "text": "Class B+" },
+        { "id": "d", "text": "Class A" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q64",
+      "text": "The Huawei MA5680T OLT supports which bandwidth allocation methods?",
+      "options": [
+        { "id": "a", "text": "Static (SBA)" },
+        { "id": "b", "text": "Dynamic (DBA)" },
+        { "id": "c", "text": "Both SBA and DBA" },
+        { "id": "d", "text": "Only manual allocation" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q65",
+      "text": "Huawei OLT access boards are available in which configurations?",
+      "options": [
+        { "id": "a", "text": "4-port boards" },
+        { "id": "b", "text": "8-port boards" },
+        { "id": "c", "text": "Both 4 and 8 port boards" },
+        { "id": "d", "text": "Only 16-port boards" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q66",
+      "text": "MPLS-TP stands for:",
+      "options": [
+        { "id": "a", "text": "Multiprotocol Label Switching - Transmission Profile" },
+        { "id": "b", "text": "Multiprotocol Label Switching - Transport Protocol" },
+        { "id": "c", "text": "Multiprotocol Label Switching - Transport Profile" },
+        { "id": "d", "text": "Multiprotocol Label Switching - Transparent Profile" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q67",
+      "text": "Which organizations jointly standardized MPLS-TP?",
+      "options": [
+        { "id": "a", "text": "IEEE and ITU-T" },
+        { "id": "b", "text": "IETF and ITU-T" },
+        { "id": "c", "text": "IETF and IEEE" },
+        { "id": "d", "text": "MEF and IETF" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q68",
+      "text": "MPLS-TP is fundamentally designed to be:",
+      "options": [
+        { "id": "a", "text": "Connection-oriented" },
+        { "id": "b", "text": "Connectionless" },
+        { "id": "c", "text": "Dynamic mesh only" },
+        { "id": "d", "text": "Non-deterministic" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q69",
+      "text": "MPLS-TP provides support for:",
+      "options": [
+        { "id": "a", "text": "Carrier-grade maintenance using OAM" },
+        { "id": "b", "text": "Simple operation using NMS" },
+        { "id": "c", "text": "Robust network protection" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q70",
+      "text": "Which features from standard IP/MPLS were disabled in MPLS-TP to ensure traceability?",
+      "options": [
+        { "id": "a", "text": "Label swapping" },
+        { "id": "b", "text": "OAM packets" },
+        { "id": "c", "text": "PHP and ECMP" },
+        { "id": "d", "text": "Traffic engineering" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q71",
+      "text": "What type of data plane protection mechanisms does CPAN equipment support?",
+      "options": [
+        { "id": "a", "text": "1:1 (PW)" },
+        { "id": "b", "text": "1:N (LSP)" },
+        { "id": "c", "text": "1+1 dedicated" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q72",
+      "text": "Which of the following is a core concept of Software Defined Networking (SDN)?",
+      "options": [
+        { "id": "a", "text": "Centralized Network Control" },
+        { "id": "b", "text": "Decoupling control and data planes" },
+        { "id": "c", "text": "Abstraction of infrastructure for applications" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q73",
+      "text": "CPAN/PAN equipment can be connected in which topologies?",
+      "options": [
+        { "id": "a", "text": "Ring" },
+        { "id": "b", "text": "Mesh" },
+        { "id": "c", "text": "Both a and b" },
+        { "id": "d", "text": "Linear only" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q74",
+      "text": "Which of the following is a feature of CPAN/PAN equipment?",
+      "options": [
+        { "id": "a", "text": "Point-to-multipoint circuits" },
+        { "id": "b", "text": "Provisioning at L1 or L2" },
+        { "id": "c", "text": "Transporting synchronization information" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q75",
+      "text": "CPAN/PAN equipment must provide path protection within:",
+      "options": [
+        { "id": "a", "text": "100 ms" },
+        { "id": "b", "text": "50 ms" },
+        { "id": "c", "text": "1 second" },
+        { "id": "d", "text": "10 ms" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q76",
+      "text": "What is required before configuring Teracom GEPON equipment?",
+      "options": [
+        { "id": "a", "text": "ANM2000 installed correctly" },
+        { "id": "b", "text": "Management path configuration finished" },
+        { "id": "c", "text": "Both a and b" },
+        { "id": "d", "text": "Console cable disconnected" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q77",
+      "text": "What is the first configuration step after logging into ANM2000 for GEPON setup?",
+      "options": [
+        { "id": "a", "text": "Adding a system" },
+        { "id": "b", "text": "Adding a card" },
+        { "id": "c", "text": "Adding a management domain" },
+        { "id": "d", "text": "Setting a VLAN" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q78",
+      "text": "Time synchronization in a GEPON system means:",
+      "options": [
+        { "id": "a", "text": "Matching system time to the NMS server" },
+        { "id": "b", "text": "Matching system time to GPS" },
+        { "id": "c", "text": "Matching ONU time to OLT" },
+        { "id": "d", "text": "Setting all clocks to IST" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q79",
+      "text": "Which statement regarding card addition in a GEPON OLT is TRUE?",
+      "options": [
+        { "id": "a", "text": "Cards can only be added manually" },
+        { "id": "b", "text": "Cards can be added automatically via physical detection" },
+        { "id": "c", "text": "Manual addition is only possible if card is present" },
+        { "id": "d", "text": "Automatic detection is not supported" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q80",
+      "text": "The first step in configuring a SIP voice service in a Teracom GEPON OLT is:",
+      "options": [
+        { "id": "a", "text": "SIP parameter setting" },
+        { "id": "b", "text": "ONU authorization" },
+        { "id": "c", "text": "VLAN tagging" },
+        { "id": "d", "text": "Phone number mapping" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q81",
+      "text": "The protocol port used for the SIP proxy/register server in VoIP configuration is:",
+      "options": [
+        { "id": "a", "text": "8080" },
+        { "id": "b", "text": "21" },
+        { "id": "c", "text": "5060" },
+        { "id": "d", "text": "25" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q82",
+      "text": "What is the maximum number of subscribers a single Teracom OLT can configure?",
+      "options": [
+        { "id": "a", "text": "1024" },
+        { "id": "b", "text": "8192" },
+        { "id": "c", "text": "4096" },
+        { "id": "d", "text": "128" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q83",
+      "text": "CATV signals are fed into an FTTH network using which device?",
+      "options": [
+        { "id": "a", "text": "Optical splitter" },
+        { "id": "b", "text": "WDM coupler/combiner" },
+        { "id": "c", "text": "DSLAM" },
+        { "id": "d", "text": "Ethernet switch" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q84",
+      "text": "What is the specific wavelength used for CATV signals in GPON?",
+      "options": [
+        { "id": "a", "text": "1310 nm" },
+        { "id": "b", "text": "1490 nm" },
+        { "id": "c", "text": "1550 nm" },
+        { "id": "d", "text": "1510 nm" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q85",
+      "text": "In Teracom GEPON configuration, the NMS server and the OLT should be in:",
+      "options": [
+        { "id": "a", "text": "The same LAN segment" },
+        { "id": "b", "text": "Different states" },
+        { "id": "c", "text": "Separate VLANs without routing" },
+        { "id": "d", "text": "Different subnets without a gateway" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q86",
+      "text": "What is the full form of CPAN?",
+      "options": [
+        { "id": "a", "text": "Converged Packet Aggregation Network" },
+        { "id": "b", "text": "Comprehensive Perl Archive Network" },
+        { "id": "c", "text": "Converged Packet Access Network" },
+        { "id": "d", "text": "Central Packet Area Node" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q87",
+      "text": "CPAN technology is primarily based on:",
+      "options": [
+        { "id": "a", "text": "Legacy TDM" },
+        { "id": "b", "text": "MPLS-TP Technology" },
+        { "id": "c", "text": "Analog switching" },
+        { "id": "d", "text": "Circuit switching" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q88",
+      "text": "In a CPAN environment, the protection switching time must be:",
+      "options": [
+        { "id": "a", "text": "< 50 ms" },
+        { "id": "b", "text": "> 1 second" },
+        { "id": "c", "text": "< 10 ms" },
+        { "id": "d", "text": "300 ms" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q89",
+      "text": "Data plane protection in CPAN can utilize which modes?",
+      "options": [
+        { "id": "a", "text": "1+1 protection" },
+        { "id": "b", "text": "1:1 protection" },
+        { "id": "c", "text": "Both 1+1 and 1:1" },
+        { "id": "d", "text": "Only mesh protection" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q90",
+      "text": "CPAN equipment is intended to replace or work in place of:",
+      "options": [
+        { "id": "a", "text": "SDH equipment" },
+        { "id": "b", "text": "OTN equipment" },
+        { "id": "c", "text": "Carrier Grade Ethernet" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q91",
+      "text": "With respect to MPLS-TP, MIP stands for:",
+      "options": [
+        { "id": "a", "text": "Maintenance Intermediate Points" },
+        { "id": "b", "text": "Multimedia Information Points" },
+        { "id": "c", "text": "Managed IP Points" },
+        { "id": "d", "text": "Main Interface Protocol" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q92",
+      "text": "What is the full form of MPLS-TP?",
+      "options": [
+        { "id": "a", "text": "Multiprotocol Label Switching - Transport Profile" },
+        { "id": "b", "text": "Multiprotocol Label Switching - Transmission Protocol" },
+        { "id": "c", "text": "Multiprotocol Label Switching - Transport Protocol" },
+        { "id": "d", "text": "Managed Protocol Label Service - Transport" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q93",
+      "text": "MPLS-TP is best described as a:",
+      "options": [
+        { "id": "a", "text": "Connectionless packet application" },
+        { "id": "b", "text": "Connection-oriented packet-switched application" },
+        { "id": "c", "text": "Connection-oriented circuit application" },
+        { "id": "d", "text": "Dial-up protocol" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q94",
+      "text": "The definition and standardization of MPLS-TP are provided by:",
+      "options": [
+        { "id": "a", "text": "ITU-T" },
+        { "id": "b", "text": "IETF" },
+        { "id": "c", "text": "Both ITU-T and IETF" },
+        { "id": "d", "text": "IEEE" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q95",
+      "text": "MPLS-TP simplifies network scenarios by:",
+      "options": [
+        { "id": "a", "text": "Decreasing equipment count" },
+        { "id": "b", "text": "Reducing operational and maintenance costs" },
+        { "id": "c", "text": "Enhancing fault isolation" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q96",
+      "text": "The MNG-PAN switches are required to provide a reliability level of:",
+      "options": [
+        { "id": "a", "text": "99.9%" },
+        { "id": "b", "text": "100%" },
+        { "id": "c", "text": "99.999%" },
+        { "id": "d", "text": "95%" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q97",
+      "text": "MNG-PAN stands for:",
+      "options": [
+        { "id": "a", "text": "MSPP based Next Generation Packet Network" },
+        { "id": "b", "text": "MPLS based Next Generation Packet Aggregation Network" },
+        { "id": "c", "text": "Managed Node Group - PAN" },
+        { "id": "d", "text": "Multiplexed Node Gateway - PAN" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q98",
+      "text": "Advantages of the MNG-PAN network include:",
+      "options": [
+        { "id": "a", "text": "Scalability and reliability" },
+        { "id": "b", "text": "Inter-operability" },
+        { "id": "c", "text": "Carrier-class resilience (sub 50ms)" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q99",
+      "text": "BSNL has initially deployed the MNG-PAN Aggregation Network in how many cities?",
+      "options": [
+        { "id": "a", "text": "10" },
+        { "id": "b", "text": "15" },
+        { "id": "c", "text": "40" },
+        { "id": "d", "text": "5" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q100",
+      "text": "MNG-PAN switches collect customer traffic generated through which access technologies?",
+      "options": [
+        { "id": "a", "text": "DSL" },
+        { "id": "b", "text": "3G Node B" },
+        { "id": "c", "text": "Wi-MAX" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    }
+  ]
+}

@@ -1,0 +1,1103 @@
+{
+  "title": "BSNL JTO Phase 2nd Training Exam - KalyaniAll1 (Compendium Full 100-Question Set)",
+  "questions": [
+    {
+      "id": "kalyani_all1_q1",
+      "text": "Why is the OTN necessary for operator?",
+      "options": [
+        { "id": "a", "text": "To reduce CAPEX and OPEX" },
+        { "id": "b", "text": "To carry high bandwidth with better manageability of OAM" },
+        { "id": "c", "text": "Both a and b" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q2",
+      "text": "What is the specification defined by ITU-T for OTN frames and format?",
+      "options": [
+        { "id": "a", "text": "G.706" },
+        { "id": "b", "text": "G.872" },
+        { "id": "c", "text": "G.709" },
+        { "id": "d", "text": "G.796" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q3",
+      "text": "What is the ITU-T specification for OTN architecture?",
+      "options": [
+        { "id": "a", "text": "G.872" },
+        { "id": "b", "text": "G.709" },
+        { "id": "c", "text": "G.706" },
+        { "id": "d", "text": "G.796" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q4",
+      "text": "What is the commonly used term for OTN?",
+      "options": [
+        { "id": "a", "text": "IP wrapper" },
+        { "id": "b", "text": "Digital Wrapper" },
+        { "id": "c", "text": "FRAME wrapper" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q5",
+      "text": "What is the theoretical improvement of the Signal-to-Noise Ratio (SNR) when using FEC in OTN?",
+      "options": [
+        { "id": "a", "text": "5.2 dB" },
+        { "id": "b", "text": "2.6 dB" },
+        { "id": "c", "text": "6.2 dB" },
+        { "id": "d", "text": "2.8 dB" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q6",
+      "text": "What is the type of mapping used in OTN to carry client payloads?",
+      "options": [
+        { "id": "a", "text": "Synchronous" },
+        { "id": "b", "text": "Asynchronous" },
+        { "id": "c", "text": "Both depending on client payload type" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q7",
+      "text": "Which of the following is true regarding OTN and SDH frames?",
+      "options": [
+        { "id": "a", "text": "In OTN frame rate is fixed but in SDH frame size is fixed" },
+        { "id": "b", "text": "In both cases frame size is fixed" },
+        { "id": "c", "text": "In both cases frame rate is fixed" },
+        { "id": "d", "text": "In OTN frame size is fixed but in SDH frame rate is fixed" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q8",
+      "text": "What does IrDI stand for in the context of OTN interfaces?",
+      "options": [
+        { "id": "a", "text": "Internal Data Interface" },
+        { "id": "b", "text": "Inter-Domain Interface" },
+        { "id": "c", "text": "Internet Routing Domain Interface" },
+        { "id": "d", "text": "Integrated Radio Data Interface" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q9",
+      "text": "What is the main use of IrDI in an OTN network?",
+      "options": [
+        { "id": "a", "text": "Connecting single-vendor networks" },
+        { "id": "b", "text": "Interworking between different operators or vendors" },
+        { "id": "c", "text": "Internal maintenance of a sub-rack" },
+        { "id": "d", "text": "Connecting local client workstations" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q10",
+      "text": "In OTN, IaDI stands for:",
+      "options": [
+        { "id": "a", "text": "Internet Access Data Interface" },
+        { "id": "b", "text": "Internal Area Data Interface" },
+        { "id": "c", "text": "Intra-Domain Interface" },
+        { "id": "d", "text": "International Application Data Interface" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q11",
+      "text": "Which interface is used within a single operator's domain in OTN?",
+      "options": [
+        { "id": "a", "text": "IrDI" },
+        { "id": "b", "text": "IaDI" },
+        { "id": "c", "text": "V.35" },
+        { "id": "d", "text": "RS232" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q12",
+      "text": "Which element resides in the digital domain with respect to the OTN Layer?",
+      "options": [
+        { "id": "a", "text": "Optical Data Unit (ODU)" },
+        { "id": "b", "text": "Optical Channel (Och)" },
+        { "id": "c", "text": "Optical Multiplexed Section (OMS)" },
+        { "id": "d", "text": "Optical Transmission Section (OTS)" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q13",
+      "text": "What is true for OTN and SDH with respect to multiplexing stages?",
+      "options": [
+        { "id": "a", "text": "In OTN single stage multiplexing is used; in SDH multiple stage multiplexing is used" },
+        { "id": "b", "text": "In OTN multiple stage multiplexing is used; in SDH single stage multiplexing is used" },
+        { "id": "c", "text": "Both use multiple stage multiplexing" },
+        { "id": "d", "text": "Both use single stage multiplexing" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q14",
+      "text": "In the FONST5000 system, what are the capacity and type of the 1LN4 card?",
+      "options": [
+        { "id": "a", "text": "Multi service Tributary 100G card" },
+        { "id": "b", "text": "Multi service Line 40G Card" },
+        { "id": "c", "text": "Multi service Tributary 40G Card" },
+        { "id": "d", "text": "Multi service Line 100G Card" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q15",
+      "text": "Which module is responsible for optical amplification in the FONST5000?",
+      "options": [
+        { "id": "a", "text": "EVOA module" },
+        { "id": "b", "text": "EDFA module" },
+        { "id": "c", "text": "BMU module" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q16",
+      "text": "Which card serves as a 16-port tributary interface unit in FONST 5000?",
+      "options": [
+        { "id": "a", "text": "1LN4" },
+        { "id": "b", "text": "16TN1" },
+        { "id": "c", "text": "UXU2" },
+        { "id": "d", "text": "CCU" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q17",
+      "text": "The UXU2 card in the OTN system provides:",
+      "options": [
+        { "id": "a", "text": "Optical line amplification" },
+        { "id": "b", "text": "Electrical cross-connect functions" },
+        { "id": "c", "text": "Power supply to the sub-rack" },
+        { "id": "d", "text": "External alarm inputs" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q18",
+      "text": "In an OTN sub-rack, the EMU card is used for:",
+      "options": [
+        { "id": "a", "text": "Optical multiplexing" },
+        { "id": "b", "text": "Dispersion compensation" },
+        { "id": "c", "text": "Equipment management and monitoring" },
+        { "id": "d", "text": "TDM switching" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q19",
+      "text": "The CCU card's primary function in OTN is:",
+      "options": [
+        { "id": "a", "text": "Signal amplification" },
+        { "id": "b", "text": "Centralized system control and coordination" },
+        { "id": "c", "text": "Providing STM-64 interfaces" },
+        { "id": "d", "text": "Modem synchronization" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q20",
+      "text": "The default user ID and password for ADSL Modem configuration are:",
+      "options": [
+        { "id": "a", "text": "Admin, Admin" },
+        { "id": "b", "text": "admin, admin" },
+        { "id": "c", "text": "user, admin" },
+        { "id": "d", "text": "admin, password" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q21",
+      "text": "The default IP address for the ADSL Modem configuration interface is normally:",
+      "options": [
+        { "id": "a", "text": "192.168.1.1" },
+        { "id": "b", "text": "10.168.1.1" },
+        { "id": "c", "text": "255.255.0.0" },
+        { "id": "d", "text": "None of these" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q22",
+      "text": "For service configuration of ADSL Broadband, the standard VPI/VCI values are:",
+      "options": [
+        { "id": "a", "text": "0/32" },
+        { "id": "b", "text": "8/35" },
+        { "id": "c", "text": "0/35" },
+        { "id": "d", "text": "0/100" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q23",
+      "text": "To allow access from multiple computers via an ADSL broadband connection, the modem should be configured in:",
+      "options": [
+        { "id": "a", "text": "Bridge mode" },
+        { "id": "b", "text": "IPoA mode" },
+        { "id": "c", "text": "PPPoE mode" },
+        { "id": "d", "text": "MER mode" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q24",
+      "text": "Which of the following statements is NOT true for a DSL splitter?",
+      "options": [
+        { "id": "a", "text": "It splits voice and data signals" },
+        { "id": "b", "text": "It merges voice and data signals" },
+        { "id": "c", "text": "It splits signals toward the exchange" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q25",
+      "text": "Wi-Fi facility is available in all types of ADSL modems.",
+      "options": [
+        { "id": "a", "text": "TRUE" },
+        { "id": "b", "text": "FALSE" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q26",
+      "text": "FTTH stands for:",
+      "options": [
+        { "id": "a", "text": "Fiber to the Business" },
+        { "id": "b", "text": "Fiber to the Home" },
+        { "id": "c", "text": "Fiber to all" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q27",
+      "text": "An Optical Line Terminal (OLT) is generally installed:",
+      "options": [
+        { "id": "a", "text": "At customer premises" },
+        { "id": "b", "text": "At the central office (CO)" },
+        { "id": "c", "text": "In between the CO and premises" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q28",
+      "text": "Which device is used to terminate the optical signal at the customer premises?",
+      "options": [
+        { "id": "a", "text": "OLT" },
+        { "id": "b", "text": "NMS" },
+        { "id": "c", "text": "ONT" },
+        { "id": "d", "text": "Splitter" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q29",
+      "text": "The maximum reach between OLT and ONT using a 1:32 splitter is typically:",
+      "options": [
+        { "id": "a", "text": "20 km" },
+        { "id": "b", "text": "15 km" },
+        { "id": "c", "text": "25 km" },
+        { "id": "d", "text": "45 km" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q30",
+      "text": "The primary benefits of FTTH include:",
+      "options": [
+        { "id": "a", "text": "High bandwidth" },
+        { "id": "b", "text": "Low operational cost" },
+        { "id": "c", "text": "Future-proof flexibility" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q31",
+      "text": "Which access technology is used for the upstream (uplink) in a PON system?",
+      "options": [
+        { "id": "a", "text": "TDM" },
+        { "id": "b", "text": "CDMA" },
+        { "id": "c", "text": "TDMA" },
+        { "id": "d", "text": "QPSK" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q32",
+      "text": "Home Run Fiber is a type of:",
+      "options": [
+        { "id": "a", "text": "AON P2P technology" },
+        { "id": "b", "text": "AON P2MP technology" },
+        { "id": "c", "text": "PON P2P technology" },
+        { "id": "d", "text": "PON P2MP technology" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q33",
+      "text": "The standard line coding used for GPON is:",
+      "options": [
+        { "id": "a", "text": "RZ" },
+        { "id": "b", "text": "8B/10B" },
+        { "id": "c", "text": "AES" },
+        { "id": "d", "text": "NRZ" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q34",
+      "text": "Which PON technology provides the highest specified bandwidth?",
+      "options": [
+        { "id": "a", "text": "APON" },
+        { "id": "b", "text": "BPON" },
+        { "id": "c", "text": "GPON" },
+        { "id": "d", "text": "EPON" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q35",
+      "text": "The ATM protocol is used in which PON standards?",
+      "options": [
+        { "id": "a", "text": "EPON" },
+        { "id": "b", "text": "GPON" },
+        { "id": "c", "text": "APON" },
+        { "id": "d", "text": "Both GPON and APON" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q36",
+      "text": "The ITU-T G.984 standard specifically defines:",
+      "options": [
+        { "id": "a", "text": "APON" },
+        { "id": "b", "text": "BPON" },
+        { "id": "c", "text": "GPON" },
+        { "id": "d", "text": "EPON" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q37",
+      "text": "FTTB stands for:",
+      "options": [
+        { "id": "a", "text": "Fiber to the Business" },
+        { "id": "b", "text": "Fiber to the Building" },
+        { "id": "c", "text": "Fiber to the Bank" },
+        { "id": "d", "text": "Fiber to the BSNL" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q38",
+      "text": "FTTH technology enables which services?",
+      "options": [
+        { "id": "a", "text": "Multi-play (voice, video, data)" },
+        { "id": "b", "text": "Best in class service" },
+        { "id": "c", "text": "Cutting edge technology" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q39",
+      "text": "The full form of OLT is:",
+      "options": [
+        { "id": "a", "text": "Optical Line Terminal" },
+        { "id": "b", "text": "Optical Line Test" },
+        { "id": "c", "text": "Optical Linear Terminal" },
+        { "id": "d", "text": "Optical Line Terminology" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q40",
+      "text": "GPON uses which method for downstream security?",
+      "options": [
+        { "id": "a", "text": "AES (Counter mode)" },
+        { "id": "b", "text": "AES (128 bit key)" },
+        { "id": "c", "text": "Not defined" },
+        { "id": "d", "text": "Both a and b" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q41",
+      "text": "The standard upstream (uplink) wavelength used in APON is:",
+      "options": [
+        { "id": "a", "text": "1310 nm" },
+        { "id": "b", "text": "1410 nm" },
+        { "id": "c", "text": "1490 nm" },
+        { "id": "d", "text": "1550 nm" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q42",
+      "text": "The full form of DXC is:",
+      "options": [
+        { "id": "a", "text": "Digital Clock Connect" },
+        { "id": "b", "text": "Dual Cross Connect" },
+        { "id": "c", "text": "Digital Cross-Connect" },
+        { "id": "d", "text": "Double Cross Connect" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q43",
+      "text": "NMS stands for:",
+      "options": [
+        { "id": "a", "text": "Network Management System" },
+        { "id": "b", "text": "New Management System" },
+        { "id": "c", "text": "Network Manager System" },
+        { "id": "d", "text": "Network Management Server" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q44",
+      "text": "A standard Digital Cross-Connect (DXC) unit is available with:",
+      "options": [
+        { "id": "a", "text": "96 ports" },
+        { "id": "b", "text": "94 ports" },
+        { "id": "c", "text": "90 ports" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q45",
+      "text": "The driving distance for HDSL in an MLLN network is typically:",
+      "options": [
+        { "id": "a", "text": "4.2 km at 2Mbps" },
+        { "id": "b", "text": "3.5 km at 2Mbps" },
+        { "id": "c", "text": "7.0 km at 2Mbps" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q46",
+      "text": "Which node in an MLLN network is built using Master-slave architecture?",
+      "options": [
+        { "id": "a", "text": "Basic Node" },
+        { "id": "b", "text": "Midi Node" },
+        { "id": "c", "text": "Cluster Node" },
+        { "id": "d", "text": "Micro Node" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q47",
+      "text": "The maximum cross-connect capacity of a Basic Node in MLLN is:",
+      "options": [
+        { "id": "a", "text": "64 * 8 Mbps" },
+        { "id": "b", "text": "64 Kbps" },
+        { "id": "c", "text": "64 Mbps" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q48",
+      "text": "The cross-connect port capacity of an MLLN Midi node is:",
+      "options": [
+        { "id": "a", "text": "32 Mbps" },
+        { "id": "b", "text": "128 Mbps" },
+        { "id": "c", "text": "64 Mbps" },
+        { "id": "d", "text": "2 Mbps" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q49",
+      "text": "The accuracy of the internal clock in an MLLN Micro node is:",
+      "options": [
+        { "id": "a", "text": "±10 ppm" },
+        { "id": "b", "text": "±30 ppm" },
+        { "id": "c", "text": "±50 ppm" },
+        { "id": "d", "text": "±100 ppm" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q50",
+      "text": "The MLLN Accelerator node is an access node that combines which technologies?",
+      "options": [
+        { "id": "a", "text": "GSM and CDMA" },
+        { "id": "b", "text": "IP and ATM" },
+        { "id": "c", "text": "PDH and SDH" },
+        { "id": "d", "text": "Analog and Digital" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q51",
+      "text": "Which access node specifically combines PDH and SDH technologies?",
+      "options": [
+        { "id": "a", "text": "Basic Node" },
+        { "id": "b", "text": "Mini Node" },
+        { "id": "c", "text": "Cluster Node" },
+        { "id": "d", "text": "Accelerator Node" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q52",
+      "text": "A standard 64kbps NTU is designed to work up to:",
+      "options": [
+        { "id": "a", "text": "128 kbps" },
+        { "id": "b", "text": "64 kbps" },
+        { "id": "c", "text": "2 Mbps" },
+        { "id": "d", "text": "512 kbps" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q53",
+      "text": "An N x 64kbps NTU is designed to work up to:",
+      "options": [
+        { "id": "a", "text": "64 kbps" },
+        { "id": "b", "text": "2 Mbps" },
+        { "id": "c", "text": "128 kbps" },
+        { "id": "d", "text": "512 kbps" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q54",
+      "text": "A Cluster Node typically consists of:",
+      "options": [
+        { "id": "a", "text": "A master sub-rack and 1–8 slave sub-racks" },
+        { "id": "b", "text": "A master sub-rack and 1–7 slave sub-racks" },
+        { "id": "c", "text": "A master sub-rack and 1–6 slave sub-racks" },
+        { "id": "d", "text": "A master sub-rack and 1–5 slave sub-racks" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q55",
+      "text": "In the MLLN NMS, what are the first four sequential steps for trunk creation?",
+      "options": [
+        { "id": "a", "text": "Check free interfaces > Parameterize interfaces > Change state to 'Inuse' > Add trunk" },
+        { "id": "b", "text": "Add trunk > Parameterize interfaces > Change state to 'Inuse' > Check free interfaces" },
+        { "id": "c", "text": "Change state to 'Inuse' > Parameterize interfaces > Add trunk > Check free interfaces" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q56",
+      "text": "While configuring a Teracom OLT in CLI mode, the serial cable is attached to which port?",
+      "options": [
+        { "id": "a", "text": "Console port" },
+        { "id": "b", "text": "Management port" },
+        { "id": "c", "text": "Uplink port" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q57",
+      "text": "When using HyperTerminal to configure an OLT, the default 'bits per second' value is:",
+      "options": [
+        { "id": "a", "text": "5200" },
+        { "id": "b", "text": "9600" },
+        { "id": "c", "text": "1100" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q58",
+      "text": "Which command is used to enter administrative (management) mode on a Teracom OLT?",
+      "options": [
+        { "id": "a", "text": "Admin" },
+        { "id": "b", "text": "Root" },
+        { "id": "c", "text": "Enable" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q59",
+      "text": "The administrative mode of a Teracom OLT is indicated by which prompt?",
+      "options": [
+        { "id": "a", "text": ">" },
+        { "id": "b", "text": "#" },
+        { "id": "c", "text": "\\" },
+        { "id": "d", "text": "/" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q60",
+      "text": "When configuring the ANM2000 management path for a Teracom OLT:",
+      "options": [
+        { "id": "a", "text": "The client and management IPs must be in the same network" },
+        { "id": "b", "text": "The client and management IPs must be in different networks" },
+        { "id": "c", "text": "The client and management IPs may be in the same or different network" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q61",
+      "text": "For a Teracom AN5116-06A OLT, the 'Management VLAN tag' should be configured as:",
+      "options": [
+        { "id": "a", "text": "Tagged" },
+        { "id": "b", "text": "Untagged" },
+        { "id": "c", "text": "Either tagged or untagged" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q62",
+      "text": "On a Teracom AN5116-06A OLT, the 'SNMP Trap' function is by default:",
+      "options": [
+        { "id": "a", "text": "Enabled" },
+        { "id": "b", "text": "Disabled" },
+        { "id": "c", "text": "Not required" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q63",
+      "text": "The default IP address for a Huawei make ONT is:",
+      "options": [
+        { "id": "a", "text": "192.168.1.1" },
+        { "id": "b", "text": "192.168.1.254" },
+        { "id": "c", "text": "192.168.100.1" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q64",
+      "text": "When configuring a Huawei ONT for VoIP service, which addresses must be set?",
+      "options": [
+        { "id": "a", "text": "SIP server address" },
+        { "id": "b", "text": "Registered server address" },
+        { "id": "c", "text": "Both a and b" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q65",
+      "text": "When configuring a Huawei ONT for INTERNET service, the 802.1p value should be:",
+      "options": [
+        { "id": "a", "text": "0" },
+        { "id": "b", "text": "10" },
+        { "id": "c", "text": "11" },
+        { "id": "d", "text": "6" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q66",
+      "text": "MPLS is a protocol framework specified by:",
+      "options": [
+        { "id": "a", "text": "IETF" },
+        { "id": "b", "text": "ITU-T" },
+        { "id": "c", "text": "IEEE" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q67",
+      "text": "The MPLS framework is designed to be:",
+      "options": [
+        { "id": "a", "text": "Independent of Layer-2 and Layer-3 protocols" },
+        { "id": "b", "text": "Dependent on Layer-2 and Layer-3 protocols" },
+        { "id": "c", "text": "Dependent only on Layer-3 protocol" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q68",
+      "text": "In MPLS, if LSPs are created prior to data transmission, it is called:",
+      "options": [
+        { "id": "a", "text": "Data driven LSP" },
+        { "id": "b", "text": "Control driven LSP" },
+        { "id": "c", "text": "Traffic driven LSP" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q69",
+      "text": "MPLS labels can be distributed using which of the following protocols?",
+      "options": [
+        { "id": "a", "text": "LDP" },
+        { "id": "b", "text": "RSVP" },
+        { "id": "c", "text": "BGP" },
+        { "id": "d", "text": "All of these" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q70",
+      "text": "In MPLS, a representation of a group of packets that share the same transport requirements is called:",
+      "options": [
+        { "id": "a", "text": "Tunnel" },
+        { "id": "b", "text": "FEC (Forward Equivalence Class)" },
+        { "id": "c", "text": "LSP" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q71",
+      "text": "In an MPLS environment, the record containing FEC-to-label bindings is called:",
+      "options": [
+        { "id": "a", "text": "LIB (Label Information Base)" },
+        { "id": "b", "text": "Routing Table" },
+        { "id": "c", "text": "FEC table" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q72",
+      "text": "The length of an MPLS label is:",
+      "options": [
+        { "id": "a", "text": "16 bits" },
+        { "id": "b", "text": "24 bits" },
+        { "id": "c", "text": "20 bits" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q73",
+      "text": "In the MPLS shim header, the EXP field consists of:",
+      "options": [
+        { "id": "a", "text": "1 bit" },
+        { "id": "b", "text": "3 bits" },
+        { "id": "c", "text": "8 bits" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q74",
+      "text": "Which protocols are used for Traffic Engineering and resource reservation in MPLS?",
+      "options": [
+        { "id": "a", "text": "RSVP and CR-LDP" },
+        { "id": "b", "text": "RSVP and LDP" },
+        { "id": "c", "text": "RSVP and PIM" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q75",
+      "text": "In which VPN type does the service provider NOT participate in routing customer data?",
+      "options": [
+        { "id": "a", "text": "Peer-to-peer VPN" },
+        { "id": "b", "text": "Overlay VPN" },
+        { "id": "c", "text": "Dial VPN" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q76",
+      "text": "The Overlay VPN model is also commonly referred to as:",
+      "options": [
+        { "id": "a", "text": "CE-based VPN" },
+        { "id": "b", "text": "Peer-to-peer VPN" },
+        { "id": "c", "text": "Dial VPN" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q77",
+      "text": "With respect to CDMA-based VPNs, LNS stands for:",
+      "options": [
+        { "id": "a", "text": "L2TP Network Server" },
+        { "id": "b", "text": "Location based Network Server" },
+        { "id": "c", "text": "Local Network server" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q78",
+      "text": "In a CDMA-based VPN, the L2TP tunnel is typically created between:",
+      "options": [
+        { "id": "a", "text": "CDMA PDSN and LNS" },
+        { "id": "b", "text": "CDMA PDSN and customer server" },
+        { "id": "c", "text": "LNS and customer server" },
+        { "id": "d", "text": "Customer PC and customer server" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q79",
+      "text": "In which type of VPN architecture is the VRF table created in the router?",
+      "options": [
+        { "id": "a", "text": "Overlay VPN" },
+        { "id": "b", "text": "Peer-to-peer VPN" },
+        { "id": "c", "text": "Dial VPN" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q80",
+      "text": "In a CDMA-based VPN, the authentication of User ID and Password is performed by:",
+      "options": [
+        { "id": "a", "text": "Gateway" },
+        { "id": "b", "text": "CDMA 1x/EVDO PDSN" },
+        { "id": "c", "text": "LNS" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q81",
+      "text": "In a CDMA-based VPN, the EVDO WAN interface can be assigned an IP address:",
+      "options": [
+        { "id": "a", "text": "Only statically" },
+        { "id": "b", "text": "Only dynamically" },
+        { "id": "c", "text": "Either statically or dynamically" },
+        { "id": "d", "text": "IP is not required" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q82",
+      "text": "The CDMA network connects to the MPLS network via a link with which speed?",
+      "options": [
+        { "id": "a", "text": "10 Mbps" },
+        { "id": "b", "text": "1 Gbps" },
+        { "id": "c", "text": "100 Mbps" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q83",
+      "text": "A Peer-to-peer VPN functions at which layer of the OSI model?",
+      "options": [
+        { "id": "a", "text": "Layer 1" },
+        { "id": "b", "text": "Layer 2" },
+        { "id": "c", "text": "Layer 3" },
+        { "id": "d", "text": "Layer 5" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q84",
+      "text": "The core (Layer 1) routers of the NIB-II backbone are interconnected with:",
+      "options": [
+        { "id": "a", "text": "10 Gbps optical links" },
+        { "id": "b", "text": "STM-16 (2.5 Gbps) optical links" },
+        { "id": "c", "text": "STM-1 optical links" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q85",
+      "text": "In a CDMA-based VPN setup, the customer's PC connects to the EVDO modem through the:",
+      "options": [
+        { "id": "a", "text": "PON port" },
+        { "id": "b", "text": "E1 port" },
+        { "id": "c", "text": "Ethernet (Eth) port" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q86",
+      "text": "VLAN technology is primarily used to address which network issues?",
+      "options": [
+        { "id": "a", "text": "Scalability, security, and network management" },
+        { "id": "b", "text": "Scalability, security, and complex routing" },
+        { "id": "c", "text": "Security, routing, and hardware flexibility" },
+        { "id": "d", "text": "Security, routing, and IP address shortage" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q87",
+      "text": "In an Ethernet network, broadcasting is essential for which functions?",
+      "options": [
+        { "id": "a", "text": "Service discovery" },
+        { "id": "b", "text": "Address assignment and resolution" },
+        { "id": "c", "text": "Both a and b" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q88",
+      "text": "VLANs can be used to partition a network to provide specific services such as:",
+      "options": [
+        { "id": "a", "text": "Voice over IP" },
+        { "id": "b", "text": "DMZ (Demilitarized Zone)" },
+        { "id": "c", "text": "SAN (Storage Area Network)" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q89",
+      "text": "Which network technologies possess built-in VLAN capabilities?",
+      "options": [
+        { "id": "a", "text": "Ethernet only" },
+        { "id": "b", "text": "Ethernet, ATM, and FDDI" },
+        { "id": "c", "text": "Ethernet and ATM only" },
+        { "id": "d", "text": "Ethernet and IP only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q90",
+      "text": "At which layer of the OSI model do Virtual LANs (VLANs) operate?",
+      "options": [
+        { "id": "a", "text": "Layer 3" },
+        { "id": "b", "text": "Layer 5" },
+        { "id": "c", "text": "Layer 1" },
+        { "id": "d", "text": "Layer 2" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q91",
+      "text": "Which statement is true regarding IP addresses and separate VLANs?",
+      "options": [
+        { "id": "a", "text": "Two VLANs can use the same private IP address but will not function" },
+        { "id": "b", "text": "Two VLANs must use different IP addresses to function" },
+        { "id": "c", "text": "Two VLANs can use the same IP address, but inter-VLAN routing will be a problem" },
+        { "id": "d", "text": "IP addressing is irrelevant to VLAN functioning" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q92",
+      "text": "Inter-VLAN communication is normally achieved using which device?",
+      "options": [
+        { "id": "a", "text": "Bridge" },
+        { "id": "b", "text": "Repeater" },
+        { "id": "c", "text": "Router" },
+        { "id": "d", "text": "Hub" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q93",
+      "text": "The protocol most commonly used today to support and specify VLANs is:",
+      "options": [
+        { "id": "a", "text": "IEEE 802.1Q" },
+        { "id": "b", "text": "IEEE 802.3" },
+        { "id": "c", "text": "IEEE 802.11" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q94",
+      "text": "Which of the following statements about VLAN tagging is NOT true?",
+      "options": [
+        { "id": "a", "text": "ISL uses an external tagging process that does not modify the original frame" },
+        { "id": "b", "text": "IEEE 802.1Q uses a frame-internal field that modifies the basic Ethernet structure" },
+        { "id": "c", "text": "IEEE 802.1Q tagging works on both access and trunk links with standard hardware" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "kalyani_all1_q95",
+      "text": "Under the IEEE 802.1Q standard, the maximum number of VLANs on an Ethernet network is:",
+      "options": [
+        { "id": "a", "text": "1024" },
+        { "id": "b", "text": "4094" },
+        { "id": "c", "text": "65,536" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q96",
+      "text": "The Teracom AN5116-06A OLT system enables external environment monitoring via which port?",
+      "options": [
+        { "id": "a", "text": "Management interface" },
+        { "id": "b", "text": "Dry contact interface" },
+        { "id": "c", "text": "Alarm interface" },
+        { "id": "d", "text": "User interface" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "kalyani_all1_q97",
+      "text": "The Teracom AN5116-06A OLT system supports a maximum optical splitting ratio of:",
+      "options": [
+        { "id": "a", "text": "1:64" },
+        { "id": "b", "text": "1:128" },
+        { "id": "c", "text": "1:32" },
+        { "id": "d", "text": "None of the above" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q98",
+      "text": "The minimum bandwidth allocation granularity of the DBA in a Teracom OLT is:",
+      "options": [
+        { "id": "a", "text": "64 Kbps" },
+        { "id": "b", "text": "1 Mbps" },
+        { "id": "c", "text": "4 Kbps" },
+        { "id": "d", "text": "2 Mbps" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "kalyani_all1_q99",
+      "text": "The Teracom AN5116-06A OLT system supports which protocols for NGN voice functions?",
+      "options": [
+        { "id": "a", "text": "ITU-T H.248, MGCP, and SIP" },
+        { "id": "b", "text": "MGCP and SIP only" },
+        { "id": "c", "text": "SIP only" },
+        { "id": "d", "text": "ITU-T H.248 and SIP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "kalyani_all1_q100",
+      "text": "In the Teracom AN5116-06A OLT sub-rack, core switch cards are installed in which slots?",
+      "options": [
+        { "id": "a", "text": "Slot 1 & 20" },
+        { "id": "b", "text": "Slot 2 & 18" },
+        { "id": "c", "text": "Slot 16 & 17" },
+        { "id": "d", "text": "Slot 9 and 10" }
+      ],
+      "correctAnswer": "d"
+    }
+  ]
+}
