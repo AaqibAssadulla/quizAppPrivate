@@ -300,12 +300,12 @@
       "id": "kalyani_all1_q28",
       "text": "At which level is the Admin user of the Teevra app established?",
       "options": [
-        { "id": "a", "text": "SSA level" },
-        { "id": "b", "text": "Circle level" },
-        { "id": "c", "text": "National level" },
-        { "id": "d", "text": "Exchange level" }
+        { "id": "a", "text": "SSA level/CircleLevel" },
+        { "id": "b", "text": "National level" },
+        { "id": "c", "text": "Exchange level" },
+        { "id": "d", "text": "None" }
       ],
-      "correctAnswer": "b"
+      "correctAnswer": "a"
     },
     {
       "id": "kalyani_all1_q29",
@@ -518,7 +518,7 @@
     },
     {
       "id": "kalyani_all1_q48",
-      "text": "Which Annexure covers the installation of Solar Panels and accessories?",
+      "text": "Which Annexure covers the installation of Solar Panels and accessories? Fazool sawal",
       "options": [
         { "id": "a", "text": "Annexure III A" },
         { "id": "b", "text": "Annexure III C" },
