@@ -1,0 +1,1105 @@
+{
+  "title": "BSNL JTO Phase 2nd Training Exam - GZB3 (Week 6) Full QP",
+  "questions": [
+    {
+      "id": "gzb3_q1",
+      "text": "BSNL EB primarily targets:",
+      "options": [
+        { "id": "a", "text": "Only retail prepaid users" },
+        { "id": "b", "text": "OTT subscribers" },
+        { "id": "c", "text": "Government, enterprises & corporate clients" },
+        { "id": "d", "text": "Rural telegraph users" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q2",
+      "text": "A key strength of BSNL EB portfolio is:",
+      "options": [
+        { "id": "a", "text": "Diverse ICT solutions including connectivity, cloud, security" },
+        { "id": "b", "text": "Only prepaid recharge services" },
+        { "id": "c", "text": "Basic telegraph services" },
+        { "id": "d", "text": "Entertainment content" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q3",
+      "text": "BSNL EB strategy aligns with:",
+      "options": [
+        { "id": "a", "text": "Postal services only" },
+        { "id": "b", "text": "Digital India & Smart Cities" },
+        { "id": "c", "text": "OTT competitors" },
+        { "id": "d", "text": "Legacy TDM only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q4",
+      "text": "BSNL ILL provides:",
+      "options": [
+        { "id": "a", "text": "Shared broadband service" },
+        { "id": "b", "text": "SMS-based internet" },
+        { "id": "c", "text": "Dedicated, symmetric internet connectivity" },
+        { "id": "d", "text": "Dial-up access" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q5",
+      "text": "SLA for BSNL ILL typically guarantees:",
+      "options": [
+        { "id": "a", "text": "50% uptime" },
+        { "id": "b", "text": "99.5% or above uptime" },
+        { "id": "c", "text": "No uptime guarantee" },
+        { "id": "d", "text": "Only best-effort" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q6",
+      "text": "A benefit of ILL for enterprises is:",
+      "options": [
+        { "id": "a", "text": "High contention ratio" },
+        { "id": "b", "text": "Unpredictable bandwidth" },
+        { "id": "c", "text": "Free OTT content" },
+        { "id": "d", "text": "Symmetric upload & download speeds" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q7",
+      "text": "MPLS-VPN provides:",
+      "options": [
+        { "id": "a", "text": "Secure Layer-3 connectivity across BSNL backbone" },
+        { "id": "b", "text": "Only voice switching" },
+        { "id": "c", "text": "SMS relay" },
+        { "id": "d", "text": "Coaxial TV" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q8",
+      "text": "A major enterprise benefit of MPLS-VPN:",
+      "options": [
+        { "id": "a", "text": "Only prepaid recharge" },
+        { "id": "b", "text": "Class of Service & Traffic Engineering" },
+        { "id": "c", "text": "No scalability" },
+        { "id": "d", "text": "Works only in LAN" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q9",
+      "text": "MPLS-VPN is commonly used by:",
+      "options": [
+        { "id": "a", "text": "Only OTT apps" },
+        { "id": "b", "text": "Banks, govt. agencies, corporates" },
+        { "id": "c", "text": "Cable TV" },
+        { "id": "d", "text": "Retail prepaid users" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q10",
+      "text": "FTTH enterprise services are delivered using:",
+      "options": [
+        { "id": "a", "text": "GPON technology" },
+        { "id": "b", "text": "Dial-up modems" },
+        { "id": "c", "text": "Coaxial only" },
+        { "id": "d", "text": "Telegraph" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q11",
+      "text": "FTTH can provide:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "Triple play (voice, video, data)" },
+        { "id": "c", "text": "SMS only" },
+        { "id": "d", "text": "Coaxial TV only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q12",
+      "text": "Enterprises prefer FTTH because:",
+      "options": [
+        { "id": "a", "text": "Shared last mile" },
+        { "id": "b", "text": "High copper loss" },
+        { "id": "c", "text": "Scalable high bandwidth & reliability" },
+        { "id": "d", "text": "No SLA" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q13",
+      "text": "BSNL IDCs are located at:",
+      "options": [
+        { "id": "a", "text": "Only Delhi" },
+        { "id": "b", "text": "Only Mumbai" },
+        { "id": "c", "text": "Hyderabad, Pune, Bengaluru, Ahmedabad" },
+        { "id": "d", "text": "Only Kolkata" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q14",
+      "text": "Services offered by BSNL IDC include:",
+      "options": [
+        { "id": "a", "text": "Hosting, Co-location, Cloud, Managed Services" },
+        { "id": "b", "text": "SMS" },
+        { "id": "c", "text": "Telegraph" },
+        { "id": "d", "text": "OTT content" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q15",
+      "text": "A Tier-III data center uptime is around:",
+      "options": [
+        { "id": "a", "text": "95%" },
+        { "id": "b", "text": "100%" },
+        { "id": "c", "text": "50%" },
+        { "id": "d", "text": "99.982%" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q16",
+      "text": "BSNL’s enterprise cloud offering is called:",
+      "options": [
+        { "id": "a", "text": "Cloud X" },
+        { "id": "b", "text": "BSNL Cloud (NextGen DC)" },
+        { "id": "c", "text": "Digital TV" },
+        { "id": "d", "text": "OTT Now" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q17",
+      "text": "SaaS provides:",
+      "options": [
+        { "id": "a", "text": "Physical hardware purchase" },
+        { "id": "b", "text": "Software on subscription over cloud" },
+        { "id": "c", "text": "Copper wiring" },
+        { "id": "d", "text": "IPTV" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q18",
+      "text": "A cloud benefit for enterprises:",
+      "options": [
+        { "id": "a", "text": "Manual scaling" },
+        { "id": "b", "text": "Only hardware focus" },
+        { "id": "c", "text": "Scalability & pay-as-you-go billing" },
+        { "id": "d", "text": "No flexibility" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q19",
+      "text": "SIP Trunk replaces:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "Multiple PRI lines with IP-based connectivity" },
+        { "id": "c", "text": "SMS services" },
+        { "id": "d", "text": "MPLS core" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q20",
+      "text": "NGN architecture separates:",
+      "options": [
+        { "id": "a", "text": "Call control & media gateway" },
+        { "id": "b", "text": "Optical splicing" },
+        { "id": "c", "text": "SMS & data" },
+        { "id": "d", "text": "ERP & billing" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q21",
+      "text": "A SIP trunk advantage is:",
+      "options": [
+        { "id": "a", "text": "Only analog calls" },
+        { "id": "b", "text": "High copper usage" },
+        { "id": "c", "text": "Scalability & cost efficiency" },
+        { "id": "d", "text": "No mobility" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q22",
+      "text": "M2M in telecom stands for:",
+      "options": [
+        { "id": "a", "text": "Mobile to Mobile only" },
+        { "id": "b", "text": "Machine to Machine" },
+        { "id": "c", "text": "Media to Media" },
+        { "id": "d", "text": "Messaging to Messaging" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q23",
+      "text": "IoT in enterprises supports:",
+      "options": [
+        { "id": "a", "text": "Telegraph only" },
+        { "id": "b", "text": "SMS push" },
+        { "id": "c", "text": "OTT video" },
+        { "id": "d", "text": "Smart metering, logistics, surveillance" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q24",
+      "text": "5G enterprise benefit is:",
+      "options": [
+        { "id": "a", "text": "High-latency links" },
+        { "id": "b", "text": "Only voice" },
+        { "id": "c", "text": "Ultra-low latency & massive device connectivity" },
+        { "id": "d", "text": "No scalability" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q25",
+      "text": "CIA triad in security stands for:",
+      "options": [
+        { "id": "a", "text": "Central, Internet, Access" },
+        { "id": "b", "text": "Control, Information, Access" },
+        { "id": "c", "text": "Confidentiality, Integrity, Availability" },
+        { "id": "d", "text": "Confidentiality, IP, Authentication" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q26",
+      "text": "A BSNL cyber security service is:",
+      "options": [
+        { "id": "a", "text": "Firewall & DDoS protection" },
+        { "id": "b", "text": "SMS alerts" },
+        { "id": "c", "text": "IPTV" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q27",
+      "text": "DDoS means:",
+      "options": [
+        { "id": "a", "text": "Digital Data Over Switch" },
+        { "id": "b", "text": "Direct Dial on Service" },
+        { "id": "c", "text": "Distributed Denial of Service" },
+        { "id": "d", "text": "Distributed Data Output System" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q28",
+      "text": "ERP in BSNL is based on:",
+      "options": [
+        { "id": "a", "text": "Oracle only" },
+        { "id": "b", "text": "Excel" },
+        { "id": "c", "text": "SAP" },
+        { "id": "d", "text": "Manual books" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q29",
+      "text": "CRM in BSNL is used for:",
+      "options": [
+        { "id": "a", "text": "Optical splicing" },
+        { "id": "b", "text": "Customer management & service requests" },
+        { "id": "c", "text": "SMS billing" },
+        { "id": "d", "text": "IPTV" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q30",
+      "text": "Digital platforms benefit BSNL by:",
+      "options": [
+        { "id": "a", "text": "Higher manual dependency" },
+        { "id": "b", "text": "Process automation & transparency" },
+        { "id": "c", "text": "Random reporting" },
+        { "id": "d", "text": "No integration" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q31",
+      "text": "BharatNet aims at:",
+      "options": [
+        { "id": "a", "text": "OTT rollout" },
+        { "id": "b", "text": "Telegraph offices" },
+        { "id": "c", "text": "Rural broadband via OFC" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q32",
+      "text": "A govt. project implemented by BSNL:",
+      "options": [
+        { "id": "a", "text": "National Knowledge Network (NKN)" },
+        { "id": "b", "text": "Netflix rollout" },
+        { "id": "c", "text": "OTT billing" },
+        { "id": "d", "text": "GSM prepaid" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q33",
+      "text": "NMEICT project supports:",
+      "options": [
+        { "id": "a", "text": "Prepaid recharge" },
+        { "id": "b", "text": "ICT in education sector" },
+        { "id": "c", "text": "SMS broadcast" },
+        { "id": "d", "text": "Coaxial TV" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q34",
+      "text": "BSNL provides smart city solutions such as:",
+      "options": [
+        { "id": "a", "text": "CCTV, Wi-Fi hotspots, IoT-based utilities" },
+        { "id": "b", "text": "Telegraph booths" },
+        { "id": "c", "text": "PRI trunks only" },
+        { "id": "d", "text": "ERP billing" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q35",
+      "text": "Smart poles integrate:",
+      "options": [
+        { "id": "a", "text": "Telegraph lines" },
+        { "id": "b", "text": "DSL" },
+        { "id": "c", "text": "Wi-Fi, CCTV, environment sensors" },
+        { "id": "d", "text": "PRI" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q36",
+      "text": "Smart city backbone relies on:",
+      "options": [
+        { "id": "a", "text": "Optical fiber & IP/MPLS network" },
+        { "id": "b", "text": "Telegraph circuits" },
+        { "id": "c", "text": "GSM 2G" },
+        { "id": "d", "text": "Dial-up" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q37",
+      "text": "Enterprise Wi-Fi enables:",
+      "options": [
+        { "id": "a", "text": "Telegraph only" },
+        { "id": "b", "text": "Wireless broadband access for customers & employees" },
+        { "id": "c", "text": "SMS delivery" },
+        { "id": "d", "text": "MPLS core" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q38",
+      "text": "Wi-Fi offloading helps operators by:",
+      "options": [
+        { "id": "a", "text": "Reducing cellular load" },
+        { "id": "b", "text": "Increasing copper loss" },
+        { "id": "c", "text": "Enhancing telegraph" },
+        { "id": "d", "text": "Replacing fiber" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q39",
+      "text": "Enterprise Wi-Fi security is ensured with:",
+      "options": [
+        { "id": "a", "text": "No encryption" },
+        { "id": "b", "text": "Shared password" },
+        { "id": "c", "text": "WPA3/802.1x authentication" },
+        { "id": "d", "text": "SMS login only" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q40",
+      "text": "OTT stands for:",
+      "options": [
+        { "id": "a", "text": "Over The Top" },
+        { "id": "b", "text": "Online Telecom Transfer" },
+        { "id": "c", "text": "One-Time Telephony" },
+        { "id": "d", "text": "On-Time Transmission" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q41",
+      "text": "Example of OTT:",
+      "options": [
+        { "id": "a", "text": "MPLS VPN" },
+        { "id": "b", "text": "ILL" },
+        { "id": "c", "text": "Netflix, WhatsApp" },
+        { "id": "d", "text": "PRI" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q42",
+      "text": "OTT reduces operator revenue from:",
+      "options": [
+        { "id": "a", "text": "Fiber rollout" },
+        { "id": "b", "text": "SMS & voice" },
+        { "id": "c", "text": "MPLS VPN" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q43",
+      "text": "A pillar of Digital India is:",
+      "options": [
+        { "id": "a", "text": "Broadband highways" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "ERP" },
+        { "id": "d", "text": "PRI" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q44",
+      "text": "UMANG app provides:",
+      "options": [
+        { "id": "a", "text": "SMS alerts only" },
+        { "id": "b", "text": "Unified access to govt. services" },
+        { "id": "c", "text": "IPTV" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q45",
+      "text": "MyGov portal is for:",
+      "options": [
+        { "id": "a", "text": "Telecom billing" },
+        { "id": "b", "text": "Citizen engagement with govt." },
+        { "id": "c", "text": "OTT content" },
+        { "id": "d", "text": "Fiber rollout" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q46",
+      "text": "AI in networks helps in:",
+      "options": [
+        { "id": "a", "text": "Predictive maintenance & automation" },
+        { "id": "b", "text": "Telegraph relay" },
+        { "id": "c", "text": "SMS alerts" },
+        { "id": "d", "text": "Manual provisioning" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q47",
+      "text": "Blockchain can help telecom in:",
+      "options": [
+        { "id": "a", "text": "Telegraph billing" },
+        { "id": "b", "text": "Fraud prevention & secure billing" },
+        { "id": "c", "text": "SMS" },
+        { "id": "d", "text": "DSL" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q48",
+      "text": "Edge computing improves:",
+      "options": [
+        { "id": "a", "text": "Telegraph speed" },
+        { "id": "b", "text": "DSL modulation" },
+        { "id": "c", "text": "Latency by processing data closer to users" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q49",
+      "text": "Video conferencing works over:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "SMS" },
+        { "id": "c", "text": "IP backbone" },
+        { "id": "d", "text": "Dial-up" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q50",
+      "text": "A common VC protocol:",
+      "options": [
+        { "id": "a", "text": "H.323" },
+        { "id": "b", "text": "SMTP" },
+        { "id": "c", "text": "FTP" },
+        { "id": "d", "text": "SNMP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q51",
+      "text": "Video conferencing provides which major benefit?",
+      "options": [
+        { "id": "a", "text": "Reduces travel costs" },
+        { "id": "b", "text": "Reduces time wastage" },
+        { "id": "c", "text": "Enhances collaboration" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q52",
+      "text": "VSAT stands for:",
+      "options": [
+        { "id": "a", "text": "Virtual Satellite Access Terminal" },
+        { "id": "b", "text": "Video Switching Access Technology" },
+        { "id": "c", "text": "Very Small Aperture Terminal" },
+        { "id": "d", "text": "Value Service Access Tool" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q53",
+      "text": "VSAT is useful in:",
+      "options": [
+        { "id": "a", "text": "Urban OFC-rich areas" },
+        { "id": "b", "text": "OTT platforms" },
+        { "id": "c", "text": "Remote/underserved areas" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q54",
+      "text": "Limitation of VSAT is:",
+      "options": [
+        { "id": "a", "text": "High latency due to GEO satellites" },
+        { "id": "b", "text": "No connectivity" },
+        { "id": "c", "text": "No scalability" },
+        { "id": "d", "text": "No IP support" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q55",
+      "text": "Managed services help enterprises by:",
+      "options": [
+        { "id": "a", "text": "Manual billing" },
+        { "id": "b", "text": "Outsourcing IT/network operations" },
+        { "id": "c", "text": "Telegraph" },
+        { "id": "d", "text": "SMS" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q56",
+      "text": "SLA in managed services ensures:",
+      "options": [
+        { "id": "a", "text": "Random downtime" },
+        { "id": "b", "text": "No reporting" },
+        { "id": "c", "text": "Accountability & guaranteed uptime" },
+        { "id": "d", "text": "SMS alerts" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q57",
+      "text": "Managed services reduce:",
+      "options": [
+        { "id": "a", "text": "OTT use" },
+        { "id": "b", "text": "DSL" },
+        { "id": "c", "text": "OPEX for enterprises" },
+        { "id": "d", "text": "Fiber cut" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q58",
+      "text": "Operators counter OTT by:",
+      "options": [
+        { "id": "a", "text": "Offering bundled data + content packs" },
+        { "id": "b", "text": "Stopping broadband" },
+        { "id": "c", "text": "Ending MPLS" },
+        { "id": "d", "text": "Telegraph revival" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q59",
+      "text": "BSNL’s strategy vs OTT includes:",
+      "options": [
+        { "id": "a", "text": "SMS-only services" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "Enterprise-grade solutions & partnerships" },
+        { "id": "d", "text": "Manual billing" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q60",
+      "text": "OTT partnerships can create:",
+      "options": [
+        { "id": "a", "text": "Revenue loss" },
+        { "id": "b", "text": "Win-win for telcos & app providers" },
+        { "id": "c", "text": "No growth" },
+        { "id": "d", "text": "Only prepaid" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q61",
+      "text": "Enterprise email provides:",
+      "options": [
+        { "id": "a", "text": "Domain-based identity for corporates" },
+        { "id": "b", "text": "SMS only" },
+        { "id": "c", "text": "Telegraph" },
+        { "id": "d", "text": "IPTV" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q62",
+      "text": "Protocol used for email retrieval is:",
+      "options": [
+        { "id": "a", "text": "FTP" },
+        { "id": "b", "text": "IMAP/POP3" },
+        { "id": "c", "text": "RIP" },
+        { "id": "d", "text": "MPLS" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q63",
+      "text": "Enterprise email features include:",
+      "options": [
+        { "id": "a", "text": "Only SMS" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "Spam filtering, mobility, webmail" },
+        { "id": "d", "text": "IPTV" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q64",
+      "text": "SDH base rate is:",
+      "options": [
+        { "id": "a", "text": "STM-1 (155 Mbps)" },
+        { "id": "b", "text": "STM-64 (10 Gbps)" },
+        { "id": "c", "text": "STM-256 (40 Gbps)" },
+        { "id": "d", "text": "STM-16 (2.5 Gbps)" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q65",
+      "text": "NG-SDH supports:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "Ethernet over SDH using GFP" },
+        { "id": "c", "text": "SMS" },
+        { "id": "d", "text": "PRI" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q66",
+      "text": "MPLS-TP is used in:",
+      "options": [
+        { "id": "a", "text": "Packet transport networks" },
+        { "id": "b", "text": "SMS" },
+        { "id": "c", "text": "Telegraph" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q67",
+      "text": "Self-care portals provide:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "Online bill payment, complaint booking" },
+        { "id": "c", "text": "SMS" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q68",
+      "text": "A benefit of self-care is:",
+      "options": [
+        { "id": "a", "text": "Manual delays" },
+        { "id": "b", "text": "Transparency & 24x7 access" },
+        { "id": "c", "text": "Only office hours" },
+        { "id": "d", "text": "Telegraph" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q69",
+      "text": "Self-care portals integrate with:",
+      "options": [
+        { "id": "a", "text": "OSS/BSS systems" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "SMS" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q70",
+      "text": "UC integrates:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "DSL" },
+        { "id": "c", "text": "Voice, video, IM, email" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q71",
+      "text": "UC improves:",
+      "options": [
+        { "id": "a", "text": "Enterprise productivity & collaboration" },
+        { "id": "b", "text": "Manual delays" },
+        { "id": "c", "text": "Telegraph" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q72",
+      "text": "A common UC tool is:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "MPLS" },
+        { "id": "c", "text": "ERP" },
+        { "id": "d", "text": "Microsoft Teams" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q73",
+      "text": "Firewalls are used to:",
+      "options": [
+        { "id": "a", "text": "Block unauthorized traffic" },
+        { "id": "b", "text": "Send SMS" },
+        { "id": "c", "text": "Telegraph relay" },
+        { "id": "d", "text": "IPTV" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q74",
+      "text": "IDS/IPS are:",
+      "options": [
+        { "id": "a", "text": "Internet Delivery Services" },
+        { "id": "b", "text": "Integrated DSL Systems" },
+        { "id": "c", "text": "Intrusion Detection & Prevention Systems" },
+        { "id": "d", "text": "International Dialing Service" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q75",
+      "text": "BSNL ensures network security by:",
+      "options": [
+        { "id": "a", "text": "Ignoring malware" },
+        { "id": "b", "text": "Telegraph revival" },
+        { "id": "c", "text": "No password change" },
+        { "id": "d", "text": "Regular audits, patches & monitoring" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q76",
+      "text": "BSNL EB services are mainly offered through:",
+      "options": [
+        { "id": "a", "text": "Enterprise Business Units (EBU)" },
+        { "id": "b", "text": "Only CSCs" },
+        { "id": "c", "text": "Retail SIM vendors" },
+        { "id": "d", "text": "OTT portals" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q77",
+      "text": "ILL is preferred over broadband because:",
+      "options": [
+        { "id": "a", "text": "Cheaper only" },
+        { "id": "b", "text": "Guaranteed SLA-based performance" },
+        { "id": "c", "text": "No monitoring" },
+        { "id": "d", "text": "Shared bandwidth" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q78",
+      "text": "In MPLS, traffic forwarding is based on:",
+      "options": [
+        { "id": "a", "text": "IP lookup" },
+        { "id": "b", "text": "Labels" },
+        { "id": "c", "text": "MAC" },
+        { "id": "d", "text": "Coaxial ID" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q79",
+      "text": "A device placed at customer premises in FTTH is:",
+      "options": [
+        { "id": "a", "text": "ONT" },
+        { "id": "b", "text": "OLT" },
+        { "id": "c", "text": "DSLAM" },
+        { "id": "d", "text": "Switch" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q80",
+      "text": "Co-location service means:",
+      "options": [
+        { "id": "a", "text": "Selling cloud software" },
+        { "id": "b", "text": "Leasing copper" },
+        { "id": "c", "text": "Housing customer IT equipment in IDC" },
+        { "id": "d", "text": "Voice trunking" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q81",
+      "text": "PaaS in cloud provides:",
+      "options": [
+        { "id": "a", "text": "Physical servers" },
+        { "id": "b", "text": "Finished apps only" },
+        { "id": "c", "text": "Development platform & runtime environment" },
+        { "id": "d", "text": "Cabling infra" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q82",
+      "text": "SIP stands for:",
+      "options": [
+        { "id": "a", "text": "Session Initiation Protocol" },
+        { "id": "b", "text": "Service Internet Protocol" },
+        { "id": "c", "text": "Secure Internet Platform" },
+        { "id": "d", "text": "Subscriber IP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q83",
+      "text": "A common IoT connectivity technology is:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "Dial-up" },
+        { "id": "c", "text": "PRI" },
+        { "id": "d", "text": "NB-IoT" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q84",
+      "text": "Encryption ensures:",
+      "options": [
+        { "id": "a", "text": "More bandwidth" },
+        { "id": "b", "text": "Data confidentiality in transit" },
+        { "id": "c", "text": "Copper-free network" },
+        { "id": "d", "text": "OTT blocking" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q85",
+      "text": "OSS in telecom refers to:",
+      "options": [
+        { "id": "a", "text": "Operational Support System" },
+        { "id": "b", "text": "Office Support Software" },
+        { "id": "c", "text": "Optical Signal System" },
+        { "id": "d", "text": "Open Switching Service" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q86",
+      "text": "NKN backbone operates at:",
+      "options": [
+        { "id": "a", "text": "Dial-up" },
+        { "id": "b", "text": "Multi-Gbps speeds" },
+        { "id": "c", "text": "Telegraph" },
+        { "id": "d", "text": "DSL" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q87",
+      "text": "Smart surveillance is implemented using:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "PRI" },
+        { "id": "c", "text": "Coaxial" },
+        { "id": "d", "text": "CCTV + analytics" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb3_q88",
+      "text": "Wi-Fi 6 improves:",
+      "options": [
+        { "id": "a", "text": "Capacity & efficiency in dense environments" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "SMS" },
+        { "id": "d", "text": "PRI" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q89",
+      "text": "CDN helps OTT by:",
+      "options": [
+        { "id": "a", "text": "Adding telegraph lines" },
+        { "id": "b", "text": "Caching content near users" },
+        { "id": "c", "text": "Reducing bandwidth" },
+        { "id": "d", "text": "Limiting IPTV" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q90",
+      "text": "Bharat Interface for Money (BHIM) app is linked with:",
+      "options": [
+        { "id": "a", "text": "UPI for digital payments" },
+        { "id": "b", "text": "Telegraph billing" },
+        { "id": "c", "text": "IPTV" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q91",
+      "text": "URLLC in 5G is targeted for:",
+      "options": [
+        { "id": "a", "text": "High-latency voice" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "Mission-critical low-latency apps" },
+        { "id": "d", "text": "DSL" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q92",
+      "text": "MCU in video conferencing stands for:",
+      "options": [
+        { "id": "a", "text": "Multipoint Control Unit" },
+        { "id": "b", "text": "Multi Call Utility" },
+        { "id": "c", "text": "Mobile Call Unit" },
+        { "id": "d", "text": "Messaging Control Unit" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q93",
+      "text": "Hub-and-spoke architecture in VSAT is called:",
+      "options": [
+        { "id": "a", "text": "Ring topology" },
+        { "id": "b", "text": "Mesh topology" },
+        { "id": "c", "text": "Star topology" },
+        { "id": "d", "text": "Tree topology" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q94",
+      "text": "A popular BSNL managed service is:",
+      "options": [
+        { "id": "a", "text": "Managed LAN/WAN for enterprises" },
+        { "id": "b", "text": "Telegraph" },
+        { "id": "c", "text": "IPTV" },
+        { "id": "d", "text": "SMS" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q95",
+      "text": "Net neutrality ensures:",
+      "options": [
+        { "id": "a", "text": "OTT blocking" },
+        { "id": "b", "text": "Only SMS billing" },
+        { "id": "c", "text": "Equal treatment of all internet traffic" },
+        { "id": "d", "text": "Telegraph priority" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb3_q96",
+      "text": "SMTP is used for:",
+      "options": [
+        { "id": "a", "text": "Sending emails" },
+        { "id": "b", "text": "Receiving emails" },
+        { "id": "c", "text": "Encrypting files" },
+        { "id": "d", "text": "Cloud compute" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q97",
+      "text": "DWDM expands:",
+      "options": [
+        { "id": "a", "text": "Data Wide Distribution Model" },
+        { "id": "b", "text": "Dense Wavelength Division Multiplexing" },
+        { "id": "c", "text": "Digital Wireless Data Multiplexing" },
+        { "id": "d", "text": "DSL Wideband" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q98",
+      "text": "A typical feature of customer portal is:",
+      "options": [
+        { "id": "a", "text": "Trouble ticket tracking" },
+        { "id": "b", "text": "Optical splicing" },
+        { "id": "c", "text": "ERP payroll" },
+        { "id": "d", "text": "OTT streaming" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb3_q99",
+      "text": "Presence information in UC shows:",
+      "options": [
+        { "id": "a", "text": "Bandwidth" },
+        { "id": "b", "text": "User’s availability status" },
+        { "id": "c", "text": "Telephony usage" },
+        { "id": "d", "text": "MPLS" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb3_q100",
+      "text": "VPN contributes to security by:",
+      "options": [
+        { "id": "a", "text": "Encrypting enterprise traffic over public networks" },
+        { "id": "b", "text": "Reducing copper loss" },
+        { "id": "c", "text": "DSL backup" },
+        { "id": "d", "text": "OTT replacement" }
+      ],
+      "correctAnswer": "a"
+    }
+  ]
+}
