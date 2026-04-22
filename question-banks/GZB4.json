@@ -1,0 +1,808 @@
+{
+  "title": "BSNL JTO Phase 2nd Training Exam - Enterprise Business GZB4 (Week 5) Full Extraction",
+  "questions": [
+    {
+      "id": "gzb4_q1",
+      "text": "In a GPON system, the typical downstream speed supported is:",
+      "options": [
+        { "id": "a", "text": "622 Mbps" },
+        { "id": "b", "text": "1.25 Gbps" },
+        { "id": "c", "text": "10 Gbps" },
+        { "id": "d", "text": "2.5 Gbps" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q2",
+      "text": "Alphion OLT connects to:",
+      "options": [
+        { "id": "a", "text": "Customer LAN directly" },
+        { "id": "b", "text": "Core network via uplink ports" },
+        { "id": "c", "text": "Analog telephones" },
+        { "id": "d", "text": "Mobile BTS" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q3",
+      "text": "In Alphion ONT, voice service is provided through:",
+      "options": [
+        { "id": "a", "text": "RJ11 ports" },
+        { "id": "b", "text": "RJ45 ports" },
+        { "id": "c", "text": "Optical connectors" },
+        { "id": "d", "text": "HDMI" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q4",
+      "text": "Huawei GPON OLT uses which management system?",
+      "options": [
+        { "id": "a", "text": "NMS/EMS from third-party" },
+        { "id": "b", "text": "U2000" },
+        { "id": "c", "text": "SDH Manager" },
+        { "id": "d", "text": "SNMP console only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q5",
+      "text": "Typical split ratio supported in Huawei GPON is:",
+      "options": [
+        { "id": "a", "text": "1:8" },
+        { "id": "b", "text": "1:16" },
+        { "id": "c", "text": "1:2" },
+        { "id": "d", "text": "1:32 or 1:64" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q6",
+      "text": "Which protocol does Huawei ONT use for remote management?",
+      "options": [
+        { "id": "a", "text": "SNMP only" },
+        { "id": "b", "text": "FTP" },
+        { "id": "c", "text": "TR-069" },
+        { "id": "d", "text": "SMTP" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q7",
+      "text": "Transport networks primarily carry:",
+      "options": [
+        { "id": "a", "text": "SMS services" },
+        { "id": "b", "text": "Telegraph traffic" },
+        { "id": "c", "text": "Only emails" },
+        { "id": "d", "text": "Voice, video, and data traffic" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q8",
+      "text": "SDH is an example of:",
+      "options": [
+        { "id": "a", "text": "Packet-based network" },
+        { "id": "b", "text": "Wireless transport" },
+        { "id": "c", "text": "Circuit-switched transport technology" },
+        { "id": "d", "text": "IP/MPLS only" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q9",
+      "text": "MPLS-TP in transport networks provides:",
+      "options": [
+        { "id": "a", "text": "GSM connectivity" },
+        { "id": "b", "text": "IP-based packet transport with OAM features" },
+        { "id": "c", "text": "Only voice services" },
+        { "id": "d", "text": "SMS broadcast" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q10",
+      "text": "Basic SDH frame rate is:",
+      "options": [
+        { "id": "a", "text": "STM-1 (155 Mbps)" },
+        { "id": "b", "text": "STM-4 (622 Mbps)" },
+        { "id": "c", "text": "STM-16 (2.5 Gbps)" },
+        { "id": "d", "text": "STM-64 (10 Gbps)" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q13",
+      "text": "NG-SDH adds support for:",
+      "options": [
+        { "id": "a", "text": "Dial-up" },
+        { "id": "b", "text": "Telegraph services" },
+        { "id": "c", "text": "IP/Ethernet services" },
+        { "id": "d", "text": "Analog TV" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q14",
+      "text": "GFP in NG-SDH stands for:",
+      "options": [
+        { "id": "a", "text": "General Frame Processor" },
+        { "id": "b", "text": "Generic Framing Procedure" },
+        { "id": "c", "text": "Gigabit Frame Path" },
+        { "id": "d", "text": "Global Forwarding Packet" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q15",
+      "text": "A key advantage of NG-SDH is:",
+      "options": [
+        { "id": "a", "text": "Backward compatibility with SDH and support for packet transport" },
+        { "id": "b", "text": "Only supports legacy services" },
+        { "id": "c", "text": "No support for Ethernet" },
+        { "id": "d", "text": "Incompatible with existing networks" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q16",
+      "text": "VSAT typically uses which orbit satellites?",
+      "options": [
+        { "id": "a", "text": "LEO" },
+        { "id": "b", "text": "MEO" },
+        { "id": "c", "text": "GEO" },
+        { "id": "d", "text": "Polar" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q17",
+      "text": "Typical VSAT antenna diameter is:",
+      "options": [
+        { "id": "a", "text": "0.3 m" },
+        { "id": "b", "text": "10 m" },
+        { "id": "c", "text": "20 m" },
+        { "id": "d", "text": "0.75–2.4 m" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q18",
+      "text": "In VSAT, hub station is responsible for:",
+      "options": [
+        { "id": "a", "text": "Customer billing" },
+        { "id": "b", "text": "LAN cabling" },
+        { "id": "c", "text": "Network control and traffic switching" },
+        { "id": "d", "text": "DSL access" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q19",
+      "text": "The Teevra App is designed for:",
+      "options": [
+        { "id": "a", "text": "Network fault management" },
+        { "id": "b", "text": "Employee attendance" },
+        { "id": "c", "text": "Mobile recharge" },
+        { "id": "d", "text": "IPTV streaming" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q20",
+      "text": "A key feature of Teevra is:",
+      "options": [
+        { "id": "a", "text": "Real-time ticket monitoring" },
+        { "id": "b", "text": "Offline chat" },
+        { "id": "c", "text": "Video calling" },
+        { "id": "d", "text": "SMS-only alerts" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q21",
+      "text": "Teevra primarily helps:",
+      "options": [
+        { "id": "a", "text": "Customers directly" },
+        { "id": "b", "text": "OTT platforms" },
+        { "id": "c", "text": "BSNL staff in field maintenance" },
+        { "id": "d", "text": "IPTV subscribers" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q22",
+      "text": "BBNMS is used for:",
+      "options": [
+        { "id": "a", "text": "Managing IPTV subscribers" },
+        { "id": "b", "text": "Video calls" },
+        { "id": "c", "text": "SMS services" },
+        { "id": "d", "text": "Monitoring broadband network elements" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q23",
+      "text": "A key function of BBNMS is:",
+      "options": [
+        { "id": "a", "text": "Inventory of ONTs/DSLAMs" },
+        { "id": "b", "text": "Fault localization" },
+        { "id": "c", "text": "Performance management" },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q24",
+      "text": "BBNMS improves:",
+      "options": [
+        { "id": "a", "text": "Downtime" },
+        { "id": "b", "text": "Manual complaints" },
+        { "id": "c", "text": "Network efficiency and fault handling" },
+        { "id": "d", "text": "Random switching" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q25",
+      "text": "GRI scheme is meant for:",
+      "options": [
+        { "id": "a", "text": "Technical fault handling" },
+        { "id": "b", "text": "Boosting revenue through staff incentives" },
+        { "id": "c", "text": "Customer billing" },
+        { "id": "d", "text": "Vendor payments" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q26",
+      "text": "Which staff group benefits from GRI?",
+      "options": [
+        { "id": "a", "text": "Only customers" },
+        { "id": "b", "text": "External vendors" },
+        { "id": "c", "text": "Telecom regulators" },
+        { "id": "d", "text": "BSNL marketing & sales employees" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q27",
+      "text": "A direct outcome of GRI is:",
+      "options": [
+        { "id": "a", "text": "Revenue growth and employee motivation" },
+        { "id": "b", "text": "Increase in downtime" },
+        { "id": "c", "text": "Decline in customer base" },
+        { "id": "d", "text": "Less focus on EB" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q28",
+      "text": "CFA stands for:",
+      "options": [
+        { "id": "a", "text": "Central Fiber Area" },
+        { "id": "b", "text": "Consumer Fixed Access" },
+        { "id": "c", "text": "Common Finance Access" },
+        { "id": "d", "text": "Core Fiber Application" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q29",
+      "text": "CFA dashboard provides:",
+      "options": [
+        { "id": "a", "text": "Movie streaming" },
+        { "id": "b", "text": "SMS services" },
+        { "id": "c", "text": "Sales & provisioning data for FTTH/BB" },
+        { "id": "d", "text": "OTT billing" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q30",
+      "text": "Benefit of CFA Dashboard is:",
+      "options": [
+        { "id": "a", "text": "Data-driven decision making" },
+        { "id": "b", "text": "Manual reporting only" },
+        { "id": "c", "text": "Customer SMS alerts" },
+        { "id": "d", "text": "Higher latency" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q31",
+      "text": "VMS in BSNL refers to:",
+      "options": [
+        { "id": "a", "text": "Video Messaging Service" },
+        { "id": "b", "text": "Virtual Machine System" },
+        { "id": "c", "text": "Vendor Management System" },
+        { "id": "d", "text": "Value Managed Service" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q32",
+      "text": "A key role of VMS portal is:",
+      "options": [
+        { "id": "a", "text": "SMS push services" },
+        { "id": "b", "text": "IPTV billing" },
+        { "id": "c", "text": "Vendor empanelment and contract tracking" },
+        { "id": "d", "text": "OTT login" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q33",
+      "text": "VMS portal improves:",
+      "options": [
+        { "id": "a", "text": "Transparency in procurement" },
+        { "id": "b", "text": "Delays in payments" },
+        { "id": "c", "text": "Telecom traffic" },
+        { "id": "d", "text": "Network congestion" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q34",
+      "text": "ONT security risks include:",
+      "options": [
+        { "id": "a", "text": "Power surges only" },
+        { "id": "b", "text": "Optical loss" },
+        { "id": "c", "text": "Random noise" },
+        { "id": "d", "text": "Unauthorized access via default passwords" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q35",
+      "text": "Best practice for OLT security is:",
+      "options": [
+        { "id": "a", "text": "Shared login for all users" },
+        { "id": "b", "text": "Role-based access control" },
+        { "id": "c", "text": "No authentication" },
+        { "id": "d", "text": "Disable logging" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q36",
+      "text": "Security audits on OLTs/ONTs help in:",
+      "options": [
+        { "id": "a", "text": "Detecting misconfigurations and vulnerabilities" },
+        { "id": "b", "text": "Improving video quality" },
+        { "id": "c", "text": "Extending fiber life" },
+        { "id": "d", "text": "Preventing IP telephony" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q37",
+      "text": "NMS is responsible for:",
+      "options": [
+        { "id": "a", "text": "SMS delivery" },
+        { "id": "b", "text": "Voice calling only" },
+        { "id": "c", "text": "Optical splicing" },
+        { "id": "d", "text": "Fault, Configuration, Accounting, Performance, Security (FCAPS)" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q38",
+      "text": "A key advantage of NMS:",
+      "options": [
+        { "id": "a", "text": "Manual ticketing" },
+        { "id": "b", "text": "Centralized visibility and control" },
+        { "id": "c", "text": "Random log collection" },
+        { "id": "d", "text": "Higher downtime" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q39",
+      "text": "NMS reduces:",
+      "options": [
+        { "id": "a", "text": "Network downtime" },
+        { "id": "b", "text": "Customer satisfaction" },
+        { "id": "c", "text": "Service provisioning" },
+        { "id": "d", "text": "Billing automation" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q40",
+      "text": "IPTV over FTTH uses:",
+      "options": [
+        { "id": "a", "text": "IP multicast for channel streaming" },
+        { "id": "b", "text": "Satellite dishes" },
+        { "id": "c", "text": "Only coaxial" },
+        { "id": "d", "text": "SMS push" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q41",
+      "text": "A benefit of IPTV on FTTH:",
+      "options": [
+        { "id": "a", "text": "No internet" },
+        { "id": "b", "text": "Manual billing" },
+        { "id": "c", "text": "SMS alerts" },
+        { "id": "d", "text": "Interactive services (VoD, catch-up TV)" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q42",
+      "text": "Middleware in IPTV is used for:",
+      "options": [
+        { "id": "a", "text": "Optical splicing" },
+        { "id": "b", "text": "User interface and channel control" },
+        { "id": "c", "text": "DSLAM testing" },
+        { "id": "d", "text": "Wi-Fi only" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q43",
+      "text": "NGN voice platforms are based on:",
+      "options": [
+        { "id": "a", "text": "Analog switches" },
+        { "id": "b", "text": "Telegraph circuits" },
+        { "id": "c", "text": "SMS gateways" },
+        { "id": "d", "text": "Softswitch architecture" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q44",
+      "text": "Protocol widely used in NGN voice call setup is:",
+      "options": [
+        { "id": "a", "text": "POP3" },
+        { "id": "b", "text": "SIP" },
+        { "id": "c", "text": "FTP" },
+        { "id": "d", "text": "SNMP" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q45",
+      "text": "Benefit of NGN voice services is:",
+      "options": [
+        { "id": "a", "text": "Converged IP-based network for voice & data" },
+        { "id": "b", "text": "Only one service per line" },
+        { "id": "c", "text": "More power consumption" },
+        { "id": "d", "text": "No QoS" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q46",
+      "text": "ADSL provides:",
+      "options": [
+        { "id": "a", "text": "Symmetric high-speed data" },
+        { "id": "b", "text": "Only voice calls" },
+        { "id": "c", "text": "Fiber connectivity" },
+        { "id": "d", "text": "Asymmetric speeds (higher download, lower upload)" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q47",
+      "text": "VDSL offers speeds up to:",
+      "options": [
+        { "id": "a", "text": "64 kbps" },
+        { "id": "b", "text": "2 Mbps" },
+        { "id": "c", "text": "50–100 Mbps" },
+        { "id": "d", "text": "10 Gbps" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q48",
+      "text": "Limitation of DSL is:",
+      "options": [
+        { "id": "a", "text": "Distance sensitivity of copper" },
+        { "id": "b", "text": "High cost of fiber" },
+        { "id": "c", "text": "Limited Ethernet ports" },
+        { "id": "d", "text": "IP addressing" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q49",
+      "text": "BSNL provides enterprise VPN via:",
+      "options": [
+        { "id": "a", "text": "MPLS backbone" },
+        { "id": "b", "text": "Telegraph lines" },
+        { "id": "c", "text": "GSM SMS" },
+        { "id": "d", "text": "PRI trunks" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q50",
+      "text": "Key benefit of VPN is:",
+      "options": [
+        { "id": "a", "text": "SMS alerts" },
+        { "id": "b", "text": "Secure enterprise connectivity" },
+        { "id": "c", "text": "IPTV viewing" },
+        { "id": "d", "text": "Reduced optical loss" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q51",
+      "text": "Common tunneling protocol in VPN:",
+      "options": [
+        { "id": "a", "text": "IPsec" },
+        { "id": "b", "text": "DNS" },
+        { "id": "c", "text": "FTP" },
+        { "id": "d", "text": "POP3" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q52",
+      "text": "A strong security measure is:",
+      "options": [
+        { "id": "a", "text": "Firewalls & IDS/IPS" },
+        { "id": "b", "text": "Shared passwords" },
+        { "id": "c", "text": "Disabling encryption" },
+        { "id": "d", "text": "Removing audits" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q53",
+      "text": "Phishing is:",
+      "options": [
+        { "id": "a", "text": "Fiber splicing error" },
+        { "id": "b", "text": "DSL modulation issue" },
+        { "id": "c", "text": "Social engineering attack via fake emails" },
+        { "id": "d", "text": "OLT crash" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q54",
+      "text": "BSNL security policies include:",
+      "options": [
+        { "id": "a", "text": "Regular patch updates and audits" },
+        { "id": "b", "text": "No password change" },
+        { "id": "c", "text": "Ignoring malware" },
+        { "id": "d", "text": "Disabling firewalls" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q55",
+      "text": "CFA deals with:",
+      "options": [
+        { "id": "a", "text": "Consumer Fixed Access (landline, broadband, FTTH)" },
+        { "id": "b", "text": "Cloud-only services" },
+        { "id": "c", "text": "Mobile prepaid only" },
+        { "id": "d", "text": "IPTV middleware" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q56",
+      "text": "FTTH in CFA ensures:",
+      "options": [
+        { "id": "a", "text": "Only telegraph service" },
+        { "id": "b", "text": "No internet" },
+        { "id": "c", "text": "High-speed broadband with triple play" },
+        { "id": "d", "text": "Limited SMS" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q57",
+      "text": "CFA dashboards help in:",
+      "options": [
+        { "id": "a", "text": "Monitoring provisioning and sales" },
+        { "id": "b", "text": "Movie streaming" },
+        { "id": "c", "text": "Customer SMS only" },
+        { "id": "d", "text": "OTT billing" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q58",
+      "text": "BSNL ERP is based on:",
+      "options": [
+        { "id": "a", "text": "Excel sheets" },
+        { "id": "b", "text": "Oracle-only" },
+        { "id": "c", "text": "SAP" },
+        { "id": "d", "text": "Manual registers" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q59",
+      "text": "ERP integrates:",
+      "options": [
+        { "id": "a", "text": "Finance, HR, logistics, procurement" },
+        { "id": "b", "text": "Only emails" },
+        { "id": "c", "text": "OTT" },
+        { "id": "d", "text": "IPTV" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q60",
+      "text": "A benefit of ERP is:",
+      "options": [
+        { "id": "a", "text": "Random manual entries" },
+        { "id": "b", "text": "Transparency and efficiency in operations" },
+        { "id": "c", "text": "Delayed reporting" },
+        { "id": "d", "text": "Disconnected departments" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q61",
+      "text": "MPLS forwards packets based on:",
+      "options": [
+        { "id": "a", "text": "Labels" },
+        { "id": "b", "text": "IP address lookup only" },
+        { "id": "c", "text": "Circuit IDs" },
+        { "id": "d", "text": "MAC only" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q62",
+      "text": "IP/MPLS is core for:",
+      "options": [
+        { "id": "a", "text": "OTT apps only" },
+        { "id": "b", "text": "Enterprise VPN, leased line, internet" },
+        { "id": "c", "text": "CFA dashboards" },
+        { "id": "d", "text": "IPTV middleware" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q63",
+      "text": "MPLS provides:",
+      "options": [
+        { "id": "a", "text": "QoS & traffic engineering" },
+        { "id": "b", "text": "Random delays" },
+        { "id": "c", "text": "Circuit switching" },
+        { "id": "d", "text": "DSL backup" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q64",
+      "text": "OFC stands for:",
+      "options": [
+        { "id": "a", "text": "Open Frequency Carrier" },
+        { "id": "b", "text": "Online Fiber Channel" },
+        { "id": "c", "text": "Optical Fast Connector" },
+        { "id": "d", "text": "Optical Fiber Cable" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q65",
+      "text": "Microwave links are used when:",
+      "options": [
+        { "id": "a", "text": "Fiber is unavailable" },
+        { "id": "b", "text": "SMS is needed" },
+        { "id": "c", "text": "DSL is weak" },
+        { "id": "d", "text": "OTT expansion" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q66",
+      "text": "A disadvantage of microwave is:",
+      "options": [
+        { "id": "a", "text": "Infinite bandwidth" },
+        { "id": "b", "text": "Weather susceptibility" },
+        { "id": "c", "text": "High reliability always" },
+        { "id": "d", "text": "No line-of-sight requirement" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q67",
+      "text": "BharatNet connects villages using:",
+      "options": [
+        { "id": "a", "text": "Optical Fiber Cable" },
+        { "id": "b", "text": "Telegraph lines" },
+        { "id": "c", "text": "DSL" },
+        { "id": "d", "text": "Coaxial cable" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q68",
+      "text": "CSC under Digital India stands for:",
+      "options": [
+        { "id": "a", "text": "Core Switching Centre" },
+        { "id": "b", "text": "Customer Support Channel" },
+        { "id": "c", "text": "Common Service Centre" },
+        { "id": "d", "text": "Central Satellite Communication" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q69",
+      "text": "A key aim of Digital India:",
+      "options": [
+        { "id": "a", "text": "More telegraph services" },
+        { "id": "b", "text": "Only ERP rollout" },
+        { "id": "c", "text": "Elimination of internet" },
+        { "id": "d", "text": "Digital empowerment of citizens" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q70",
+      "text": "AI in telecom helps in:",
+      "options": [
+        { "id": "a", "text": "SMS marketing" },
+        { "id": "b", "text": "Telegraph restoration" },
+        { "id": "c", "text": "Predictive network maintenance" },
+        { "id": "d", "text": "Manual billing" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "gzb4_q71",
+      "text": "IoT enables:",
+      "options": [
+        { "id": "a", "text": "Smart homes, healthcare, industry automation" },
+        { "id": "b", "text": "Telegraph offices" },
+        { "id": "c", "text": "Manual registers" },
+        { "id": "d", "text": "ERP" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q72",
+      "text": "Cloud computing provides:",
+      "options": [
+        { "id": "a", "text": "Dial-up" },
+        { "id": "b", "text": "On-demand resources via internet" },
+        { "id": "c", "text": "Telegraph signals" },
+        { "id": "d", "text": "Coaxial" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "gzb4_q73",
+      "text": "5G offers:",
+      "options": [
+        { "id": "a", "text": "eMBB, URLLC, mMTC services" },
+        { "id": "b", "text": "Only voice" },
+        { "id": "c", "text": "SMS only" },
+        { "id": "d", "text": "Telegraph circuits" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "gzb4_q74",
+      "text": "Edge computing supports:",
+      "options": [
+        { "id": "a", "text": "Telegraph" },
+        { "id": "b", "text": "OTT SMS" },
+        { "id": "c", "text": "ERP billing" },
+        { "id": "d", "text": "Low-latency services closer to users" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "gzb4_q75",
+      "text": "Blockchain in telecom can be used for:",
+      "options": [
+        { "id": "a", "text": "SMS billing only" },
+        { "id": "b", "text": "Fraud prevention and secure transactions" },
+        { "id": "c", "text": "Dial-up services" },
+        { "id": "d", "text": "Telegraph authentication" }
+      ],
+      "correctAnswer": "b"
+    }
+  ]
+}
