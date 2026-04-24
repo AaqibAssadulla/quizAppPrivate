@@ -5,21 +5,45 @@
             "id": "w4q1",
             "text": "In FTTH technology, what is the standard wavelength used for downstream transmission (OLT to ONU/ONT)?",
             "options": [
-                {"id": "a", "text": "1310 nm"},
-                {"id": "b", "text": "1550 nm"},
-                {"id": "c", "text": "1490 nm"},
-                {"id": "d", "text": "850 nm"}
+                {
+                    "id": "a",
+                    "text": "1490 nm"
+                },
+                {
+                    "id": "b",
+                    "text": "850 nm"
+                },
+                {
+                    "id": "c",
+                    "text": "1550 nm"
+                },
+                {
+                    "id": "d",
+                    "text": "1310 nm"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q2",
             "text": "What is the maximum split ratio typically supported by a standard BSNL Passive Optical Network (PON)?",
             "options": [
-                {"id": "a", "text": "1:16"},
-                {"id": "b", "text": "1:32"},
-                {"id": "c", "text": "1:64"},
-                {"id": "d", "text": "1:128"}
+                {
+                    "id": "a",
+                    "text": "1:16"
+                },
+                {
+                    "id": "b",
+                    "text": "1:32"
+                },
+                {
+                    "id": "c",
+                    "text": "1:64"
+                },
+                {
+                    "id": "d",
+                    "text": "1:128"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -27,32 +51,68 @@
             "id": "w4q3",
             "text": "Which FTTH architecture involves multiple premises sharing one feeder fiber through an Ethernet switch located between the CO and the premises?",
             "options": [
-                {"id": "a", "text": "Home Run Fiber"},
-                {"id": "b", "text": "Active Star Ethernet (ASE)"},
-                {"id": "c", "text": "Passive Optical Network (PON)"},
-                {"id": "d", "text": "Point-to-Point"}
+                {
+                    "id": "a",
+                    "text": "Home Run Fiber, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "Point-to-Point, under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "Active Star Ethernet (ASE)"
+                },
+                {
+                    "id": "d",
+                    "text": "Passive Optical Network (PON)"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q4",
             "text": "What is the symmetrical operating rate for GEPON (Gigabit Ethernet PON) as defined in the sources?",
             "options": [
-                {"id": "a", "text": "155 Mbps"},
-                {"id": "b", "text": "622 Mbps"},
-                {"id": "c", "text": "1.25 Gbps"},
-                {"id": "d", "text": "2.5 Gbps"}
+                {
+                    "id": "a",
+                    "text": "1.25 Gbps"
+                },
+                {
+                    "id": "b",
+                    "text": "155 Mbps"
+                },
+                {
+                    "id": "c",
+                    "text": "2.5 Gbps"
+                },
+                {
+                    "id": "d",
+                    "text": "622 Mbps"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q5",
             "text": "Which technology is specifically described as combining the benefits of SONET/SDH with the bandwidth expandability of DWDM?",
             "options": [
-                {"id": "a", "text": "CPAN"},
-                {"id": "b", "text": "OTN (Optical Transport Network)"},
-                {"id": "c", "text": "MPLS-TP"},
-                {"id": "d", "text": "ADSL2+"}
+                {
+                    "id": "a",
+                    "text": "MPLS-TP, considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "OTN (Optical Transport Network)"
+                },
+                {
+                    "id": "c",
+                    "text": "CPAN within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "ADSL2+, considering the network constraints."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -60,43 +120,91 @@
             "id": "w4q6",
             "text": "In an OTN frame, which part provides the management functionality and contains substructures like OPU, ODU, and OTU?",
             "options": [
-                {"id": "a", "text": "Payload"},
-                {"id": "b", "text": "FEC"},
-                {"id": "c", "text": "Overhead (OH)"},
-                {"id": "d", "text": "Administrative Unit Pointer"}
+                {
+                    "id": "a",
+                    "text": "Administrative Unit Pointer"
+                },
+                {
+                    "id": "b",
+                    "text": "Overhead (OH), under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "Payload, verified by technical documentation."
+                },
+                {
+                    "id": "d",
+                    "text": "FEC, under normal operating conditions."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q7",
             "text": "What is a major design difference between OTN and SONET/SDH mentioned in the training material?",
             "options": [
-                {"id": "a", "text": "SONET uses fixed frame sizes, while OTN uses fixed frame rates"},
-                {"id": "b", "text": "OTN uses fixed frame sizes, while SONET uses fixed frame rates"},
-                {"id": "c", "text": "OTN requires tight timing distribution, SONET does not"},
-                {"id": "d", "text": "SONET is asynchronous, OTN is synchronous"}
+                {
+                    "id": "a",
+                    "text": "OTN uses fixed frame sizes, while SONET uses fixed frame rates"
+                },
+                {
+                    "id": "b",
+                    "text": "OTN requires tight timing distribution, SONET does not"
+                },
+                {
+                    "id": "c",
+                    "text": "SONET is asynchronous, OTN is synchronous within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "SONET uses fixed frame sizes, while OTN uses fixed frame rates"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q8",
             "text": "The FONST 5000 u20 sub-rack provides how many total card slots?",
             "options": [
-                {"id": "a", "text": "16"},
-                {"id": "b", "text": "24"},
-                {"id": "c", "text": "42"},
-                {"id": "d", "text": "64"}
+                {
+                    "id": "a",
+                    "text": "42"
+                },
+                {
+                    "id": "b",
+                    "text": "24"
+                },
+                {
+                    "id": "c",
+                    "text": "16"
+                },
+                {
+                    "id": "d",
+                    "text": "64"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q9",
             "text": "Which line code is used for 100G services in the FONST 5000 to lessen dispersion restrictions?",
             "options": [
-                {"id": "a", "text": "8B/10B"},
-                {"id": "b", "text": "PAM4"},
-                {"id": "c", "text": "PM-QPSK"},
-                {"id": "d", "text": "NRZ"}
+                {
+                    "id": "a",
+                    "text": "8B/10B"
+                },
+                {
+                    "id": "b",
+                    "text": "PAM4 within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "PM-QPSK"
+                },
+                {
+                    "id": "d",
+                    "text": "NRZ, verified by technical documentation."
+                }
             ],
             "correctAnswer": "c"
         },
@@ -104,65 +212,137 @@
             "id": "w4q10",
             "text": "In the OTN layering, which section refers to the span between optical multiplexers and demultiplexers?",
             "options": [
-                {"id": "a", "text": "Optical Transmission Section (OTS)"},
-                {"id": "b", "text": "Optical Multiplex Section (OMS)"},
-                {"id": "c", "text": "Optical Channel (OCh)"},
-                {"id": "d", "text": "Optical Data Unit (ODU)"}
+                {
+                    "id": "a",
+                    "text": "Optical Channel (OCh), considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "Optical Transmission Section (OTS)"
+                },
+                {
+                    "id": "c",
+                    "text": "Optical Data Unit (ODU) within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "Optical Multiplex Section (OMS)"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q11",
             "text": "What is the maximum cross-connect capacity (backplane bandwidth) of a 20TN2 tributary interface card?",
             "options": [
-                {"id": "a", "text": "40G"},
-                {"id": "b", "text": "100G"},
-                {"id": "c", "text": "200G"},
-                {"id": "d", "text": "500G"}
+                {
+                    "id": "a",
+                    "text": "200G"
+                },
+                {
+                    "id": "b",
+                    "text": "40G"
+                },
+                {
+                    "id": "c",
+                    "text": "500G"
+                },
+                {
+                    "id": "d",
+                    "text": "100G"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q12",
             "text": "Which feature of OTN improves the Signal-to-Noise Ratio (SNR) by approximately 6.2 dB?",
             "options": [
-                {"id": "a", "text": "Tandem Connection Monitoring (TCM)"},
-                {"id": "b", "text": "Forward Error Correction (FEC)"},
-                {"id": "c", "text": "Wavelength Division Multiplexing"},
-                {"id": "d", "text": "Asynchronous Mapping"}
+                {
+                    "id": "a",
+                    "text": "Forward Error Correction (FEC)"
+                },
+                {
+                    "id": "b",
+                    "text": "Asynchronous Mapping, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "Tandem Connection Monitoring (TCM)"
+                },
+                {
+                    "id": "d",
+                    "text": "Wavelength Division Multiplexing"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q13",
             "text": "In a Teracom OLT, what does the MS LED being 'ON' in the core switch card signify?",
             "options": [
-                {"id": "a", "text": "Management Success"},
-                {"id": "b", "text": "Main System failure"},
-                {"id": "c", "text": "The card is active"},
-                {"id": "d", "text": "Master Slave error"}
+                {
+                    "id": "a",
+                    "text": "The card is active"
+                },
+                {
+                    "id": "b",
+                    "text": "Management Success"
+                },
+                {
+                    "id": "c",
+                    "text": "Main System failure"
+                },
+                {
+                    "id": "d",
+                    "text": "Master Slave error"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q14",
             "text": "What is the default login username for the Teracom AN5116-06A CLI?",
             "options": [
-                {"id": "a", "text": "admin"},
-                {"id": "b", "text": "GEPON"},
-                {"id": "c", "text": "root"},
-                {"id": "d", "text": "telecomadmin"}
+                {
+                    "id": "a",
+                    "text": "admin, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "root, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "c",
+                    "text": "telecomadmin"
+                },
+                {
+                    "id": "d",
+                    "text": "GEPON, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q15",
             "text": "What is the correct IP address to access the configuration page of a BSNL Huawei FTTH ONT?",
             "options": [
-                {"id": "a", "text": "192.168.1.1"},
-                {"id": "b", "text": "192.168.100.1"},
-                {"id": "c", "text": "10.0.0.1"},
-                {"id": "d", "text": "192.168.0.1"}
+                {
+                    "id": "a",
+                    "text": "10.0.0.1, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "192.168.100.1"
+                },
+                {
+                    "id": "c",
+                    "text": "192.168.1.1"
+                },
+                {
+                    "id": "d",
+                    "text": "192.168.0.1"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -170,10 +350,22 @@
             "id": "w4q16",
             "text": "In ADSL configuration, which VPI/VCI values are typically used for BSNL service as shown in the examples?",
             "options": [
-                {"id": "a", "text": "8/35"},
-                {"id": "b", "text": "1/32"},
-                {"id": "c", "text": "0/35"},
-                {"id": "d", "text": "0/32"}
+                {
+                    "id": "a",
+                    "text": "8/35"
+                },
+                {
+                    "id": "b",
+                    "text": "1/32"
+                },
+                {
+                    "id": "c",
+                    "text": "0/35"
+                },
+                {
+                    "id": "d",
+                    "text": "0/32"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -181,10 +373,22 @@
             "id": "w4q17",
             "text": "Which ADSL encapsulation mode is mentioned in the step-by-step setup guide?",
             "options": [
-                {"id": "a", "text": "PPPoA"},
-                {"id": "b", "text": "IPoA"},
-                {"id": "c", "text": "LLC/SNAP-BRIDGING"},
-                {"id": "d", "text": "VCMux"}
+                {
+                    "id": "a",
+                    "text": "VCMux, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "IPoA, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "LLC/SNAP-BRIDGING"
+                },
+                {
+                    "id": "d",
+                    "text": "PPPoA, under normal operating conditions."
+                }
             ],
             "correctAnswer": "c"
         },
@@ -192,43 +396,91 @@
             "id": "w4q18",
             "text": "Which company collaborated with ITI Palakkad to install over 8,000 MLLN nodes in India?",
             "options": [
-                {"id": "a", "text": "Huawei"},
-                {"id": "b", "text": "Tellabs"},
-                {"id": "c", "text": "Cisco"},
-                {"id": "d", "text": "UTStarcom"}
+                {
+                    "id": "a",
+                    "text": "Tellabs"
+                },
+                {
+                    "id": "b",
+                    "text": "UTStarcom"
+                },
+                {
+                    "id": "c",
+                    "text": "Huawei, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "Cisco, under normal operating conditions."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q19",
             "text": "What is the maximum working distance for a 2 Mbps MLLN line using HDSL technology?",
             "options": [
-                {"id": "a", "text": "1.0 km"},
-                {"id": "b", "text": "2.5 km"},
-                {"id": "c", "text": "3.5 km"},
-                {"id": "d", "text": "7.0 km"}
+                {
+                    "id": "a",
+                    "text": "1.0 km"
+                },
+                {
+                    "id": "b",
+                    "text": "7.0 km"
+                },
+                {
+                    "id": "c",
+                    "text": "2.5 km"
+                },
+                {
+                    "id": "d",
+                    "text": "3.5 km"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q20",
             "text": "The MLLN system offers 'software loops' primarily for what purpose?",
             "options": [
-                {"id": "a", "text": "Automatic billing"},
-                {"id": "b", "text": "Increasing bandwidth"},
-                {"id": "c", "text": "Fault isolation and trouble shooting"},
-                {"id": "d", "text": "VLAN tagging"}
+                {
+                    "id": "a",
+                    "text": "Automatic billing within the system architecture."
+                },
+                {
+                    "id": "b",
+                    "text": "Fault isolation and trouble shooting"
+                },
+                {
+                    "id": "c",
+                    "text": "Increasing bandwidth, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "VLAN tagging, considering the network constraints."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q21",
             "text": "In the BSNL MLLN network architecture, what is the total port capacity of a 'Main DXC'?",
             "options": [
-                {"id": "a", "text": "64"},
-                {"id": "b", "text": "128"},
-                {"id": "c", "text": "256"},
-                {"id": "d", "text": "512"}
+                {
+                    "id": "a",
+                    "text": "128"
+                },
+                {
+                    "id": "b",
+                    "text": "64, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "256"
+                },
+                {
+                    "id": "d",
+                    "text": "512"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -236,10 +488,22 @@
             "id": "w4q22",
             "text": "What is the refundable security deposit required per Network Termination Unit (NTU) for MLLN service?",
             "options": [
-                {"id": "a", "text": "Rs. 1,000"},
-                {"id": "b", "text": "Rs. 5,000"},
-                {"id": "c", "text": "Rs. 10,000"},
-                {"id": "d", "text": "Rs. 25,000"}
+                {
+                    "id": "a",
+                    "text": "Rs. 25,000"
+                },
+                {
+                    "id": "b",
+                    "text": "Rs. 1,000"
+                },
+                {
+                    "id": "c",
+                    "text": "Rs. 10,000"
+                },
+                {
+                    "id": "d",
+                    "text": "Rs. 5,000"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -247,10 +511,22 @@
             "id": "w4q23",
             "text": "Which MLLN node type is described as a 'basic building block' with a 64 Mbps cross-connect capacity?",
             "options": [
-                {"id": "a", "text": "Micro Node"},
-                {"id": "b", "text": "Mini Node"},
-                {"id": "c", "text": "Basic Node"},
-                {"id": "d", "text": "Cluster Node"}
+                {
+                    "id": "a",
+                    "text": "Cluster Node"
+                },
+                {
+                    "id": "b",
+                    "text": "Mini Node"
+                },
+                {
+                    "id": "c",
+                    "text": "Basic Node"
+                },
+                {
+                    "id": "d",
+                    "text": "Micro Node"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -258,21 +534,45 @@
             "id": "w4q24",
             "text": "In MPLS terminology, what is a device that operates at the edge of the access network and assigned labels to incoming packets?",
             "options": [
-                {"id": "a", "text": "Label Switching Router (LSR)"},
-                {"id": "b", "text": "Label Edge Router (LER)"},
-                {"id": "c", "text": "Provider Router (P)"},
-                {"id": "d", "text": "Core Switch"}
+                {
+                    "id": "a",
+                    "text": "Core Switch, considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "Provider Router (P), under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "Label Switching Router (LSR)"
+                },
+                {
+                    "id": "d",
+                    "text": "Label Edge Router (LER)"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q25",
             "text": "What does 'FEC' stand for in the context of MPLS routing?",
             "options": [
-                {"id": "a", "text": "Forward Error Correction"},
-                {"id": "b", "text": "Fast Ethernet Connection"},
-                {"id": "c", "text": "Forwarding Equivalence Class"},
-                {"id": "d", "text": "Frame Encapsulation Control"}
+                {
+                    "id": "a",
+                    "text": "Frame Encapsulation Control"
+                },
+                {
+                    "id": "b",
+                    "text": "Forward Error Correction"
+                },
+                {
+                    "id": "c",
+                    "text": "Forwarding Equivalence Class"
+                },
+                {
+                    "id": "d",
+                    "text": "Fast Ethernet Connection"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -280,10 +580,22 @@
             "id": "w4q26",
             "text": "What is the total size of an MPLS header?",
             "options": [
-                {"id": "a", "text": "20 bits"},
-                {"id": "b", "text": "32 bits (4 bytes)"},
-                {"id": "c", "text": "8 bytes"},
-                {"id": "d", "text": "64 bits"}
+                {
+                    "id": "a",
+                    "text": "64 bits, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "32 bits (4 bytes)"
+                },
+                {
+                    "id": "c",
+                    "text": "8 bytes, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "20 bits, considering the network constraints."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -291,87 +603,183 @@
             "id": "w4q27",
             "text": "In the MPLS header, how many bits are dedicated to the actual 'Label Value'?",
             "options": [
-                {"id": "a", "text": "3"},
-                {"id": "b", "text": "8"},
-                {"id": "c", "text": "20"},
-                {"id": "d", "text": "1"}
+                {
+                    "id": "a",
+                    "text": "1, considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "8, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "3, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "20"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q28",
             "text": "Which MPLS label distribution protocol is typically used for traffic engineering and resource reservation?",
             "options": [
-                {"id": "a", "text": "LDP"},
-                {"id": "b", "text": "BGP"},
-                {"id": "c", "text": "RSVP (or CR-LDP)"},
-                {"id": "d", "text": "PIM"}
+                {
+                    "id": "a",
+                    "text": "RSVP (or CR-LDP)"
+                },
+                {
+                    "id": "b",
+                    "text": "PIM, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "BGP, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "LDP, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q29",
             "text": "In which MPLS VPN model does the provider NOT participate in customer routing and only provides virtual point-to-point links?",
             "options": [
-                {"id": "a", "text": "Peer-to-Peer Model"},
-                {"id": "b", "text": "Overlay Model"},
-                {"id": "c", "text": "Shared PE Model"},
-                {"id": "d", "text": "Dedicated PE Model"}
+                {
+                    "id": "a",
+                    "text": "Shared PE Model"
+                },
+                {
+                    "id": "b",
+                    "text": "Dedicated PE Model"
+                },
+                {
+                    "id": "c",
+                    "text": "Peer-to-Peer Model"
+                },
+                {
+                    "id": "d",
+                    "text": "Overlay Model"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q30",
             "text": "What is the unique VPN address or 'tag' size represented in a Peer VPN model?",
             "options": [
-                {"id": "a", "text": "4 bits"},
-                {"id": "b", "text": "32 bits"},
-                {"id": "c", "text": "8 bytes"},
-                {"id": "d", "text": "1 byte"}
+                {
+                    "id": "a",
+                    "text": "8 bytes"
+                },
+                {
+                    "id": "b",
+                    "text": "4 bits"
+                },
+                {
+                    "id": "c",
+                    "text": "32 bits"
+                },
+                {
+                    "id": "d",
+                    "text": "1 byte"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q31",
             "text": "Which term describes a path through an MPLS network set up prior to data transmission?",
             "options": [
-                {"id": "a", "text": "PVC"},
-                {"id": "b", "text": "LSP (Label Switched Path)"},
-                {"id": "c", "text": "TDM slot"},
-                {"id": "d", "text": "FUP pipeline"}
+                {
+                    "id": "a",
+                    "text": "TDM slot within the system architecture."
+                },
+                {
+                    "id": "b",
+                    "text": "FUP pipeline, under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "LSP (Label Switched Path)"
+                },
+                {
+                    "id": "d",
+                    "text": "PVC, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q32",
             "text": "In CDMA based VPNs, what is the typical average upload speed for EVDO?",
             "options": [
-                {"id": "a", "text": "10 kbps"},
-                {"id": "b", "text": "60 kbps"},
-                {"id": "c", "text": "400 kbps"},
-                {"id": "d", "text": "2 Mbps"}
+                {
+                    "id": "a",
+                    "text": "60 kbps"
+                },
+                {
+                    "id": "b",
+                    "text": "2 Mbps"
+                },
+                {
+                    "id": "c",
+                    "text": "10 kbps"
+                },
+                {
+                    "id": "d",
+                    "text": "400 kbps"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q33",
             "text": "What is the distance limit for EVDO from a BTS?",
             "options": [
-                {"id": "a", "text": "2 km"},
-                {"id": "b", "text": "5 km"},
-                {"id": "c", "text": "7 km"},
-                {"id": "d", "text": "15 km"}
+                {
+                    "id": "a",
+                    "text": "7 km"
+                },
+                {
+                    "id": "b",
+                    "text": "5 km"
+                },
+                {
+                    "id": "c",
+                    "text": "15 km"
+                },
+                {
+                    "id": "d",
+                    "text": "2 km"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q34",
             "text": "A Virtual LAN (VLAN) is any broadcast domain partitioned and isolated at which OSI layer?",
             "options": [
-                {"id": "a", "text": "Layer 1"},
-                {"id": "b", "text": "Layer 2 (Data Link)"},
-                {"id": "c", "text": "Layer 3 (Network)"},
-                {"id": "d", "text": "Layer 7"}
+                {
+                    "id": "a",
+                    "text": "Layer 1, considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "Layer 2 (Data Link)"
+                },
+                {
+                    "id": "c",
+                    "text": "Layer 3 (Network)"
+                },
+                {
+                    "id": "d",
+                    "text": "Layer 7, as defined in the standard operational procedures."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -379,197 +787,413 @@
             "id": "w4q35",
             "text": "Which IEEE header is used for VLAN tagging in modern Ethernet networks?",
             "options": [
-                {"id": "a", "text": "802.11ac"},
-                {"id": "b", "text": "802.3u"},
-                {"id": "c", "text": "802.1Q"},
-                {"id": "d", "text": "802.15"}
+                {
+                    "id": "a",
+                    "text": "802.1Q"
+                },
+                {
+                    "id": "b",
+                    "text": "802.15"
+                },
+                {
+                    "id": "c",
+                    "text": "802.11ac"
+                },
+                {
+                    "id": "d",
+                    "text": "802.3u"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q36",
             "text": "In the context of VLANs, what does a 'Trunk' denote?",
             "options": [
-                {"id": "a", "text": "A physical copper pipe"},
-                {"id": "b", "text": "A network link carrying multiple VLANs identified by tags"},
-                {"id": "c", "text": "A single dedicated telephone line"},
-                {"id": "d", "text": "A battery backup unit"}
+                {
+                    "id": "a",
+                    "text": "A single dedicated telephone line, considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "A battery backup unit, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "A network link carrying multiple VLANs identified by tags"
+                },
+                {
+                    "id": "d",
+                    "text": "A physical copper pipe, considering the network constraints."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q37",
             "text": "The Teracom AN5116-06A GEPON equipment core switching card is connected with service cards via which bus?",
             "options": [
-                {"id": "a", "text": "USB 3.0"},
-                {"id": "b", "text": "High-speed interconnection bus"},
-                {"id": "c", "text": "Serial RS232"},
-                {"id": "d", "text": "Optical Splitter"}
+                {
+                    "id": "a",
+                    "text": "Optical Splitter, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "USB 3.0 within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "Serial RS232, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "High-speed interconnection bus"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q38",
             "text": "Which GEPON card provides four EPON interfaces and supports automatic discovery of ONUs?",
             "options": [
-                {"id": "a", "text": "HU1A"},
-                {"id": "b", "text": "EC4B"},
-                {"id": "c", "text": "PUBA"},
-                {"id": "d", "text": "HSWA"}
+                {
+                    "id": "a",
+                    "text": "EC4B"
+                },
+                {
+                    "id": "b",
+                    "text": "HU1A"
+                },
+                {
+                    "id": "c",
+                    "text": "PUBA"
+                },
+                {
+                    "id": "d",
+                    "text": "HSWA"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q39",
             "text": "Which interface on the GEPON HU1A card provides a 10GE uplink to the IP network?",
             "options": [
-                {"id": "a", "text": "FE"},
-                {"id": "b", "text": "GE"},
-                {"id": "c", "text": "XG"},
-                {"id": "d", "text": "E1"}
+                {
+                    "id": "a",
+                    "text": "XG"
+                },
+                {
+                    "id": "b",
+                    "text": "FE"
+                },
+                {
+                    "id": "c",
+                    "text": "E1"
+                },
+                {
+                    "id": "d",
+                    "text": "GE"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q40",
             "text": "What is the purpose of 'Q-in-Q VLAN' as supported by the AN5116-06A?",
             "options": [
-                {"id": "a", "text": "To increase internet speed"},
-                {"id": "b", "text": "To extend VLAN numbers and remove resource bottlenecks by adding Service-VLAN on top of Customer-VLAN"},
-                {"id": "c", "text": "To provide power to the ONT"},
-                {"id": "d", "text": "To encrypt voice calls"}
+                {
+                    "id": "a",
+                    "text": "To extend VLAN numbers and remove resource bottlenecks by adding Service-VLAN on top of Customer-VLAN"
+                },
+                {
+                    "id": "b",
+                    "text": "To encrypt voice calls, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "To increase internet speed, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "To provide power to the ONT, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q41",
             "text": "In GEPON networking, which device collects environment information of the equipment room?",
             "options": [
-                {"id": "a", "text": "Core Switch card"},
-                {"id": "b", "text": "Uplink card"},
-                {"id": "c", "text": "Public card (PUBA)"},
-                {"id": "d", "text": "Optical Splitter"}
+                {
+                    "id": "a",
+                    "text": "Core Switch card"
+                },
+                {
+                    "id": "b",
+                    "text": "Optical Splitter"
+                },
+                {
+                    "id": "c",
+                    "text": "Uplink card, under normal operating conditions."
+                },
+                {
+                    "id": "d",
+                    "text": "Public card (PUBA)"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q42",
             "text": "What is 'VLAN Translation' or 'VLAN Mapping'?",
             "options": [
-                {"id": "a", "text": "Translating IP addresses to MAC addresses"},
-                {"id": "b", "text": "ONU stripping default tags and labeling valid tags as services are uplinked"},
-                {"id": "c", "text": "Converting optical signals to electrical"},
-                {"id": "d", "text": "Mapping phone numbers to VLAN IDs"}
+                {
+                    "id": "a",
+                    "text": "ONU stripping default tags and labeling valid tags as services are uplinked"
+                },
+                {
+                    "id": "b",
+                    "text": "Translating IP addresses to MAC addresses within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "Converting optical signals to electrical, under normal operating conditions."
+                },
+                {
+                    "id": "d",
+                    "text": "Mapping phone numbers to VLAN IDs, under normal operating conditions."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q43",
             "text": "Which FTTH network element does NOT require a power supply?",
             "options": [
-                {"id": "a", "text": "OLT"},
-                {"id": "b", "text": "ONT"},
-                {"id": "c", "text": "Splitter"},
-                {"id": "d", "text": "STB"}
+                {
+                    "id": "a",
+                    "text": "OLT, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "STB, under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "ONT, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "Splitter"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q44",
             "text": "What is the purpose of 'Ranging' in a GPON system?",
             "options": [
-                {"id": "a", "text": "Measuring the weight of the cable"},
-                {"id": "b", "text": "Programming upstream transmissions into specific time slots"},
-                {"id": "c", "text": "Checking for battery leakage"},
-                {"id": "d", "text": "Identifying the OLT model"}
+                {
+                    "id": "a",
+                    "text": "Programming upstream transmissions into specific time slots"
+                },
+                {
+                    "id": "b",
+                    "text": "Measuring the weight of the cable, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "Identifying the OLT model, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "Checking for battery leakage, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q45",
             "text": "Which component in an OTN digital layer provides framing and Forward Error Correction (FEC)?",
             "options": [
-                {"id": "a", "text": "Optical Payload Unit (OPU)"},
-                {"id": "b", "text": "Optical Data Unit (ODU)"},
-                {"id": "c", "text": "Optical Transport Unit (OTU)"},
-                {"id": "d", "text": "Optical Channel (OCh)"}
+                {
+                    "id": "a",
+                    "text": "Optical Data Unit (ODU)"
+                },
+                {
+                    "id": "b",
+                    "text": "Optical Channel (OCh)"
+                },
+                {
+                    "id": "c",
+                    "text": "Optical Payload Unit (OPU)"
+                },
+                {
+                    "id": "d",
+                    "text": "Optical Transport Unit (OTU)"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q46",
             "text": "The FONST 5000 'WSS8D' card implements which dynamic function?",
             "options": [
-                {"id": "a", "text": "Power supply regulation"},
-                {"id": "b", "text": "Configurable demultiplexing from any wavelength to any port"},
-                {"id": "c", "text": "Automatic bill generation"},
-                {"id": "d", "text": "TDM clock recovery"}
+                {
+                    "id": "a",
+                    "text": "Configurable demultiplexing from any wavelength to any port"
+                },
+                {
+                    "id": "b",
+                    "text": "TDM clock recovery within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "Automatic bill generation, under normal operating conditions."
+                },
+                {
+                    "id": "d",
+                    "text": "Power supply regulation, as defined in the standard operational procedures."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q47",
             "text": "In the OTN naming rules, what does the 'T' in '16TN1' stand for?",
             "options": [
-                {"id": "a", "text": "Transport"},
-                {"id": "b", "text": "Tributary interface card"},
-                {"id": "c", "text": "Terminal"},
-                {"id": "d", "text": "Terabit"}
+                {
+                    "id": "a",
+                    "text": "Tributary interface card"
+                },
+                {
+                    "id": "b",
+                    "text": "Terminal within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "Terabit, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "Transport, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q48",
             "text": "Which MLLN node is the 'cluster node' capable of non-blocking cross-connection?",
             "options": [
-                {"id": "a", "text": "Tellabs 8110"},
-                {"id": "b", "text": "Tellabs 8170"},
-                {"id": "c", "text": "Tellabs 8140"},
-                {"id": "d", "text": "Tellabs 8130"}
+                {
+                    "id": "a",
+                    "text": "Tellabs 8130"
+                },
+                {
+                    "id": "b",
+                    "text": "Tellabs 8110"
+                },
+                {
+                    "id": "c",
+                    "text": "Tellabs 8140"
+                },
+                {
+                    "id": "d",
+                    "text": "Tellabs 8170"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q49",
             "text": "What is the bit rate of a single 'B' channel in ISDN?",
             "options": [
-                {"id": "a", "text": "16 kbps"},
-                {"id": "b", "text": "64 kbps"},
-                {"id": "c", "text": "128 kbps"},
-                {"id": "d", "text": "1.544 Mbps"}
+                {
+                    "id": "a",
+                    "text": "128 kbps"
+                },
+                {
+                    "id": "b",
+                    "text": "16 kbps"
+                },
+                {
+                    "id": "c",
+                    "text": "64 kbps"
+                },
+                {
+                    "id": "d",
+                    "text": "1.544 Mbps"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q50",
             "text": "Which MPLS router resides in the core of the network and performs high-speed switching based on established paths?",
             "options": [
-                {"id": "a", "text": "LER"},
-                {"id": "b", "text": "CE"},
-                {"id": "c", "text": "LSR"},
-                {"id": "d", "text": "ONT"}
+                {
+                    "id": "a",
+                    "text": "CE, considering the network constraints."
+                },
+                {
+                    "id": "b",
+                    "text": "ONT"
+                },
+                {
+                    "id": "c",
+                    "text": "LER"
+                },
+                {
+                    "id": "d",
+                    "text": "LSR"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q51",
             "text": "In the MLLN 3-tier architecture, where are 'Regional DXCs (R-DXCs)' located?",
             "options": [
-                {"id": "a", "text": "Every village"},
-                {"id": "b", "text": "Mumbai, Delhi, Kolkata, Chennai"},
-                {"id": "c", "text": "Only in Bangalore"},
-                {"id": "d", "text": "In every SSA headquarters"}
+                {
+                    "id": "a",
+                    "text": "Only in Bangalore, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "Every village, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "Mumbai, Delhi, Kolkata, Chennai"
+                },
+                {
+                    "id": "d",
+                    "text": "In every SSA headquarters"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q52",
             "text": "What is the primary function of the 'OTM' in a 32-channel DWDM system?",
             "options": [
-                {"id": "a", "text": "In-line amplification"},
-                {"id": "b", "text": "Line terminal node for adding/dropping all services"},
-                {"id": "c", "text": "Compensating optical power for long distance"},
-                {"id": "d", "text": "Orderwire overhead processing"}
+                {
+                    "id": "a",
+                    "text": "Orderwire overhead processing, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "Line terminal node for adding/dropping all services"
+                },
+                {
+                    "id": "c",
+                    "text": "In-line amplification, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "Compensating optical power for long distance"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -577,10 +1201,22 @@
             "id": "w4q53",
             "text": "In the FTTH centralized splitter approach, all 32 customer ONTs are connected to splitters concentrated in:",
             "options": [
-                {"id": "a", "text": "The customer's living room"},
-                {"id": "b", "text": "A single location"},
-                {"id": "c", "text": "Multiple locations across the city"},
-                {"id": "d", "text": "The OLT chassis directly"}
+                {
+                    "id": "a",
+                    "text": "The OLT chassis directly"
+                },
+                {
+                    "id": "b",
+                    "text": "A single location, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "The customer's living room"
+                },
+                {
+                    "id": "d",
+                    "text": "Multiple locations across the city"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -588,76 +1224,160 @@
             "id": "w4q54",
             "text": "What is the purpose of the 'Wait to Restore (WTR)' state in protection switching?",
             "options": [
-                {"id": "a", "text": "To delay billing"},
-                {"id": "b", "text": "To prevent frequent switching if a failed link is intermittent"},
-                {"id": "c", "text": "To wait for customer payment"},
-                {"id": "d", "text": "To allow the laser to cool down"}
+                {
+                    "id": "a",
+                    "text": "To wait for customer payment, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "To delay billing within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "To prevent frequent switching if a failed link is intermittent"
+                },
+                {
+                    "id": "d",
+                    "text": "To allow the laser to cool down within the system architecture."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q55",
             "text": "In the MPLS header, which field indicates the 'Time to Live' for the packet?",
             "options": [
-                {"id": "a", "text": "Label"},
-                {"id": "b", "text": "Exp"},
-                {"id": "c", "text": "S"},
-                {"id": "d", "text": "TTL"}
+                {
+                    "id": "a",
+                    "text": "Exp, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "Label"
+                },
+                {
+                    "id": "c",
+                    "text": "TTL, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "S, as defined in the standard operational procedures."
+                }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q56",
             "text": "Which MPLS forwarding method allows an LSR to independently select the next hop for a given FEC?",
             "options": [
-                {"id": "a", "text": "Explicit Routing"},
-                {"id": "b", "text": "Hop-by-hop Routing"},
-                {"id": "c", "text": "Source Routing"},
-                {"id": "d", "text": "Static Tagging"}
+                {
+                    "id": "a",
+                    "text": "Explicit Routing"
+                },
+                {
+                    "id": "b",
+                    "text": "Static Tagging"
+                },
+                {
+                    "id": "c",
+                    "text": "Hop-by-hop Routing"
+                },
+                {
+                    "id": "d",
+                    "text": "Source Routing"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q57",
             "text": "In the context of MLLN, what does 'NTU' stand for?",
             "options": [
-                {"id": "a", "text": "Network Termination Unit"},
-                {"id": "b", "text": "Node Transmission Utility"},
-                {"id": "c", "text": "Normal Transport User"},
-                {"id": "d", "text": "Network Testing Unit"}
+                {
+                    "id": "a",
+                    "text": "Network Testing Unit"
+                },
+                {
+                    "id": "b",
+                    "text": "Node Transmission Utility"
+                },
+                {
+                    "id": "c",
+                    "text": "Network Termination Unit"
+                },
+                {
+                    "id": "d",
+                    "text": "Normal Transport User"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q58",
             "text": "Which MLLN VMUX type supports 32 channels of 64 kbps?",
             "options": [
-                {"id": "a", "text": "Type I"},
-                {"id": "b", "text": "Type II"},
-                {"id": "c", "text": "Type III"},
-                {"id": "d", "text": "Type IV"}
+                {
+                    "id": "a",
+                    "text": "Type II"
+                },
+                {
+                    "id": "b",
+                    "text": "Type I"
+                },
+                {
+                    "id": "c",
+                    "text": "Type III"
+                },
+                {
+                    "id": "d",
+                    "text": "Type IV"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q59",
             "text": "In a GEPON system, 'TDMA using 1310 nm wavelength' refers to which direction?",
             "options": [
-                {"id": "a", "text": "Downstream"},
-                {"id": "b", "text": "Upstream"},
-                {"id": "c", "text": "Broadcast"},
-                {"id": "d", "text": "Loopback"}
+                {
+                    "id": "a",
+                    "text": "Broadcast"
+                },
+                {
+                    "id": "b",
+                    "text": "Loopback"
+                },
+                {
+                    "id": "c",
+                    "text": "Downstream"
+                },
+                {
+                    "id": "d",
+                    "text": "Upstream"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q60",
             "text": "The FONST 5000 'VMU40_E' card performs which function along with multiplexing?",
             "options": [
-                {"id": "a", "text": "Clock synchronization"},
-                {"id": "b", "text": "Channel power adjustment (VOA)"},
-                {"id": "c", "text": "Billing data collection"},
-                {"id": "d", "text": "Orderwire processing"}
+                {
+                    "id": "a",
+                    "text": "Clock synchronization"
+                },
+                {
+                    "id": "b",
+                    "text": "Channel power adjustment (VOA)"
+                },
+                {
+                    "id": "c",
+                    "text": "Billing data collection"
+                },
+                {
+                    "id": "d",
+                    "text": "Orderwire processing, as defined in the standard operational procedures."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -665,21 +1385,45 @@
             "id": "w4q61",
             "text": "What is the typical annual power availability SLA for BSNL data centers mentioned in Week 4 context?",
             "options": [
-                {"id": "a", "text": "99.0%"},
-                {"id": "b", "text": "99.9%"},
-                {"id": "c", "text": "99.982%"},
-                {"id": "d", "text": "99.999%"}
+                {
+                    "id": "a",
+                    "text": "99.999%"
+                },
+                {
+                    "id": "b",
+                    "text": "99.982%"
+                },
+                {
+                    "id": "c",
+                    "text": "99.9%"
+                },
+                {
+                    "id": "d",
+                    "text": "99.0%"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q62",
             "text": "In the OTN architecture, which layer is responsible for end-to-end supervision and tandem connection monitoring?",
             "options": [
-                {"id": "a", "text": "OPU"},
-                {"id": "b", "text": "ODU"},
-                {"id": "c", "text": "OTU"},
-                {"id": "d", "text": "OCh"}
+                {
+                    "id": "a",
+                    "text": "OCh"
+                },
+                {
+                    "id": "b",
+                    "text": "ODU"
+                },
+                {
+                    "id": "c",
+                    "text": "OTU"
+                },
+                {
+                    "id": "d",
+                    "text": "OPU"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -687,43 +1431,91 @@
             "id": "w4q63",
             "text": "Which MPLS label retention mode requires an LSR to maintain fewer labels by discarding bindings from non-next-hop LSRs?",
             "options": [
-                {"id": "a", "text": "Liberal"},
-                {"id": "b", "text": "Independent"},
-                {"id": "c", "text": "Conservative"},
-                {"id": "d", "text": "Ordered"}
+                {
+                    "id": "a",
+                    "text": "Ordered, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "Conservative"
+                },
+                {
+                    "id": "c",
+                    "text": "Independent"
+                },
+                {
+                    "id": "d",
+                    "text": "Liberal, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q64",
             "text": "What is the primary difference between standard ADSL and SDSL?",
             "options": [
-                {"id": "a", "text": "SDSL is faster for downloads"},
-                {"id": "b", "text": "SDSL is symmetrical (same upload and download speed)"},
-                {"id": "c", "text": "SDSL works over fiber, ADSL over copper"},
-                {"id": "d", "text": "There is no difference"}
+                {
+                    "id": "a",
+                    "text": "There is no difference within the system architecture."
+                },
+                {
+                    "id": "b",
+                    "text": "SDSL works over fiber, ADSL over copper"
+                },
+                {
+                    "id": "c",
+                    "text": "SDSL is faster for downloads, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "SDSL is symmetrical (same upload and download speed)"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q65",
             "text": "The '1LN4' line interface card is designed for which service speed?",
             "options": [
-                {"id": "a", "text": "10G"},
-                {"id": "b", "text": "40G"},
-                {"id": "c", "text": "100G"},
-                {"id": "d", "text": "1G"}
+                {
+                    "id": "a",
+                    "text": "100G"
+                },
+                {
+                    "id": "b",
+                    "text": "1G, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "10G"
+                },
+                {
+                    "id": "d",
+                    "text": "40G"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q66",
             "text": "What does 'LSP Merge' in an MPLS network achieve?",
             "options": [
-                {"id": "a", "text": "Increases bandwidth"},
-                {"id": "b", "text": "Reduces the number of labels by merging paths to the same destination"},
-                {"id": "c", "text": "Encrypts data"},
-                {"id": "d", "text": "Shortens the distance"}
+                {
+                    "id": "a",
+                    "text": "Increases bandwidth within the system architecture."
+                },
+                {
+                    "id": "b",
+                    "text": "Reduces the number of labels by merging paths to the same destination"
+                },
+                {
+                    "id": "c",
+                    "text": "Shortens the distance, under normal operating conditions."
+                },
+                {
+                    "id": "d",
+                    "text": "Encrypts data, as defined in the standard operational procedures."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -731,10 +1523,22 @@
             "id": "w4q67",
             "text": "In the ADSL connectivity diagram, what type of cable is typically used for the Ethernet connection between the modem and PC?",
             "options": [
-                {"id": "a", "text": "RJ11"},
-                {"id": "b", "text": "RJ45"},
-                {"id": "c", "text": "Coaxial"},
-                {"id": "d", "text": "V.35"}
+                {
+                    "id": "a",
+                    "text": "V.35, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "RJ45, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "Coaxial"
+                },
+                {
+                    "id": "d",
+                    "text": "RJ11, considering the network constraints."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -742,10 +1546,22 @@
             "id": "w4q68",
             "text": "Which MLLN node type is a small size flexible access node for customer premises?",
             "options": [
-                {"id": "a", "text": "Cluster Node"},
-                {"id": "b", "text": "Midi Node"},
-                {"id": "c", "text": "Main DXC"},
-                {"id": "d", "text": "Switch Node"}
+                {
+                    "id": "a",
+                    "text": "Cluster Node"
+                },
+                {
+                    "id": "b",
+                    "text": "Midi Node"
+                },
+                {
+                    "id": "c",
+                    "text": "Main DXC, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "Switch Node"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -753,21 +1569,45 @@
             "id": "w4q69",
             "text": "What is the purpose of the 'Stack Bottom (S)' bit in the MPLS header?",
             "options": [
-                {"id": "a", "text": "To indicate the start of the packet"},
-                {"id": "b", "text": "To indicate the packet is the last in a label stack"},
-                {"id": "c", "text": "To signal an error"},
-                {"id": "d", "text": "To identify the source"}
+                {
+                    "id": "a",
+                    "text": "To identify the source, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "To indicate the start of the packet within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "To signal an error within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "To indicate the packet is the last in a label stack"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q70",
             "text": "Which frequency band is typically 'License Exempt' and used for short links providing speeds < 300 Mbps in wireless bridging?",
             "options": [
-                {"id": "a", "text": "3 GHz"},
-                {"id": "b", "text": "2.4 GHz"},
-                {"id": "c", "text": "70 GHz"},
-                {"id": "d", "text": "60 GHz"}
+                {
+                    "id": "a",
+                    "text": "60 GHz"
+                },
+                {
+                    "id": "b",
+                    "text": "2.4 GHz"
+                },
+                {
+                    "id": "c",
+                    "text": "3 GHz"
+                },
+                {
+                    "id": "d",
+                    "text": "70 GHz"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -775,10 +1615,22 @@
             "id": "w4q71",
             "text": "In FTTH architecture, what device in the central office provides access points for voice, data, and video?",
             "options": [
-                {"id": "a", "text": "ONT"},
-                {"id": "b", "text": "ONU"},
-                {"id": "c", "text": "OLT"},
-                {"id": "d", "text": "Splitter"}
+                {
+                    "id": "a",
+                    "text": "Splitter"
+                },
+                {
+                    "id": "b",
+                    "text": "ONT, under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "OLT, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "ONU, considering the network constraints."
+                }
             ],
             "correctAnswer": "c"
         },
@@ -786,10 +1638,22 @@
             "id": "w4q72",
             "text": "What is the 'Forwarding Equivalence Class' (FEC) in MPLS?",
             "options": [
-                {"id": "a", "text": "A list of all routers in the network"},
-                {"id": "b", "text": "A group of packets sharing the same requirements for transport"},
-                {"id": "c", "text": "A protocol for error checking"},
-                {"id": "d", "text": "The speed of the network link"}
+                {
+                    "id": "a",
+                    "text": "A protocol for error checking, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "A group of packets sharing the same requirements for transport"
+                },
+                {
+                    "id": "c",
+                    "text": "The speed of the network link within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "A list of all routers in the network within the system architecture."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -797,32 +1661,68 @@
             "id": "w4q73",
             "text": "In OTN layers, which section refers to the span between any network elements, including amplifiers?",
             "options": [
-                {"id": "a", "text": "Optical Channel (OCh)"},
-                {"id": "b", "text": "Optical Multiplex Section (OMS)"},
-                {"id": "c", "text": "Optical Transmission Section (OTS)"},
-                {"id": "d", "text": "Optical Data Unit (ODU)"}
+                {
+                    "id": "a",
+                    "text": "Optical Multiplex Section (OMS)"
+                },
+                {
+                    "id": "b",
+                    "text": "Optical Data Unit (ODU), as defined in the standard operational procedures."
+                },
+                {
+                    "id": "c",
+                    "text": "Optical Channel (OCh), as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "Optical Transmission Section (OTS)"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q74",
             "text": "The 'EC4B' card in a GEPON system provides how many EPON interfaces?",
             "options": [
-                {"id": "a", "text": "1"},
-                {"id": "b", "text": "2"},
-                {"id": "c", "text": "4"},
-                {"id": "d", "text": "8"}
+                {
+                    "id": "a",
+                    "text": "2"
+                },
+                {
+                    "id": "b",
+                    "text": "4"
+                },
+                {
+                    "id": "c",
+                    "text": "8"
+                },
+                {
+                    "id": "d",
+                    "text": "1"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q75",
             "text": "Which MLLN node has a bit level cross-connection capacity of 127 TS?",
             "options": [
-                {"id": "a", "text": "Basic Node"},
-                {"id": "b", "text": "Micro Node"},
-                {"id": "c", "text": "Mini Node"},
-                {"id": "d", "text": "Midi Node"}
+                {
+                    "id": "a",
+                    "text": "Basic Node"
+                },
+                {
+                    "id": "b",
+                    "text": "Micro Node"
+                },
+                {
+                    "id": "c",
+                    "text": "Mini Node"
+                },
+                {
+                    "id": "d",
+                    "text": "Midi Node"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -830,87 +1730,183 @@
             "id": "w4q76",
             "text": "In a GEPON system logical flow, which card converges data from various service cards and uplinks it to superior equipment?",
             "options": [
-                {"id": "a", "text": "EC4B"},
-                {"id": "b", "text": "PUBA"},
-                {"id": "c", "text": "HSWA (Core Switch Card)"},
-                {"id": "d", "text": "TDM card"}
+                {
+                    "id": "a",
+                    "text": "EC4B, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "TDM card, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "PUBA within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "HSWA (Core Switch Card)"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q77",
             "text": "What is the primary role of the 'Transponder' in a DWDM system?",
             "options": [
-                {"id": "a", "text": "To split the signal into 32 parts"},
-                {"id": "b", "text": "To convert wide-pulse optical signals into narrow specific wavelengths"},
-                {"id": "c", "text": "To provide power to the amplifier"},
-                {"id": "d", "text": "To monitor the temperature of the rack"}
+                {
+                    "id": "a",
+                    "text": "To provide power to the amplifier, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "To split the signal into 32 parts, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "c",
+                    "text": "To convert wide-pulse optical signals into narrow specific wavelengths"
+                },
+                {
+                    "id": "d",
+                    "text": "To monitor the temperature of the rack, under normal operating conditions."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q78",
             "text": "In the OTN frame structure, what is the fixed size (rows x columns) used regardless of line rate?",
             "options": [
-                {"id": "a", "text": "9 x 270"},
-                {"id": "b", "text": "4 x 4080"},
-                {"id": "c", "text": "32 x 32"},
-                {"id": "d", "text": "4 x 2048"}
+                {
+                    "id": "a",
+                    "text": "32 x 32"
+                },
+                {
+                    "id": "b",
+                    "text": "9 x 270"
+                },
+                {
+                    "id": "c",
+                    "text": "4 x 2048"
+                },
+                {
+                    "id": "d",
+                    "text": "4 x 4080"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q79",
             "text": "Which MPLS VPN model requires routing information to be exchanged between customer routers and service provider routers?",
             "options": [
-                {"id": "a", "text": "Overlay Model"},
-                {"id": "b", "text": "Peer-to-Peer Model"},
-                {"id": "c", "text": "Layer 2 Switching"},
-                {"id": "d", "text": "Frame Relay"}
+                {
+                    "id": "a",
+                    "text": "Layer 2 Switching"
+                },
+                {
+                    "id": "b",
+                    "text": "Frame Relay, under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "Peer-to-Peer Model"
+                },
+                {
+                    "id": "d",
+                    "text": "Overlay Model"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q80",
             "text": "In ADSL setup, the 'Restore Defaults' button on HyperTerminal typically sets bits per second to:",
             "options": [
-                {"id": "a", "text": "4800"},
-                {"id": "b", "text": "9600"},
-                {"id": "c", "text": "115200"},
-                {"id": "d", "text": "2.5 Gbps"}
+                {
+                    "id": "a",
+                    "text": "115200"
+                },
+                {
+                    "id": "b",
+                    "text": "2.5 Gbps"
+                },
+                {
+                    "id": "c",
+                    "text": "4800, under normal operating conditions."
+                },
+                {
+                    "id": "d",
+                    "text": "9600, as defined in the standard operational procedures."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q81",
             "text": "In the OTN layering, what is the 'Optical Channel (OCh)'?",
             "options": [
-                {"id": "a", "text": "The physical fiber cable"},
-                {"id": "b", "text": "The section between amplifiers"},
-                {"id": "c", "text": "The end-to-end wavelength connection"},
-                {"id": "d", "text": "The digital wrapper"}
+                {
+                    "id": "a",
+                    "text": "The physical fiber cable, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "The digital wrapper, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "The section between amplifiers"
+                },
+                {
+                    "id": "d",
+                    "text": "The end-to-end wavelength connection"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q82",
             "text": "What is the maximum cross-connect capacity of a 'Micro Node' in MLLN?",
             "options": [
-                {"id": "a", "text": "2 Mbps"},
-                {"id": "b", "text": "64 Mbps"},
-                {"id": "c", "text": "128 Mbps"},
-                {"id": "d", "text": "256 Mbps"}
+                {
+                    "id": "a",
+                    "text": "256 Mbps"
+                },
+                {
+                    "id": "b",
+                    "text": "128 Mbps"
+                },
+                {
+                    "id": "c",
+                    "text": "64 Mbps"
+                },
+                {
+                    "id": "d",
+                    "text": "2 Mbps"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q83",
             "text": "Which MPLS component operates at the edge and handles label assignment and removal?",
             "options": [
-                {"id": "a", "text": "Label Switching Router (LSR)"},
-                {"id": "b", "text": "Label Edge Router (LER)"},
-                {"id": "c", "text": "Provider Router (P)"},
-                {"id": "d", "text": "Customer Edge (CE)"}
+                {
+                    "id": "a",
+                    "text": "Provider Router (P), as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "Label Edge Router (LER)"
+                },
+                {
+                    "id": "c",
+                    "text": "Customer Edge (CE), as defined in the standard operational procedures."
+                },
+                {
+                    "id": "d",
+                    "text": "Label Switching Router (LSR)"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -918,65 +1914,137 @@
             "id": "w4q84",
             "text": "In wireless point-to-point bridging, what is 'Line of Sight (LOS)'?",
             "options": [
-                {"id": "a", "text": "The ability to see the customer"},
-                {"id": "b", "text": "An unobstructed path between two wireless locations"},
-                {"id": "c", "text": "A specific type of fiber cable"},
-                {"id": "d", "text": "The distance to the exchange"}
+                {
+                    "id": "a",
+                    "text": "The ability to see the customer, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "The distance to the exchange, under normal operating conditions."
+                },
+                {
+                    "id": "c",
+                    "text": "An unobstructed path between two wireless locations"
+                },
+                {
+                    "id": "d",
+                    "text": "A specific type of fiber cable, considering the network constraints."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q85",
             "text": "The '10TP2' tributary interface card supports how many 10GE LAN interfaces?",
             "options": [
-                {"id": "a", "text": "1"},
-                {"id": "b", "text": "2"},
-                {"id": "c", "text": "10"},
-                {"id": "d", "text": "20"}
+                {
+                    "id": "a",
+                    "text": "2, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "1, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "20"
+                },
+                {
+                    "id": "d",
+                    "text": "10"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q86",
             "text": "In a GEPON system, 'VLAN Q-in-Q' is used for which situational application?",
             "options": [
-                {"id": "a", "text": "Connecting a single mobile user"},
-                {"id": "b", "text": "Distinguishing services and separating subscribers in business buildings"},
-                {"id": "c", "text": "Providing power to a telephone"},
-                {"id": "d", "text": "Checking for fiber cuts"}
+                {
+                    "id": "a",
+                    "text": "Checking for fiber cuts, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "Connecting a single mobile user, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "Distinguishing services and separating subscribers in business buildings"
+                },
+                {
+                    "id": "d",
+                    "text": "Providing power to a telephone, considering the network constraints."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q87",
             "text": "What is the typical 'contention ratio' for a Broadband internet connection compared to a Leased Line?",
             "options": [
-                {"id": "a", "text": "Leased Line is contended, Broadband is not"},
-                {"id": "b", "text": "Both are un-contended"},
-                {"id": "c", "text": "Broadband is contended, Leased Line is un-contended"},
-                {"id": "d", "text": "1:1 for both"}
+                {
+                    "id": "a",
+                    "text": "Leased Line is contended, Broadband is not"
+                },
+                {
+                    "id": "b",
+                    "text": "Broadband is contended, Leased Line is un-contended"
+                },
+                {
+                    "id": "c",
+                    "text": "Both are un-contended, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "1:1 for both, considering the network constraints."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q88",
             "text": "Which MLLN element is upgradeable from 64 ports to 128 ports?",
             "options": [
-                {"id": "a", "text": "NTU"},
-                {"id": "b", "text": "DXC (64 port version)"},
-                {"id": "c", "text": "Micro Node"},
-                {"id": "d", "text": "ROT"}
+                {
+                    "id": "a",
+                    "text": "NTU, under normal operating conditions."
+                },
+                {
+                    "id": "b",
+                    "text": "ROT, considering the network constraints."
+                },
+                {
+                    "id": "c",
+                    "text": "Micro Node, considering the network constraints."
+                },
+                {
+                    "id": "d",
+                    "text": "DXC (64 port version)"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q89",
             "text": "In OTN architecture, which sub-layer adjusts client signal rates to the transport rate?",
             "options": [
-                {"id": "a", "text": "Optical Transport Unit (OTU)"},
-                {"id": "b", "text": "Optical Channel Payload Unit (OPU)"},
-                {"id": "c", "text": "Optical Data Unit (ODU)"},
-                {"id": "d", "text": "FAS"}
+                {
+                    "id": "a",
+                    "text": "Optical Data Unit (ODU), as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "Optical Channel Payload Unit (OPU)"
+                },
+                {
+                    "id": "c",
+                    "text": "Optical Transport Unit (OTU)"
+                },
+                {
+                    "id": "d",
+                    "text": "FAS, considering the network constraints."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -984,10 +2052,22 @@
             "id": "w4q90",
             "text": "What is 'Dark Fiber'?",
             "options": [
-                {"id": "a", "text": "Faulty fiber optic cable"},
-                {"id": "b", "text": "Fiber with no equipment connected and not transmitting data"},
-                {"id": "c", "text": "Fiber used for night-time only"},
-                {"id": "d", "text": "The outer coating of a fiber cable"}
+                {
+                    "id": "a",
+                    "text": "The outer coating of a fiber cable, verified by technical documentation."
+                },
+                {
+                    "id": "b",
+                    "text": "Fiber with no equipment connected and not transmitting data"
+                },
+                {
+                    "id": "c",
+                    "text": "Fiber used for night-time only within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "Faulty fiber optic cable, verified by technical documentation."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -995,54 +2075,114 @@
             "id": "w4q91",
             "text": "In the context of VLANs, what protocol does 'VTP' stand for?",
             "options": [
-                {"id": "a", "text": "Virtual Transfer Protocol"},
-                {"id": "b", "text": "VLAN Trunking Protocol"},
-                {"id": "c", "text": "Vertical Trunk Pipe"},
-                {"id": "d", "text": "Variable Transport Process"}
+                {
+                    "id": "a",
+                    "text": "Vertical Trunk Pipe"
+                },
+                {
+                    "id": "b",
+                    "text": "Virtual Transfer Protocol"
+                },
+                {
+                    "id": "c",
+                    "text": "VLAN Trunking Protocol"
+                },
+                {
+                    "id": "d",
+                    "text": "Variable Transport Process"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q92",
             "text": "What is the primary benefit of the OTN 'Asynchronous Mapping' compared to SONET/SDH?",
             "options": [
-                {"id": "a", "text": "It requires tighter timing distribution"},
-                {"id": "b", "text": "It does not require Tight Timing Distribution across networks"},
-                {"id": "c", "text": "It is slower but more reliable"},
-                {"id": "d", "text": "It only works over copper"}
+                {
+                    "id": "a",
+                    "text": "It requires tighter timing distribution within the system architecture."
+                },
+                {
+                    "id": "b",
+                    "text": "It only works over copper, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "c",
+                    "text": "It does not require Tight Timing Distribution across networks"
+                },
+                {
+                    "id": "d",
+                    "text": "It is slower but more reliable, under normal operating conditions."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q93",
             "text": "Which type of MLLN VMUX is upgradeable by addition of cards on the same chassis?",
             "options": [
-                {"id": "a", "text": "Type I"},
-                {"id": "b", "text": "Type II"},
-                {"id": "c", "text": "Type III"},
-                {"id": "d", "text": "All types"}
+                {
+                    "id": "a",
+                    "text": "Type III"
+                },
+                {
+                    "id": "b",
+                    "text": "All types"
+                },
+                {
+                    "id": "c",
+                    "text": "Type II"
+                },
+                {
+                    "id": "d",
+                    "text": "Type I, as defined in the standard operational procedures."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q94",
             "text": "What is the bit protocol number for PIMv2 in multicasting?",
             "options": [
-                {"id": "a", "text": "6"},
-                {"id": "b", "text": "17"},
-                {"id": "c", "text": "103"},
-                {"id": "d", "text": "80"}
+                {
+                    "id": "a",
+                    "text": "103"
+                },
+                {
+                    "id": "b",
+                    "text": "80, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "17 within the system architecture."
+                },
+                {
+                    "id": "d",
+                    "text": "6, verified by technical documentation."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q95",
             "text": "In the FONST 5000 architecture, which plane provides the NMI-A interface for the ASON Control Plane?",
             "options": [
-                {"id": "a", "text": "Transport Plane"},
-                {"id": "b", "text": "Management Plane"},
-                {"id": "c", "text": "Control Plane"},
-                {"id": "d", "text": "Subscriber Plane"}
+                {
+                    "id": "a",
+                    "text": "Control Plane"
+                },
+                {
+                    "id": "b",
+                    "text": "Management Plane"
+                },
+                {
+                    "id": "c",
+                    "text": "Transport Plane"
+                },
+                {
+                    "id": "d",
+                    "text": "Subscriber Plane"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -1050,56 +2190,116 @@
             "id": "w4q96",
             "text": "What is the maximum throughput for the 802.11ac Wi-Fi standard?",
             "options": [
-                {"id": "a", "text": "54 Mbps"},
-                {"id": "b", "text": "300 Mbps"},
-                {"id": "c", "text": "500-1000 Mbps"},
-                {"id": "d", "text": "450 Mbps (max for single stream)"}
+                {
+                    "id": "a",
+                    "text": "54 Mbps, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "300 Mbps within the system architecture."
+                },
+                {
+                    "id": "c",
+                    "text": "450 Mbps (max for single stream)"
+                },
+                {
+                    "id": "d",
+                    "text": "500-1000 Mbps, under normal operating conditions."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q97",
             "text": "In the OTN architecture, which section represents the management of multiple colors (wavelengths)?",
             "options": [
-                {"id": "a", "text": "OTS"},
-                {"id": "b", "text": "OMS"},
-                {"id": "c", "text": "OCh"},
-                {"id": "d", "text": "ODU"}
+                {
+                    "id": "a",
+                    "text": "OMS"
+                },
+                {
+                    "id": "b",
+                    "text": "ODU"
+                },
+                {
+                    "id": "c",
+                    "text": "OCh"
+                },
+                {
+                    "id": "d",
+                    "text": "OTS"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q98",
             "text": "What does a 'Splitter' do in a PON network?",
             "options": [
-                {"id": "a", "text": "Amplifies the signal"},
-                {"id": "b", "text": "Enables a single optical fiber to serve multiple premises using passive optics"},
-                {"id": "c", "text": "Converts optical signals to Wi-Fi"},
-                {"id": "d", "text": "Measures the power consumption"}
+                {
+                    "id": "a",
+                    "text": "Amplifies the signal within the system architecture."
+                },
+                {
+                    "id": "b",
+                    "text": "Measures the power consumption, verified by technical documentation."
+                },
+                {
+                    "id": "c",
+                    "text": "Converts optical signals to Wi-Fi, verified by technical documentation."
+                },
+                {
+                    "id": "d",
+                    "text": "Enables a single optical fiber to serve multiple premises using passive optics"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q99",
             "text": "Which MLLN element performs the cross-connect function between various ports?",
             "options": [
-                {"id": "a", "text": "NTU"},
-                {"id": "b", "text": "VMUX"},
-                {"id": "c", "text": "DXC"},
-                {"id": "d", "text": "NMS"}
+                {
+                    "id": "a",
+                    "text": "DXC"
+                },
+                {
+                    "id": "b",
+                    "text": "NTU"
+                },
+                {
+                    "id": "c",
+                    "text": "VMUX"
+                },
+                {
+                    "id": "d",
+                    "text": "NMS"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q100",
             "text": "In a GEPON sub-rack configuration plan, TDM interface cards are preferably inserted into which side slots?",
             "options": [
-                {"id": "a", "text": "Left side"},
-                {"id": "b", "text": "Right side"},
-                {"id": "c", "text": "Middle"},
-                {"id": "d", "text": "Any slot"}
+                {
+                    "id": "a",
+                    "text": "Middle, as defined in the standard operational procedures."
+                },
+                {
+                    "id": "b",
+                    "text": "Right side"
+                },
+                {
+                    "id": "c",
+                    "text": "Any slot"
+                },
+                {
+                    "id": "d",
+                    "text": "Left side"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         }
     ]
 }
