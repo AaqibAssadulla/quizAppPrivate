@@ -15,11 +15,11 @@
                 },
                 {
                     "id": "c",
-                    "text": "1550 nm"
+                    "text": "1310 nm"
                 },
                 {
                     "id": "d",
-                    "text": "1310 nm"
+                    "text": "1550 nm"
                 }
             ],
             "correctAnswer": "a"
@@ -30,22 +30,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "1:16"
-                },
-                {
-                    "id": "b",
-                    "text": "1:32"
-                },
-                {
-                    "id": "c",
                     "text": "1:64"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "1:16"
+                },
+                {
+                    "id": "c",
                     "text": "1:128"
+                },
+                {
+                    "id": "d",
+                    "text": "1:32"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q3",
@@ -53,22 +53,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Home Run Fiber, under normal operating conditions."
+                    "text": "Home Run Fiber"
                 },
                 {
                     "id": "b",
-                    "text": "Point-to-Point, under normal operating conditions."
+                    "text": "Active Star Ethernet (ASE)"
                 },
                 {
                     "id": "c",
-                    "text": "Active Star Ethernet (ASE)"
+                    "text": "Point-to-Point"
                 },
                 {
                     "id": "d",
                     "text": "Passive Optical Network (PON)"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q4",
@@ -76,11 +76,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "1.25 Gbps"
+                    "text": "155 Mbps"
                 },
                 {
                     "id": "b",
-                    "text": "155 Mbps"
+                    "text": "1.25 Gbps"
                 },
                 {
                     "id": "c",
@@ -91,7 +91,7 @@
                     "text": "622 Mbps"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q5",
@@ -99,7 +99,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "MPLS-TP, considering the network constraints."
+                    "text": "MPLS-TP, maintaining high availability across the interface."
                 },
                 {
                     "id": "b",
@@ -107,11 +107,11 @@
                 },
                 {
                     "id": "c",
-                    "text": "CPAN within the system architecture."
+                    "text": "ADSL2+, within the current network framework."
                 },
                 {
                     "id": "d",
-                    "text": "ADSL2+, considering the network constraints."
+                    "text": "CPAN, ensuring compatibility with standard telecom protocols."
                 }
             ],
             "correctAnswer": "b"
@@ -126,18 +126,18 @@
                 },
                 {
                     "id": "b",
-                    "text": "Overhead (OH), under normal operating conditions."
+                    "text": "FEC, ensuring compatibility with standard telecom protocols."
                 },
                 {
                     "id": "c",
-                    "text": "Payload, verified by technical documentation."
+                    "text": "Payload, following the established operational guidelines."
                 },
                 {
                     "id": "d",
-                    "text": "FEC, under normal operating conditions."
+                    "text": "Overhead (OH)"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q7",
@@ -145,22 +145,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "OTN uses fixed frame sizes, while SONET uses fixed frame rates"
+                    "text": "SONET is asynchronous, OTN is synchronous"
                 },
                 {
                     "id": "b",
-                    "text": "OTN requires tight timing distribution, SONET does not"
+                    "text": "SONET uses fixed frame sizes, while OTN uses fixed frame rates"
                 },
                 {
                     "id": "c",
-                    "text": "SONET is asynchronous, OTN is synchronous within the system architecture."
+                    "text": "OTN uses fixed frame sizes, while SONET uses fixed frame rates"
                 },
                 {
                     "id": "d",
-                    "text": "SONET uses fixed frame sizes, while OTN uses fixed frame rates"
+                    "text": "OTN requires tight timing distribution, SONET does not"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q8",
@@ -168,22 +168,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "42"
+                    "text": "64"
                 },
                 {
                     "id": "b",
-                    "text": "24"
-                },
-                {
-                    "id": "c",
                     "text": "16"
                 },
                 {
+                    "id": "c",
+                    "text": "42"
+                },
+                {
                     "id": "d",
-                    "text": "64"
+                    "text": "24"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q9",
@@ -191,22 +191,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "8B/10B"
+                    "text": "PAM4"
                 },
                 {
                     "id": "b",
-                    "text": "PAM4 within the system architecture."
-                },
-                {
-                    "id": "c",
                     "text": "PM-QPSK"
                 },
                 {
+                    "id": "c",
+                    "text": "8B/10B"
+                },
+                {
                     "id": "d",
-                    "text": "NRZ, verified by technical documentation."
+                    "text": "NRZ"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q10",
@@ -214,7 +214,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Optical Channel (OCh), considering the network constraints."
+                    "text": "Optical Data Unit (ODU)"
                 },
                 {
                     "id": "b",
@@ -222,14 +222,14 @@
                 },
                 {
                     "id": "c",
-                    "text": "Optical Data Unit (ODU) within the system architecture."
+                    "text": "Optical Multiplex Section (OMS)"
                 },
                 {
                     "id": "d",
-                    "text": "Optical Multiplex Section (OMS)"
+                    "text": "Optical Channel (OCh)"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q11",
@@ -241,15 +241,15 @@
                 },
                 {
                     "id": "b",
-                    "text": "40G"
-                },
-                {
-                    "id": "c",
                     "text": "500G"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "100G"
+                },
+                {
+                    "id": "d",
+                    "text": "40G"
                 }
             ],
             "correctAnswer": "a"
@@ -260,22 +260,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Forward Error Correction (FEC)"
-                },
-                {
-                    "id": "b",
-                    "text": "Asynchronous Mapping, verified by technical documentation."
-                },
-                {
-                    "id": "c",
                     "text": "Tandem Connection Monitoring (TCM)"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "Asynchronous Mapping"
+                },
+                {
+                    "id": "c",
                     "text": "Wavelength Division Multiplexing"
+                },
+                {
+                    "id": "d",
+                    "text": "Forward Error Correction (FEC)"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q13",
@@ -287,15 +287,15 @@
                 },
                 {
                     "id": "b",
-                    "text": "Management Success"
-                },
-                {
-                    "id": "c",
                     "text": "Main System failure"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "Master Slave error"
+                },
+                {
+                    "id": "d",
+                    "text": "Management Success"
                 }
             ],
             "correctAnswer": "a"
@@ -306,19 +306,19 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "admin, under normal operating conditions."
-                },
-                {
-                    "id": "b",
-                    "text": "root, as defined in the standard operational procedures."
-                },
-                {
-                    "id": "c",
                     "text": "telecomadmin"
                 },
                 {
+                    "id": "b",
+                    "text": "admin"
+                },
+                {
+                    "id": "c",
+                    "text": "root"
+                },
+                {
                     "id": "d",
-                    "text": "GEPON, verified by technical documentation."
+                    "text": "GEPON"
                 }
             ],
             "correctAnswer": "d"
@@ -329,7 +329,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "10.0.0.1, verified by technical documentation."
+                    "text": "10.0.0.1"
                 },
                 {
                     "id": "b",
@@ -356,18 +356,18 @@
                 },
                 {
                     "id": "b",
-                    "text": "1/32"
+                    "text": "0/32"
                 },
                 {
                     "id": "c",
-                    "text": "0/35"
+                    "text": "1/32"
                 },
                 {
                     "id": "d",
-                    "text": "0/32"
+                    "text": "0/35"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q17",
@@ -375,11 +375,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "VCMux, verified by technical documentation."
+                    "text": "VCMux"
                 },
                 {
                     "id": "b",
-                    "text": "IPoA, considering the network constraints."
+                    "text": "IPoA, as implemented in current network deployments."
                 },
                 {
                     "id": "c",
@@ -387,7 +387,7 @@
                 },
                 {
                     "id": "d",
-                    "text": "PPPoA, under normal operating conditions."
+                    "text": "PPPoA"
                 }
             ],
             "correctAnswer": "c"
@@ -398,22 +398,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Tellabs"
+                    "text": "Huawei"
                 },
                 {
                     "id": "b",
-                    "text": "UTStarcom"
+                    "text": "Cisco"
                 },
                 {
                     "id": "c",
-                    "text": "Huawei, considering the network constraints."
+                    "text": "UTStarcom"
                 },
                 {
                     "id": "d",
-                    "text": "Cisco, under normal operating conditions."
+                    "text": "Tellabs"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q19",
@@ -421,22 +421,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "1.0 km"
-                },
-                {
-                    "id": "b",
-                    "text": "7.0 km"
-                },
-                {
-                    "id": "c",
                     "text": "2.5 km"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "1.0 km"
+                },
+                {
+                    "id": "c",
                     "text": "3.5 km"
+                },
+                {
+                    "id": "d",
+                    "text": "7.0 km"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q20",
@@ -444,7 +444,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Automatic billing within the system architecture."
+                    "text": "Increasing bandwidth"
                 },
                 {
                     "id": "b",
@@ -452,11 +452,11 @@
                 },
                 {
                     "id": "c",
-                    "text": "Increasing bandwidth, as defined in the standard operational procedures."
+                    "text": "Automatic billing"
                 },
                 {
                     "id": "d",
-                    "text": "VLAN tagging, considering the network constraints."
+                    "text": "VLAN tagging, as outlined in the technical specifications."
                 }
             ],
             "correctAnswer": "b"
@@ -467,22 +467,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "128"
+                    "text": "64"
                 },
                 {
                     "id": "b",
-                    "text": "64, verified by technical documentation."
-                },
-                {
-                    "id": "c",
                     "text": "256"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "512"
+                },
+                {
+                    "id": "d",
+                    "text": "128"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q22",
@@ -498,14 +498,14 @@
                 },
                 {
                     "id": "c",
-                    "text": "Rs. 10,000"
+                    "text": "Rs. 5,000"
                 },
                 {
                     "id": "d",
-                    "text": "Rs. 5,000"
+                    "text": "Rs. 10,000"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q23",
@@ -517,18 +517,18 @@
                 },
                 {
                     "id": "b",
-                    "text": "Mini Node"
-                },
-                {
-                    "id": "c",
                     "text": "Basic Node"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "Micro Node"
+                },
+                {
+                    "id": "d",
+                    "text": "Mini Node"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q24",
@@ -536,11 +536,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Core Switch, considering the network constraints."
+                    "text": "Label Edge Router (LER)"
                 },
                 {
                     "id": "b",
-                    "text": "Provider Router (P), under normal operating conditions."
+                    "text": "Provider Router (P)"
                 },
                 {
                     "id": "c",
@@ -548,10 +548,10 @@
                 },
                 {
                     "id": "d",
-                    "text": "Label Edge Router (LER)"
+                    "text": "Core Switch, consistent with standard hardware configurations."
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q25",
@@ -559,7 +559,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Frame Encapsulation Control"
+                    "text": "Fast Ethernet Connection"
                 },
                 {
                     "id": "b",
@@ -571,7 +571,7 @@
                 },
                 {
                     "id": "d",
-                    "text": "Fast Ethernet Connection"
+                    "text": "Frame Encapsulation Control"
                 }
             ],
             "correctAnswer": "c"
@@ -582,7 +582,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "64 bits, under normal operating conditions."
+                    "text": "20 bits"
                 },
                 {
                     "id": "b",
@@ -590,11 +590,11 @@
                 },
                 {
                     "id": "c",
-                    "text": "8 bytes, considering the network constraints."
+                    "text": "8 bytes"
                 },
                 {
                     "id": "d",
-                    "text": "20 bits, considering the network constraints."
+                    "text": "64 bits"
                 }
             ],
             "correctAnswer": "b"
@@ -605,22 +605,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "1, considering the network constraints."
+                    "text": "8"
                 },
                 {
                     "id": "b",
-                    "text": "8, verified by technical documentation."
+                    "text": "3"
                 },
                 {
                     "id": "c",
-                    "text": "3, considering the network constraints."
+                    "text": "20"
                 },
                 {
                     "id": "d",
-                    "text": "20"
+                    "text": "1"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q28",
@@ -628,22 +628,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "RSVP (or CR-LDP)"
+                    "text": "BGP, which is critical for efficient data transmission."
                 },
                 {
                     "id": "b",
-                    "text": "PIM, verified by technical documentation."
+                    "text": "RSVP (or CR-LDP)"
                 },
                 {
                     "id": "c",
-                    "text": "BGP, as defined in the standard operational procedures."
+                    "text": "LDP, following the established operational guidelines."
                 },
                 {
                     "id": "d",
-                    "text": "LDP, verified by technical documentation."
+                    "text": "PIM, providing the necessary connectivity for the node."
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q29",
@@ -651,15 +651,15 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Shared PE Model"
-                },
-                {
-                    "id": "b",
                     "text": "Dedicated PE Model"
                 },
                 {
-                    "id": "c",
+                    "id": "b",
                     "text": "Peer-to-Peer Model"
+                },
+                {
+                    "id": "c",
+                    "text": "Shared PE Model"
                 },
                 {
                     "id": "d",
@@ -674,11 +674,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "8 bytes"
+                    "text": "1 byte"
                 },
                 {
                     "id": "b",
-                    "text": "4 bits"
+                    "text": "8 bytes"
                 },
                 {
                     "id": "c",
@@ -686,10 +686,10 @@
                 },
                 {
                     "id": "d",
-                    "text": "1 byte"
+                    "text": "4 bits"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q31",
@@ -697,11 +697,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "TDM slot within the system architecture."
+                    "text": "PVC, as implemented in current network deployments."
                 },
                 {
                     "id": "b",
-                    "text": "FUP pipeline, under normal operating conditions."
+                    "text": "TDM slot"
                 },
                 {
                     "id": "c",
@@ -709,7 +709,7 @@
                 },
                 {
                     "id": "d",
-                    "text": "PVC, verified by technical documentation."
+                    "text": "FUP pipeline"
                 }
             ],
             "correctAnswer": "c"
@@ -724,15 +724,15 @@
                 },
                 {
                     "id": "b",
-                    "text": "2 Mbps"
-                },
-                {
-                    "id": "c",
                     "text": "10 kbps"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "400 kbps"
+                },
+                {
+                    "id": "d",
+                    "text": "2 Mbps"
                 }
             ],
             "correctAnswer": "a"
@@ -766,22 +766,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Layer 1, considering the network constraints."
+                    "text": "Layer 7, as per the technical requirements for this system component."
                 },
                 {
                     "id": "b",
-                    "text": "Layer 2 (Data Link)"
-                },
-                {
-                    "id": "c",
                     "text": "Layer 3 (Network)"
                 },
                 {
+                    "id": "c",
+                    "text": "Layer 1, providing the necessary connectivity for the node."
+                },
+                {
                     "id": "d",
-                    "text": "Layer 7, as defined in the standard operational procedures."
+                    "text": "Layer 2 (Data Link)"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q35",
@@ -789,22 +789,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "802.1Q"
-                },
-                {
-                    "id": "b",
                     "text": "802.15"
                 },
                 {
-                    "id": "c",
+                    "id": "b",
                     "text": "802.11ac"
+                },
+                {
+                    "id": "c",
+                    "text": "802.1Q"
                 },
                 {
                     "id": "d",
                     "text": "802.3u"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q36",
@@ -812,22 +812,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "A single dedicated telephone line, considering the network constraints."
+                    "text": "A physical copper pipe"
                 },
                 {
                     "id": "b",
-                    "text": "A battery backup unit, verified by technical documentation."
-                },
-                {
-                    "id": "c",
                     "text": "A network link carrying multiple VLANs identified by tags"
                 },
                 {
+                    "id": "c",
+                    "text": "A battery backup unit"
+                },
+                {
                     "id": "d",
-                    "text": "A physical copper pipe, considering the network constraints."
+                    "text": "A single dedicated telephone line"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q37",
@@ -835,22 +835,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Optical Splitter, as defined in the standard operational procedures."
+                    "text": "High-speed interconnection bus"
                 },
                 {
                     "id": "b",
-                    "text": "USB 3.0 within the system architecture."
+                    "text": "Optical Splitter"
                 },
                 {
                     "id": "c",
-                    "text": "Serial RS232, considering the network constraints."
+                    "text": "Serial RS232"
                 },
                 {
                     "id": "d",
-                    "text": "High-speed interconnection bus"
+                    "text": "USB 3.0, aligned with the required architecture standards."
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q38",
@@ -858,7 +858,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "EC4B"
+                    "text": "HSWA"
                 },
                 {
                     "id": "b",
@@ -870,10 +870,10 @@
                 },
                 {
                     "id": "d",
-                    "text": "HSWA"
+                    "text": "EC4B"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q39",
@@ -881,22 +881,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "XG"
-                },
-                {
-                    "id": "b",
-                    "text": "FE"
-                },
-                {
-                    "id": "c",
                     "text": "E1"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "XG"
+                },
+                {
+                    "id": "c",
                     "text": "GE"
+                },
+                {
+                    "id": "d",
+                    "text": "FE"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q40",
@@ -904,22 +904,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "To extend VLAN numbers and remove resource bottlenecks by adding Service-VLAN on top of Customer-VLAN"
+                    "text": "To encrypt voice calls, under specified operational load."
                 },
                 {
                     "id": "b",
-                    "text": "To encrypt voice calls, verified by technical documentation."
+                    "text": "To provide power to the ONT"
                 },
                 {
                     "id": "c",
-                    "text": "To increase internet speed, as defined in the standard operational procedures."
+                    "text": "To increase internet speed, aligned with the required architecture standards."
                 },
                 {
                     "id": "d",
-                    "text": "To provide power to the ONT, verified by technical documentation."
+                    "text": "To extend VLAN numbers and remove resource bottlenecks by adding Service-VLAN on top of Customer-VLAN"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q41",
@@ -931,11 +931,11 @@
                 },
                 {
                     "id": "b",
-                    "text": "Optical Splitter"
+                    "text": "Uplink card"
                 },
                 {
                     "id": "c",
-                    "text": "Uplink card, under normal operating conditions."
+                    "text": "Optical Splitter"
                 },
                 {
                     "id": "d",
@@ -950,22 +950,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "ONU stripping default tags and labeling valid tags as services are uplinked"
+                    "text": "Converting optical signals to electrical"
                 },
                 {
                     "id": "b",
-                    "text": "Translating IP addresses to MAC addresses within the system architecture."
+                    "text": "Translating IP addresses to MAC addresses"
                 },
                 {
                     "id": "c",
-                    "text": "Converting optical signals to electrical, under normal operating conditions."
+                    "text": "ONU stripping default tags and labeling valid tags as services are uplinked"
                 },
                 {
                     "id": "d",
-                    "text": "Mapping phone numbers to VLAN IDs, under normal operating conditions."
+                    "text": "Mapping phone numbers to VLAN IDs"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q43",
@@ -973,22 +973,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "OLT, under normal operating conditions."
+                    "text": "OLT"
                 },
                 {
                     "id": "b",
-                    "text": "STB, under normal operating conditions."
+                    "text": "STB"
                 },
                 {
                     "id": "c",
-                    "text": "ONT, as defined in the standard operational procedures."
+                    "text": "Splitter"
                 },
                 {
                     "id": "d",
-                    "text": "Splitter"
+                    "text": "ONT"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q44",
@@ -996,22 +996,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Programming upstream transmissions into specific time slots"
+                    "text": "Identifying the OLT model"
                 },
                 {
                     "id": "b",
-                    "text": "Measuring the weight of the cable, considering the network constraints."
+                    "text": "Programming upstream transmissions into specific time slots"
                 },
                 {
                     "id": "c",
-                    "text": "Identifying the OLT model, as defined in the standard operational procedures."
+                    "text": "Checking for battery leakage"
                 },
                 {
                     "id": "d",
-                    "text": "Checking for battery leakage, verified by technical documentation."
+                    "text": "Measuring the weight of the cable"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q45",
@@ -1019,22 +1019,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Optical Data Unit (ODU)"
+                    "text": "Optical Transport Unit (OTU)"
                 },
                 {
                     "id": "b",
-                    "text": "Optical Channel (OCh)"
+                    "text": "Optical Data Unit (ODU)"
                 },
                 {
                     "id": "c",
-                    "text": "Optical Payload Unit (OPU)"
+                    "text": "Optical Channel (OCh)"
                 },
                 {
                     "id": "d",
-                    "text": "Optical Transport Unit (OTU)"
+                    "text": "Optical Payload Unit (OPU)"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q46",
@@ -1042,22 +1042,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Configurable demultiplexing from any wavelength to any port"
+                    "text": "Automatic bill generation"
                 },
                 {
                     "id": "b",
-                    "text": "TDM clock recovery within the system architecture."
+                    "text": "Configurable demultiplexing from any wavelength to any port"
                 },
                 {
                     "id": "c",
-                    "text": "Automatic bill generation, under normal operating conditions."
+                    "text": "Power supply regulation"
                 },
                 {
                     "id": "d",
-                    "text": "Power supply regulation, as defined in the standard operational procedures."
+                    "text": "TDM clock recovery, consistent with standard hardware configurations."
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q47",
@@ -1069,15 +1069,15 @@
                 },
                 {
                     "id": "b",
-                    "text": "Terminal within the system architecture."
+                    "text": "Terabit, which is critical for efficient data transmission."
                 },
                 {
                     "id": "c",
-                    "text": "Terabit, as defined in the standard operational procedures."
+                    "text": "Terminal"
                 },
                 {
                     "id": "d",
-                    "text": "Transport, verified by technical documentation."
+                    "text": "Transport"
                 }
             ],
             "correctAnswer": "a"
@@ -1088,22 +1088,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Tellabs 8130"
+                    "text": "Tellabs 8170"
                 },
                 {
                     "id": "b",
-                    "text": "Tellabs 8110"
+                    "text": "Tellabs 8130"
                 },
                 {
                     "id": "c",
-                    "text": "Tellabs 8140"
+                    "text": "Tellabs 8110"
                 },
                 {
                     "id": "d",
-                    "text": "Tellabs 8170"
+                    "text": "Tellabs 8140"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q49",
@@ -1111,11 +1111,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "128 kbps"
+                    "text": "1.544 Mbps"
                 },
                 {
                     "id": "b",
-                    "text": "16 kbps"
+                    "text": "128 kbps"
                 },
                 {
                     "id": "c",
@@ -1123,7 +1123,7 @@
                 },
                 {
                     "id": "d",
-                    "text": "1.544 Mbps"
+                    "text": "16 kbps"
                 }
             ],
             "correctAnswer": "c"
@@ -1134,15 +1134,15 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "CE, considering the network constraints."
+                    "text": "LER"
                 },
                 {
                     "id": "b",
-                    "text": "ONT"
+                    "text": "CE"
                 },
                 {
                     "id": "c",
-                    "text": "LER"
+                    "text": "ONT"
                 },
                 {
                     "id": "d",
@@ -1157,22 +1157,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Only in Bangalore, as defined in the standard operational procedures."
-                },
-                {
-                    "id": "b",
-                    "text": "Every village, verified by technical documentation."
-                },
-                {
-                    "id": "c",
                     "text": "Mumbai, Delhi, Kolkata, Chennai"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "Every village"
+                },
+                {
+                    "id": "c",
                     "text": "In every SSA headquarters"
+                },
+                {
+                    "id": "d",
+                    "text": "Only in Bangalore"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q52",
@@ -1180,22 +1180,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Orderwire overhead processing, under normal operating conditions."
+                    "text": "Orderwire overhead processing"
                 },
                 {
                     "id": "b",
-                    "text": "Line terminal node for adding/dropping all services"
+                    "text": "Compensating optical power for long distance"
                 },
                 {
                     "id": "c",
-                    "text": "In-line amplification, as defined in the standard operational procedures."
+                    "text": "Line terminal node for adding/dropping all services"
                 },
                 {
                     "id": "d",
-                    "text": "Compensating optical power for long distance"
+                    "text": "In-line amplification, providing the necessary connectivity for the node."
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q53",
@@ -1203,22 +1203,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "The OLT chassis directly"
+                    "text": "A single location"
                 },
                 {
                     "id": "b",
-                    "text": "A single location, considering the network constraints."
+                    "text": "The customer's living room"
                 },
                 {
                     "id": "c",
-                    "text": "The customer's living room"
+                    "text": "The OLT chassis directly"
                 },
                 {
                     "id": "d",
                     "text": "Multiple locations across the city"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q54",
@@ -1226,22 +1226,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "To wait for customer payment, verified by technical documentation."
+                    "text": "To wait for customer payment"
                 },
                 {
                     "id": "b",
-                    "text": "To delay billing within the system architecture."
-                },
-                {
-                    "id": "c",
                     "text": "To prevent frequent switching if a failed link is intermittent"
                 },
                 {
+                    "id": "c",
+                    "text": "To delay billing, under specified operational load."
+                },
+                {
                     "id": "d",
-                    "text": "To allow the laser to cool down within the system architecture."
+                    "text": "To allow the laser to cool down"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q55",
@@ -1249,19 +1249,19 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Exp, as defined in the standard operational procedures."
+                    "text": "Exp"
                 },
                 {
                     "id": "b",
-                    "text": "Label"
+                    "text": "S, as implemented in current network deployments."
                 },
                 {
                     "id": "c",
-                    "text": "TTL, as defined in the standard operational procedures."
+                    "text": "TTL"
                 },
                 {
                     "id": "d",
-                    "text": "S, as defined in the standard operational procedures."
+                    "text": "Label"
                 }
             ],
             "correctAnswer": "c"
@@ -1272,22 +1272,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Explicit Routing"
-                },
-                {
-                    "id": "b",
                     "text": "Static Tagging"
                 },
                 {
-                    "id": "c",
+                    "id": "b",
                     "text": "Hop-by-hop Routing"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "Source Routing"
+                },
+                {
+                    "id": "d",
+                    "text": "Explicit Routing"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q57",
@@ -1295,22 +1295,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Network Testing Unit"
+                    "text": "Normal Transport User"
                 },
                 {
                     "id": "b",
-                    "text": "Node Transmission Utility"
+                    "text": "Network Testing Unit"
                 },
                 {
                     "id": "c",
-                    "text": "Network Termination Unit"
+                    "text": "Node Transmission Utility"
                 },
                 {
                     "id": "d",
-                    "text": "Normal Transport User"
+                    "text": "Network Termination Unit"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q58",
@@ -1318,22 +1318,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Type II"
+                    "text": "Type IV"
                 },
                 {
                     "id": "b",
-                    "text": "Type I"
+                    "text": "Type II"
                 },
                 {
                     "id": "c",
-                    "text": "Type III"
+                    "text": "Type I"
                 },
                 {
                     "id": "d",
-                    "text": "Type IV"
+                    "text": "Type III"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q59",
@@ -1341,11 +1341,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Broadcast"
+                    "text": "Upstream"
                 },
                 {
                     "id": "b",
-                    "text": "Loopback"
+                    "text": "Broadcast"
                 },
                 {
                     "id": "c",
@@ -1353,10 +1353,10 @@
                 },
                 {
                     "id": "d",
-                    "text": "Upstream"
+                    "text": "Loopback"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q60",
@@ -1364,22 +1364,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Clock synchronization"
-                },
-                {
-                    "id": "b",
                     "text": "Channel power adjustment (VOA)"
                 },
                 {
-                    "id": "c",
+                    "id": "b",
                     "text": "Billing data collection"
                 },
                 {
+                    "id": "c",
+                    "text": "Clock synchronization"
+                },
+                {
                     "id": "d",
-                    "text": "Orderwire processing, as defined in the standard operational procedures."
+                    "text": "Orderwire processing"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q61",
@@ -1391,18 +1391,18 @@
                 },
                 {
                     "id": "b",
-                    "text": "99.982%"
+                    "text": "99.0%"
                 },
                 {
                     "id": "c",
-                    "text": "99.9%"
+                    "text": "99.982%"
                 },
                 {
                     "id": "d",
-                    "text": "99.0%"
+                    "text": "99.9%"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q62",
@@ -1410,22 +1410,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "OCh"
-                },
-                {
-                    "id": "b",
-                    "text": "ODU"
-                },
-                {
-                    "id": "c",
                     "text": "OTU"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
                     "text": "OPU"
+                },
+                {
+                    "id": "c",
+                    "text": "OCh"
+                },
+                {
+                    "id": "d",
+                    "text": "ODU"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q63",
@@ -1433,22 +1433,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Ordered, under normal operating conditions."
+                    "text": "Liberal"
                 },
                 {
                     "id": "b",
-                    "text": "Conservative"
-                },
-                {
-                    "id": "c",
                     "text": "Independent"
                 },
                 {
+                    "id": "c",
+                    "text": "Conservative"
+                },
+                {
                     "id": "d",
-                    "text": "Liberal, verified by technical documentation."
+                    "text": "Ordered"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q64",
@@ -1456,22 +1456,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "There is no difference within the system architecture."
+                    "text": "There is no difference"
                 },
                 {
                     "id": "b",
-                    "text": "SDSL works over fiber, ADSL over copper"
+                    "text": "SDSL is symmetrical (same upload and download speed)"
                 },
                 {
                     "id": "c",
-                    "text": "SDSL is faster for downloads, considering the network constraints."
+                    "text": "SDSL works over fiber, ADSL over copper"
                 },
                 {
                     "id": "d",
-                    "text": "SDSL is symmetrical (same upload and download speed)"
+                    "text": "SDSL is faster for downloads"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q65",
@@ -1479,22 +1479,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "100G"
-                },
-                {
-                    "id": "b",
-                    "text": "1G, considering the network constraints."
-                },
-                {
-                    "id": "c",
                     "text": "10G"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "1G"
+                },
+                {
+                    "id": "c",
                     "text": "40G"
+                },
+                {
+                    "id": "d",
+                    "text": "100G"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q66",
@@ -1502,22 +1502,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Increases bandwidth within the system architecture."
-                },
-                {
-                    "id": "b",
                     "text": "Reduces the number of labels by merging paths to the same destination"
                 },
                 {
+                    "id": "b",
+                    "text": "Increases bandwidth"
+                },
+                {
                     "id": "c",
-                    "text": "Shortens the distance, under normal operating conditions."
+                    "text": "Encrypts data, under specified operational load."
                 },
                 {
                     "id": "d",
-                    "text": "Encrypts data, as defined in the standard operational procedures."
+                    "text": "Shortens the distance"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q67",
@@ -1525,22 +1525,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "V.35, verified by technical documentation."
+                    "text": "RJ45"
                 },
                 {
                     "id": "b",
-                    "text": "RJ45, verified by technical documentation."
-                },
-                {
-                    "id": "c",
                     "text": "Coaxial"
                 },
                 {
+                    "id": "c",
+                    "text": "V.35"
+                },
+                {
                     "id": "d",
-                    "text": "RJ11, considering the network constraints."
+                    "text": "RJ11"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q68",
@@ -1548,22 +1548,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Cluster Node"
-                },
-                {
-                    "id": "b",
                     "text": "Midi Node"
                 },
                 {
+                    "id": "b",
+                    "text": "Cluster Node"
+                },
+                {
                     "id": "c",
-                    "text": "Main DXC, considering the network constraints."
+                    "text": "Switch Node"
                 },
                 {
                     "id": "d",
-                    "text": "Switch Node"
+                    "text": "Main DXC"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q69",
@@ -1571,22 +1571,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "To identify the source, verified by technical documentation."
+                    "text": "To indicate the start of the packet"
                 },
                 {
                     "id": "b",
-                    "text": "To indicate the start of the packet within the system architecture."
+                    "text": "To identify the source"
                 },
                 {
                     "id": "c",
-                    "text": "To signal an error within the system architecture."
+                    "text": "To indicate the packet is the last in a label stack"
                 },
                 {
                     "id": "d",
-                    "text": "To indicate the packet is the last in a label stack"
+                    "text": "To signal an error, as implemented in current network deployments."
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q70",
@@ -1594,7 +1594,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "60 GHz"
+                    "text": "70 GHz"
                 },
                 {
                     "id": "b",
@@ -1606,7 +1606,7 @@
                 },
                 {
                     "id": "d",
-                    "text": "70 GHz"
+                    "text": "60 GHz"
                 }
             ],
             "correctAnswer": "b"
@@ -1617,22 +1617,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Splitter"
+                    "text": "ONT"
                 },
                 {
                     "id": "b",
-                    "text": "ONT, under normal operating conditions."
+                    "text": "ONU"
                 },
                 {
                     "id": "c",
-                    "text": "OLT, as defined in the standard operational procedures."
+                    "text": "Splitter"
                 },
                 {
                     "id": "d",
-                    "text": "ONU, considering the network constraints."
+                    "text": "OLT"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q72",
@@ -1640,22 +1640,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "A protocol for error checking, under normal operating conditions."
+                    "text": "A protocol for error checking"
                 },
                 {
                     "id": "b",
-                    "text": "A group of packets sharing the same requirements for transport"
+                    "text": "The speed of the network link"
                 },
                 {
                     "id": "c",
-                    "text": "The speed of the network link within the system architecture."
+                    "text": "A list of all routers in the network"
                 },
                 {
                     "id": "d",
-                    "text": "A list of all routers in the network within the system architecture."
+                    "text": "A group of packets sharing the same requirements for transport"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q73",
@@ -1663,15 +1663,15 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Optical Multiplex Section (OMS)"
+                    "text": "Optical Channel (OCh)"
                 },
                 {
                     "id": "b",
-                    "text": "Optical Data Unit (ODU), as defined in the standard operational procedures."
+                    "text": "Optical Multiplex Section (OMS)"
                 },
                 {
                     "id": "c",
-                    "text": "Optical Channel (OCh), as defined in the standard operational procedures."
+                    "text": "Optical Data Unit (ODU)"
                 },
                 {
                     "id": "d",
@@ -1709,22 +1709,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Basic Node"
-                },
-                {
-                    "id": "b",
-                    "text": "Micro Node"
-                },
-                {
-                    "id": "c",
                     "text": "Mini Node"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "Basic Node"
+                },
+                {
+                    "id": "c",
                     "text": "Midi Node"
+                },
+                {
+                    "id": "d",
+                    "text": "Micro Node"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q76",
@@ -1732,22 +1732,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "EC4B, as defined in the standard operational procedures."
+                    "text": "EC4B, following the established operational guidelines."
                 },
                 {
                     "id": "b",
-                    "text": "TDM card, considering the network constraints."
+                    "text": "HSWA (Core Switch Card)"
                 },
                 {
                     "id": "c",
-                    "text": "PUBA within the system architecture."
+                    "text": "TDM card"
                 },
                 {
                     "id": "d",
-                    "text": "HSWA (Core Switch Card)"
+                    "text": "PUBA, following the established operational guidelines."
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q77",
@@ -1755,22 +1755,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "To provide power to the amplifier, under normal operating conditions."
-                },
-                {
-                    "id": "b",
-                    "text": "To split the signal into 32 parts, as defined in the standard operational procedures."
-                },
-                {
-                    "id": "c",
                     "text": "To convert wide-pulse optical signals into narrow specific wavelengths"
                 },
                 {
+                    "id": "b",
+                    "text": "To provide power to the amplifier"
+                },
+                {
+                    "id": "c",
+                    "text": "To monitor the temperature of the rack"
+                },
+                {
                     "id": "d",
-                    "text": "To monitor the temperature of the rack, under normal operating conditions."
+                    "text": "To split the signal into 32 parts"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q78",
@@ -1778,22 +1778,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "32 x 32"
-                },
-                {
-                    "id": "b",
                     "text": "9 x 270"
                 },
                 {
-                    "id": "c",
+                    "id": "b",
                     "text": "4 x 2048"
                 },
                 {
-                    "id": "d",
+                    "id": "c",
                     "text": "4 x 4080"
+                },
+                {
+                    "id": "d",
+                    "text": "32 x 32"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q79",
@@ -1801,22 +1801,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Layer 2 Switching"
-                },
-                {
-                    "id": "b",
-                    "text": "Frame Relay, under normal operating conditions."
-                },
-                {
-                    "id": "c",
                     "text": "Peer-to-Peer Model"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
                     "text": "Overlay Model"
+                },
+                {
+                    "id": "c",
+                    "text": "Layer 2 Switching"
+                },
+                {
+                    "id": "d",
+                    "text": "Frame Relay"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q80",
@@ -1824,22 +1824,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "115200"
-                },
-                {
-                    "id": "b",
                     "text": "2.5 Gbps"
                 },
                 {
+                    "id": "b",
+                    "text": "115200"
+                },
+                {
                     "id": "c",
-                    "text": "4800, under normal operating conditions."
+                    "text": "9600"
                 },
                 {
                     "id": "d",
-                    "text": "9600, as defined in the standard operational procedures."
+                    "text": "4800"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q81",
@@ -1847,22 +1847,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "The physical fiber cable, verified by technical documentation."
+                    "text": "The end-to-end wavelength connection"
                 },
                 {
                     "id": "b",
-                    "text": "The digital wrapper, verified by technical documentation."
+                    "text": "The digital wrapper"
                 },
                 {
                     "id": "c",
-                    "text": "The section between amplifiers"
+                    "text": "The physical fiber cable"
                 },
                 {
                     "id": "d",
-                    "text": "The end-to-end wavelength connection"
+                    "text": "The section between amplifiers"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q82",
@@ -1893,22 +1893,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Provider Router (P), as defined in the standard operational procedures."
+                    "text": "Customer Edge (CE)"
                 },
                 {
                     "id": "b",
-                    "text": "Label Edge Router (LER)"
+                    "text": "Label Switching Router (LSR)"
                 },
                 {
                     "id": "c",
-                    "text": "Customer Edge (CE), as defined in the standard operational procedures."
+                    "text": "Provider Router (P)"
                 },
                 {
                     "id": "d",
-                    "text": "Label Switching Router (LSR)"
+                    "text": "Label Edge Router (LER)"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q84",
@@ -1916,22 +1916,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "The ability to see the customer, as defined in the standard operational procedures."
-                },
-                {
-                    "id": "b",
-                    "text": "The distance to the exchange, under normal operating conditions."
-                },
-                {
-                    "id": "c",
                     "text": "An unobstructed path between two wireless locations"
                 },
                 {
+                    "id": "b",
+                    "text": "The ability to see the customer"
+                },
+                {
+                    "id": "c",
+                    "text": "A specific type of fiber cable"
+                },
+                {
                     "id": "d",
-                    "text": "A specific type of fiber cable, considering the network constraints."
+                    "text": "The distance to the exchange"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q85",
@@ -1939,22 +1939,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "2, under normal operating conditions."
-                },
-                {
-                    "id": "b",
-                    "text": "1, considering the network constraints."
-                },
-                {
-                    "id": "c",
                     "text": "20"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "2"
+                },
+                {
+                    "id": "c",
                     "text": "10"
+                },
+                {
+                    "id": "d",
+                    "text": "1"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q86",
@@ -1962,22 +1962,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Checking for fiber cuts, under normal operating conditions."
+                    "text": "Connecting a single mobile user"
                 },
                 {
                     "id": "b",
-                    "text": "Connecting a single mobile user, considering the network constraints."
-                },
-                {
-                    "id": "c",
                     "text": "Distinguishing services and separating subscribers in business buildings"
                 },
                 {
+                    "id": "c",
+                    "text": "Providing power to a telephone"
+                },
+                {
                     "id": "d",
-                    "text": "Providing power to a telephone, considering the network constraints."
+                    "text": "Checking for fiber cuts, as outlined in the technical specifications."
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q87",
@@ -1985,22 +1985,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Leased Line is contended, Broadband is not"
-                },
-                {
-                    "id": "b",
                     "text": "Broadband is contended, Leased Line is un-contended"
                 },
                 {
+                    "id": "b",
+                    "text": "Both are un-contended"
+                },
+                {
                     "id": "c",
-                    "text": "Both are un-contended, considering the network constraints."
+                    "text": "1:1 for both, within the current network framework."
                 },
                 {
                     "id": "d",
-                    "text": "1:1 for both, considering the network constraints."
+                    "text": "Leased Line is contended, Broadband is not"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q88",
@@ -2008,15 +2008,15 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "NTU, under normal operating conditions."
+                    "text": "Micro Node"
                 },
                 {
                     "id": "b",
-                    "text": "ROT, considering the network constraints."
+                    "text": "ROT, under specified operational load."
                 },
                 {
                     "id": "c",
-                    "text": "Micro Node, considering the network constraints."
+                    "text": "NTU, providing the necessary connectivity for the node."
                 },
                 {
                     "id": "d",
@@ -2031,11 +2031,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Optical Data Unit (ODU), as defined in the standard operational procedures."
+                    "text": "Optical Data Unit (ODU)"
                 },
                 {
                     "id": "b",
-                    "text": "Optical Channel Payload Unit (OPU)"
+                    "text": "FAS, ensuring compatibility with standard telecom protocols."
                 },
                 {
                     "id": "c",
@@ -2043,10 +2043,10 @@
                 },
                 {
                     "id": "d",
-                    "text": "FAS, considering the network constraints."
+                    "text": "Optical Channel Payload Unit (OPU)"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q90",
@@ -2054,7 +2054,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "The outer coating of a fiber cable, verified by technical documentation."
+                    "text": "The outer coating of a fiber cable"
                 },
                 {
                     "id": "b",
@@ -2062,11 +2062,11 @@
                 },
                 {
                     "id": "c",
-                    "text": "Fiber used for night-time only within the system architecture."
+                    "text": "Fiber used for night-time only"
                 },
                 {
                     "id": "d",
-                    "text": "Faulty fiber optic cable, verified by technical documentation."
+                    "text": "Faulty fiber optic cable"
                 }
             ],
             "correctAnswer": "b"
@@ -2077,22 +2077,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Vertical Trunk Pipe"
-                },
-                {
-                    "id": "b",
-                    "text": "Virtual Transfer Protocol"
-                },
-                {
-                    "id": "c",
                     "text": "VLAN Trunking Protocol"
                 },
                 {
-                    "id": "d",
+                    "id": "b",
+                    "text": "Vertical Trunk Pipe"
+                },
+                {
+                    "id": "c",
                     "text": "Variable Transport Process"
+                },
+                {
+                    "id": "d",
+                    "text": "Virtual Transfer Protocol"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w4q92",
@@ -2100,22 +2100,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "It requires tighter timing distribution within the system architecture."
+                    "text": "It only works over copper"
                 },
                 {
                     "id": "b",
-                    "text": "It only works over copper, as defined in the standard operational procedures."
+                    "text": "It is slower but more reliable"
                 },
                 {
                     "id": "c",
-                    "text": "It does not require Tight Timing Distribution across networks"
+                    "text": "It requires tighter timing distribution"
                 },
                 {
                     "id": "d",
-                    "text": "It is slower but more reliable, under normal operating conditions."
+                    "text": "It does not require Tight Timing Distribution across networks"
                 }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q93",
@@ -2123,7 +2123,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Type III"
+                    "text": "Type II"
                 },
                 {
                     "id": "b",
@@ -2131,14 +2131,14 @@
                 },
                 {
                     "id": "c",
-                    "text": "Type II"
+                    "text": "Type III"
                 },
                 {
                     "id": "d",
-                    "text": "Type I, as defined in the standard operational procedures."
+                    "text": "Type I"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q94",
@@ -2150,15 +2150,15 @@
                 },
                 {
                     "id": "b",
-                    "text": "80, verified by technical documentation."
+                    "text": "17"
                 },
                 {
                     "id": "c",
-                    "text": "17 within the system architecture."
+                    "text": "6, as per the technical requirements for this system component."
                 },
                 {
                     "id": "d",
-                    "text": "6, verified by technical documentation."
+                    "text": "80"
                 }
             ],
             "correctAnswer": "a"
@@ -2169,22 +2169,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Control Plane"
+                    "text": "Subscriber Plane"
                 },
                 {
                     "id": "b",
-                    "text": "Management Plane"
+                    "text": "Control Plane"
                 },
                 {
                     "id": "c",
-                    "text": "Transport Plane"
+                    "text": "Management Plane"
                 },
                 {
                     "id": "d",
-                    "text": "Subscriber Plane"
+                    "text": "Transport Plane"
                 }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q96",
@@ -2192,22 +2192,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "54 Mbps, as defined in the standard operational procedures."
-                },
-                {
-                    "id": "b",
-                    "text": "300 Mbps within the system architecture."
-                },
-                {
-                    "id": "c",
                     "text": "450 Mbps (max for single stream)"
                 },
                 {
+                    "id": "b",
+                    "text": "500-1000 Mbps"
+                },
+                {
+                    "id": "c",
+                    "text": "300 Mbps, improving overall system reliability."
+                },
+                {
                     "id": "d",
-                    "text": "500-1000 Mbps, under normal operating conditions."
+                    "text": "54 Mbps, aligned with the required architecture standards."
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q97",
@@ -2215,7 +2215,7 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "OMS"
+                    "text": "OCh"
                 },
                 {
                     "id": "b",
@@ -2223,14 +2223,14 @@
                 },
                 {
                     "id": "c",
-                    "text": "OCh"
+                    "text": "OMS"
                 },
                 {
                     "id": "d",
                     "text": "OTS"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w4q98",
@@ -2238,22 +2238,22 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Amplifies the signal within the system architecture."
+                    "text": "Converts optical signals to Wi-Fi"
                 },
                 {
                     "id": "b",
-                    "text": "Measures the power consumption, verified by technical documentation."
+                    "text": "Enables a single optical fiber to serve multiple premises using passive optics"
                 },
                 {
                     "id": "c",
-                    "text": "Converts optical signals to Wi-Fi, verified by technical documentation."
+                    "text": "Amplifies the signal, ensuring compatibility with standard telecom protocols."
                 },
                 {
                     "id": "d",
-                    "text": "Enables a single optical fiber to serve multiple premises using passive optics"
+                    "text": "Measures the power consumption"
                 }
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "w4q99",
@@ -2261,11 +2261,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "DXC"
+                    "text": "NTU"
                 },
                 {
                     "id": "b",
-                    "text": "NTU"
+                    "text": "NMS"
                 },
                 {
                     "id": "c",
@@ -2273,10 +2273,10 @@
                 },
                 {
                     "id": "d",
-                    "text": "NMS"
+                    "text": "DXC"
                 }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "w4q100",
@@ -2284,11 +2284,11 @@
             "options": [
                 {
                     "id": "a",
-                    "text": "Middle, as defined in the standard operational procedures."
+                    "text": "Right side"
                 },
                 {
                     "id": "b",
-                    "text": "Right side"
+                    "text": "Middle"
                 },
                 {
                     "id": "c",
