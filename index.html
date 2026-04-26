@@ -119,6 +119,9 @@
                 <p>Please select a question bank to begin the quiz.</p>
             </div>
         </div>
+		<div>
+			<div class="score-display">Score: <span id="scoreDuplicate">0</span>/<span id="total-questionsDuplicate">0</span></div>
+		</div>
     </div>
 
     <script>
@@ -145,6 +148,7 @@
                 quizData = await response.json();
                 renderQuiz();
                 document.getElementById('total-questions').textContent = quizData.questions.length;
+                document.getElementById('total-questionsDuplicate').textContent = quizData.questions.length;
                 score = 0;
                 document.getElementById('score').textContent = score;
                 userAnswers = {};
@@ -245,12 +249,14 @@
                 if (!userAnswers[questionId] || userAnswers[questionId] !== question.correctAnswer) {
                     score++;
                     document.getElementById('score').textContent = score;
+                    document.getElementById('scoreDuplicate').textContent = score;
                 }
             } else {
                 // Deduct score if previously correct
                 if (userAnswers[questionId] === question.correctAnswer) {
                     score--;
                     document.getElementById('score').textContent = score;
+                    document.getElementById('scoreDuplicate').textContent = score;
                 }
             }
             
